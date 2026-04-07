@@ -14,8 +14,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN_SECRET }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,7 +28,7 @@ jobs:
 
       - name: Create .env file from secrets
         run: |
-          echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN_SECRET }}" > .env
+          echo "GITHUB_TOKEN=${{ secrets.HWEST_TOKEN }}" > .env
           echo "GITHUB_USERNAME=schittigori-lab" >> .env
           echo "GITHUB_REPO=hwest-auction-data" >> .env
 
