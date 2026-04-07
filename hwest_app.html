@@ -418,9 +418,16 @@ function renderAuctions(auctions) {
     return;
   }
 
-  const today = new Date().toDateString();
+  const today = new Date();
+  const todayStr = today.toLocaleDateString('en-US', {month:'long', day:'2-digit', year:'numeric'});
   const todayAuctions = auctions.filter(a => {
-    try { return new Date(a.auction_date.replace('Auctions on ','')).toDateString() === today; } catch(e) { return false; }
+    try {
+      const raw = a.auction_date.replace('Auctions on ', '').trim();
+      // Normalize "April 07" → "April 7" for comparison
+      const normalized = raw.replace(/(\d+)/, n => parseInt(n).toString());
+      const todayNorm = todayStr.replace(/(\d+),/, n => parseInt(n) + ',');
+      return normalized === todayNorm;
+    } catch(e) { return false; }
   });
   const upcoming = auctions.filter(a => !todayAuctions.includes(a));
 
@@ -518,7 +525,8 @@ function showDetail(idx) {
           <div class="info-val">${a.trustee_phone || '—'}</div>
         </div>
       </div>
-      <button class="action-btn btn-primary" onclick="setReminder('${a.property_address}', '${cleanDate(a.auction_date)}', '${a.auction_time}')">Set reminder</button>
+      ${a.detail_url ? `<button class="action-btn btn-primary" onclick="openLink('${a.detail_url}')">View full details on Harvey West site</button>` : ''}
+      <button class="action-btn btn-secondary" onclick="setReminder('${a.property_address}', '${cleanDate(a.auction_date)}', '${a.auction_time}')">Set reminder</button>
       <button class="action-btn btn-secondary" onclick="shareAuction('${a.property_address}', '${cleanDate(a.auction_date)}')">Share listing</button>
     </div>
     <div style="height: 80px;"></div>
@@ -533,6 +541,10 @@ function showDetail(idx) {
 function closeDetail() {
   document.getElementById('detail-screen').style.display = 'none';
   document.getElementById('main-app').style.display = 'block';
+}
+
+function openLink(url) {
+  if (url) window.open(url, '_blank');
 }
 
 function setReminder(address, date, time) {
