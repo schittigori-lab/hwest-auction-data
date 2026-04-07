@@ -444,6 +444,7 @@
 <script>
 const DATA_URL = 'https://schittigori-lab.github.io/hwest-auction-data/hwest_auctions.json';
 let allAuctions = [];
+let auctionMap = {};
 let alertLog = [];
 try { alertLog = JSON.parse(localStorage.getItem('hwest_alerts') || '[]'); } catch(e) { alertLog = []; }
 
@@ -575,29 +576,31 @@ function renderAuctions(auctions, searchQuery) {
 
   if (todayAuctions.length) {
     html += `<div class="section-label">Today</div>`;
-    todayAuctions.forEach((a, i) => {
-      html += auctionCard(a, 'today', i);
+    todayAuctions.forEach((a) => {
+      html += auctionCard(a, 'today');
     });
   }
 
   if (upcoming.length) {
     html += `<div class="section-label">${searchQuery ? 'Matching auctions' : 'Upcoming'}</div>`;
-    upcoming.forEach((a, i) => {
-      html += auctionCard(a, 'upcoming', i + 1000);
+    upcoming.forEach((a) => {
+      html += auctionCard(a, 'upcoming');
     });
   }
 
   document.getElementById('auctions-content').innerHTML = html;
 }
 
-function auctionCard(a, type, idx) {
+function auctionCard(a, type) {
   const badge = type === 'today'
     ? `<span class="badge badge-today">Today · ${a.auction_time || ''}</span>`
     : `<span class="badge badge-upcoming">${cleanDate(a.auction_date)} · ${a.auction_time || ''}</span>`;
   const deposit = a.bid_deposit ? `<strong>${a.bid_deposit}</strong>` : '<strong>—</strong>';
   const loc = a.auction_location ? a.auction_location.substring(0, 30) + (a.auction_location.length > 30 ? '...' : '') : '101 N Division St';
+  const key = encodeURIComponent(a.property_address + '|' + a.auction_date);
+  auctionMap[key] = a;
   return `
-    <div class="auction-card" onclick="showDetail(${idx})">
+    <div class="auction-card" onclick="showDetail('${key}')">
       ${badge}
       <div class="card-address">${a.property_address}</div>
       <div class="card-sub">${loc}</div>
@@ -613,8 +616,8 @@ function cleanDate(raw) {
   return raw.replace('Auctions on ', '').trim();
 }
 
-function showDetail(idx) {
-  const a = allAuctions[idx] || allAuctions[idx - 1000];
+function showDetail(key) {
+  const a = auctionMap[key];
   if (!a) return;
 
   document.getElementById('main-app').style.display = 'none';
