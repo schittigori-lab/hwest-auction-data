@@ -8,10 +8,14 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Required to commit files back to repo
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN_SECRET }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,7 +30,7 @@ jobs:
 
       - name: Create .env file from secrets
         run: |
-          echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN_SECRET }}" >> .env
+          echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN_SECRET }}" > .env
           echo "GITHUB_USERNAME=schittigori-lab" >> .env
           echo "GITHUB_REPO=hwest-auction-data" >> .env
 
@@ -37,8 +41,16 @@ jobs:
         run: |
           if [ -f hwest_auctions.json ]; then
             echo "JSON file created successfully"
-            cat hwest_auctions.json | python3 -c "import sys,json; d=json.load(sys.stdin); print(f'Total auctions: {d[\"total_auctions\"]} | Last updated: {d[\"last_updated\"]}')"
+            python3 -c "import json; d=json.load(open('hwest_auctions.json')); print(f'Total auctions: {d[\"total_auctions\"]} | Last updated: {d[\"last_updated\"]}')"
           else
             echo "ERROR: JSON file was not created"
             exit 1
           fi
+
+      - name: Commit and push JSON to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add hwest_auctions.json
+          git diff --cached --quiet || git commit -m "Daily auction update $(date +'%Y-%m-%d')"
+          git push
