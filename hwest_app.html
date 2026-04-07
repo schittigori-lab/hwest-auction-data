@@ -504,11 +504,20 @@ function applyFilters() {
   let filtered = allAuctions;
 
   if (selectedCounty !== 'all') {
-    filtered = filtered.filter(a =>
-      (a.auction_location || '').toLowerCase().includes(selectedCounty) ||
-      (a.property_address || '').toLowerCase().includes(selectedCounty) ||
-      (a.auction_date || '').toLowerCase().includes(selectedCounty)
-    );
+    // Map county pill value to keywords found in auction_location or property_address
+    const countyKeywords = {
+      'wicomico':   ['salisbury', 'fruitland', 'delmar', 'hebron', 'mardela', 'wicomico', 'pittsville', 'parsonsburg'],
+      'worcester':  ['snow hill', 'ocean city', 'berlin', 'pocomoke', 'worcester', 'princess anne rd'],
+      'somerset':   ['princess anne', 'crisfield', 'somerset', 'westover'],
+      'dorchester': ['cambridge', 'dorchester', 'hurlock', 'east new market'],
+      'caroline':   ['denton', 'caroline', 'federalsburg', 'greensboro'],
+      'talbot':     ['easton', 'talbot', 'st. michaels', 'oxford'],
+    };
+    const keywords = countyKeywords[selectedCounty] || [selectedCounty];
+    filtered = filtered.filter(a => {
+      const haystack = ((a.auction_location || '') + ' ' + (a.property_address || '')).toLowerCase();
+      return keywords.some(k => haystack.includes(k));
+    });
   }
 
   if (q) {
