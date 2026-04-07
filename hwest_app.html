@@ -253,6 +253,65 @@
   }
   .nav-btn.active { color: #1a3a5c; }
   .nav-icon { font-size: 22px; line-height: 1; }
+
+  .search-bar {
+    padding: 10px 12px 6px;
+    background: #1a3a5c;
+  }
+  .search-input-wrap {
+    display: flex;
+    align-items: center;
+    background: rgba(255,255,255,0.15);
+    border-radius: 10px;
+    padding: 7px 12px;
+    gap: 8px;
+  }
+  .search-input-wrap input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 14px;
+    flex: 1;
+    width: 100%;
+  }
+  .search-input-wrap input::placeholder { color: rgba(255,255,255,0.5); }
+  .search-icon { color: rgba(255,255,255,0.6); font-size: 14px; }
+  .clear-btn { color: rgba(255,255,255,0.6); font-size: 16px; cursor: pointer; display: none; }
+  .county-bar {
+    background: #1a3a5c;
+    padding: 6px 12px 10px;
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .county-bar::-webkit-scrollbar { display: none; }
+  .county-pill {
+    flex-shrink: 0;
+    padding: 5px 14px;
+    border-radius: 16px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    border: 1px solid rgba(255,255,255,0.3);
+    color: rgba(255,255,255,0.7);
+    background: transparent;
+    white-space: nowrap;
+  }
+  .county-pill.active {
+    background: #fff;
+    color: #1a3a5c;
+    border-color: #fff;
+  }
+  .search-results-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: #8e8e93;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 10px 16px 6px;
+  }
 </style>
 </head>
 <body>
@@ -261,7 +320,7 @@
   <div class="app-header">
     <div>
       <h1>Harvey West Auctions</h1>
-      <p>Wicomico County Courthouse</p>
+      <p>Maryland Courthouse Auctions</p>
     </div>
     <button class="refresh-btn" onclick="loadAuctions()">Refresh</button>
   </div>
@@ -270,6 +329,24 @@
     <div class="tab active" onclick="showTab('auctions')">Auctions</div>
     <div class="tab" onclick="showTab('alerts')">Alerts</div>
     <div class="tab" onclick="showTab('settings')">Settings</div>
+  </div>
+
+  <div class="county-bar" id="county-bar">
+    <div class="county-pill active" onclick="selectCounty('all', this)">All Counties</div>
+    <div class="county-pill" onclick="selectCounty('wicomico', this)">Wicomico</div>
+    <div class="county-pill" onclick="selectCounty('worcester', this)">Worcester</div>
+    <div class="county-pill" onclick="selectCounty('somerset', this)">Somerset</div>
+    <div class="county-pill" onclick="selectCounty('dorchester', this)">Dorchester</div>
+    <div class="county-pill" onclick="selectCounty('caroline', this)">Caroline</div>
+    <div class="county-pill" onclick="selectCounty('talbot', this)">Talbot</div>
+  </div>
+
+  <div class="search-bar">
+    <div class="search-input-wrap">
+      <span class="search-icon">&#128269;</span>
+      <input type="text" id="search-input" placeholder="Search by town, address..." oninput="handleSearch()" />
+      <span class="clear-btn" id="clear-btn" onclick="clearSearch()">&#10005;</span>
+    </div>
   </div>
 
   <div id="auctions" class="screen active">
@@ -367,7 +444,8 @@
 <script>
 const DATA_URL = 'https://schittigori-lab.github.io/hwest-auction-data/hwest_auctions.json';
 let allAuctions = [];
-let alertLog = JSON.parse(localStorage.getItem('hwest_alerts') || '[]');
+let alertLog = [];
+try { alertLog = JSON.parse(localStorage.getItem('hwest_alerts') || '[]'); } catch(e) { alertLog = []; }
 
 function showTab(tab) {
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
@@ -400,7 +478,7 @@ async function loadAuctions() {
     document.getElementById('last-updated-label').textContent = 'Last updated: ' + lastUpdated;
 
     checkForNewAuctions(allAuctions);
-    renderAuctions(allAuctions);
+    renderAuctions(allAuctions, '');
   } catch (e) {
     document.getElementById('auctions-content').innerHTML = `
       <div class="error-box">
@@ -411,10 +489,58 @@ async function loadAuctions() {
   }
 }
 
-function renderAuctions(auctions) {
+let selectedCounty = 'all';
+
+function selectCounty(county, el) {
+  selectedCounty = county;
+  document.querySelectorAll('.county-pill').forEach(p => p.classList.remove('active'));
+  el.classList.add('active');
+  applyFilters();
+}
+
+function applyFilters() {
+  const q = (document.getElementById('search-input').value || '').trim().toLowerCase();
+  let filtered = allAuctions;
+
+  if (selectedCounty !== 'all') {
+    filtered = filtered.filter(a =>
+      (a.auction_location || '').toLowerCase().includes(selectedCounty) ||
+      (a.property_address || '').toLowerCase().includes(selectedCounty) ||
+      (a.auction_date || '').toLowerCase().includes(selectedCounty)
+    );
+  }
+
+  if (q) {
+    filtered = filtered.filter(a =>
+      (a.property_address || '').toLowerCase().includes(q) ||
+      (a.auction_location || '').toLowerCase().includes(q) ||
+      (a.auction_date || '').toLowerCase().includes(q)
+    );
+  }
+
+  renderAuctions(filtered, q);
+}
+
+function handleSearch() {
+  const q = document.getElementById('search-input').value.trim().toLowerCase();
+  const clearBtn = document.getElementById('clear-btn');
+  clearBtn.style.display = q ? 'block' : 'none';
+  applyFilters();
+}
+
+function clearSearch() {
+  document.getElementById('search-input').value = '';
+  document.getElementById('clear-btn').style.display = 'none';
+  applyFilters();
+}
+
+function renderAuctions(auctions, searchQuery) {
+  searchQuery = searchQuery || '';
+
   if (!auctions.length) {
-    document.getElementById('auctions-content').innerHTML = `
-      <div class="empty-box">No upcoming auctions found.</div>`;
+    document.getElementById('auctions-content').innerHTML = searchQuery
+      ? `<div class="empty-box">No auctions found matching "<strong>${searchQuery}</strong>"</div>`
+      : `<div class="empty-box">No upcoming auctions found.</div>`;
     return;
   }
 
@@ -423,7 +549,6 @@ function renderAuctions(auctions) {
   const todayAuctions = auctions.filter(a => {
     try {
       const raw = a.auction_date.replace('Auctions on ', '').trim();
-      // Normalize "April 07" → "April 7" for comparison
       const normalized = raw.replace(/(\d+)/, n => parseInt(n).toString());
       const todayNorm = todayStr.replace(/(\d+),/, n => parseInt(n) + ',');
       return normalized === todayNorm;
@@ -433,16 +558,20 @@ function renderAuctions(auctions) {
 
   let html = '';
 
-  html += `<div class="stats-grid">
-    <div class="stat-card">
-      <div class="stat-label">Total auctions</div>
-      <div class="stat-val">${auctions.length}</div>
-    </div>
-    <div class="stat-card">
-      <div class="stat-label">Today</div>
-      <div class="stat-val">${todayAuctions.length}</div>
-    </div>
-  </div>`;
+  if (!searchQuery) {
+    html += `<div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Total auctions</div>
+        <div class="stat-val">${allAuctions.length}</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Today</div>
+        <div class="stat-val">${todayAuctions.length}</div>
+      </div>
+    </div>`;
+  } else {
+    html += `<div class="search-results-label">${auctions.length} result${auctions.length !== 1 ? 's' : ''} for "${searchQuery}"</div>`;
+  }
 
   if (todayAuctions.length) {
     html += `<div class="section-label">Today</div>`;
@@ -452,7 +581,7 @@ function renderAuctions(auctions) {
   }
 
   if (upcoming.length) {
-    html += `<div class="section-label">Upcoming</div>`;
+    html += `<div class="section-label">${searchQuery ? 'Matching auctions' : 'Upcoming'}</div>`;
     upcoming.forEach((a, i) => {
       html += auctionCard(a, 'upcoming', i + 1000);
     });
@@ -548,6 +677,14 @@ function openLink(url) {
 }
 
 function setReminder(address, date, time) {
+  const key = address + '|' + date;
+  const reminders = JSON.parse(localStorage.getItem('hwest_reminders') || '[]');
+  if (reminders.includes(key)) {
+    alert('Reminder already set for ' + address + ' on ' + date);
+    return;
+  }
+  reminders.push(key);
+  localStorage.setItem('hwest_reminders', JSON.stringify(reminders));
   const msg = `Reminder set for ${address} on ${date} at ${time}`;
   addAlert('Reminder set', msg, 'green');
   alert(msg);
@@ -566,11 +703,12 @@ function addAlert(title, desc, color) {
   const now = new Date().toLocaleString();
   alertLog.unshift({ title, desc, color: color || 'blue', time: now });
   if (alertLog.length > 50) alertLog = alertLog.slice(0, 50);
-  localStorage.setItem('hwest_alerts', JSON.stringify(alertLog));
+  try { localStorage.setItem('hwest_alerts', JSON.stringify(alertLog)); } catch(e) {}
 }
 
 function checkForNewAuctions(auctions) {
-  const stored = JSON.parse(localStorage.getItem('hwest_known') || '[]');
+  let stored = [];
+  try { stored = JSON.parse(localStorage.getItem('hwest_known') || '[]'); } catch(e) {}
   const current = auctions.map(a => a.property_address);
   const newOnes = current.filter(addr => !stored.includes(addr));
   if (newOnes.length && stored.length > 0) {
@@ -578,7 +716,7 @@ function checkForNewAuctions(auctions) {
       addAlert('New listing', addr + ' added to upcoming auctions', 'blue');
     });
   }
-  localStorage.setItem('hwest_known', JSON.stringify(current));
+  try { localStorage.setItem('hwest_known', JSON.stringify(current)); } catch(e) {}
 }
 
 function renderAlerts() {
