@@ -1,31 +1,9 @@
 {
-  "last_updated": "2026-04-07",
-  "total_auctions": 107,
+  "last_updated": "2026-04-08",
+  "total_auctions": 110,
   "auctions": [
     {
-      "auction_date": "Auctions on April 07, 2026",
-      "property_address": "9489 Timesweep Ln  Columbia MD 21045",
-      "auction_time": "11:30 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151992"
-    },
-    {
-      "auction_date": "Auctions on April 07, 2026",
-      "property_address": "6403 Kirby Road  Bethesda MD 20817",
-      "auction_time": "1:30 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151607"
-    },
-    {
-      "auction_date": "Auctions on April 8th",
+      "auction_date": "Auctions on April 08, 2026",
       "property_address": "5111 SANDS RD  LOTHIAN MD 20711",
       "auction_time": "10:00 AM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -36,7 +14,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=151848"
     },
     {
-      "auction_date": "Auctions on April 8th",
+      "auction_date": "Auctions on April 08, 2026",
       "property_address": "710 Hillcrest Drive  Annapolis MD 21409",
       "auction_time": "10:00 AM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -47,7 +25,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152217"
     },
     {
-      "auction_date": "Auctions on April 8th",
+      "auction_date": "Auctions on April 08, 2026",
       "property_address": "1914 7 OAKS TER UNIT C  CROFTON MD 21114",
       "auction_time": "10:00 AM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -58,7 +36,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152259"
     },
     {
-      "auction_date": "Auctions on April 8th",
+      "auction_date": "Auctions on April 08, 2026",
       "property_address": "2746 GUILFORD AVENUE  BALTIMORE MD 21218",
       "auction_time": "11:00 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -69,7 +47,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152304"
     },
     {
-      "auction_date": "Auctions on April 8th",
+      "auction_date": "Auctions on April 08, 2026",
       "property_address": "14824 JARRETTSVILLE PIKE  MONKTON MD 21111",
       "auction_time": "12:30 PM",
       "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
@@ -1027,6 +1005,39 @@
     },
     {
       "auction_date": "Auctions on April 22nd",
+      "property_address": "3005 S Leisure World Blvd, Unit 502  Silver Spring MD 20906",
+      "auction_time": "11:00 AM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "$25.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152324"
+    },
+    {
+      "auction_date": "Auctions on April 22nd",
+      "property_address": "5 Quince Mill Ct  Gaithersburg MD 20878",
+      "auction_time": "11:00 AM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "$37.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152424"
+    },
+    {
+      "auction_date": "Auctions on April 22nd",
+      "property_address": "3027 Medway Street  Silver Spring MD 20902",
+      "auction_time": "11:00 AM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "$17.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152205"
+    },
+    {
+      "auction_date": "Auctions on April 22nd",
       "property_address": "144 Pasture Side Way Unit P  Rockville MD 20850",
       "auction_time": "11:00 AM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
@@ -1057,6 +1068,28 @@
       "substitute_trustee": "",
       "trustee_phone": "(800) 280-2832",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152325"
+    },
+    {
+      "auction_date": "Auctions on April 22nd",
+      "property_address": "5820 KEYSVILLE RD  Keymar MD 21757",
+      "auction_time": "2:30 PM",
+      "auction_location": "200 WILLIS ST (HISTORIC COURTHOUSE) WESTMINSTER, MD 21157",
+      "bid_deposit": "$7.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152470"
+    },
+    {
+      "auction_date": "Auctions on April 23rd",
+      "property_address": "4256 Pimlico Rd  BALTIMORE MD 21215",
+      "auction_time": "11:45 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$15.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152359"
     },
     {
       "auction_date": "Auctions on April 28th",
