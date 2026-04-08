@@ -1,4 +1,4 @@
-name: Harvey West Daily Scraper
+name: Harvey West Daily Scraper  # Updated schedule - April 8 2026
 
 on:
   schedule:
