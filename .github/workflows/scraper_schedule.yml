@@ -1,8 +1,17 @@
-name: Harvey West Daily Scraper  # Updated schedule - April 8 2026
+name: Harvey West Daily Scraper
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Runs every day at 8:00 AM Eastern (12:00 UTC)
+    - cron: '0 12 * * 1-5'  # 8:00 AM Eastern (Mon-Fri)
+    - cron: '0 13 * * 1-5'  # 9:00 AM Eastern
+    - cron: '0 14 * * 1-5'  # 10:00 AM Eastern
+    - cron: '0 15 * * 1-5'  # 11:00 AM Eastern
+    - cron: '0 16 * * 1-5'  # 12:00 PM Eastern
+    - cron: '0 17 * * 1-5'  # 1:00 PM Eastern
+    - cron: '0 18 * * 1-5'  # 2:00 PM Eastern
+    - cron: '0 19 * * 1-5'  # 3:00 PM Eastern
+    - cron: '0 20 * * 1-5'  # 4:00 PM Eastern
+    - cron: '0 21 * * 1-5'  # 5:00 PM Eastern
   workflow_dispatch:        # Allows manual run from GitHub website anytime
 
 jobs:
