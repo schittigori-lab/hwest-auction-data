@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-09",
-  "total_auctions": 112,
+  "total_auctions": 110,
   "auctions": [
     {
       "auction_date": "Auctions on April 09, 2026",
@@ -188,17 +188,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152164"
-    },
-    {
-      "auction_date": "Auctions on April 10th",
-      "property_address": "3734 FLEET STREET  BALTIMORE  MD 21224",
-      "auction_time": "11:00 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$25K",
-      "principal_balance": "",
-      "substitute_trustee": "Van Galoubandi",
-      "trustee_phone": "(410) 739-4562",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152293"
     },
     {
       "auction_date": "Auctions on April 10th",
@@ -1090,17 +1079,6 @@
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152269"
-    },
-    {
-      "auction_date": "Auctions on April 28th",
-      "property_address": "5524 MacArthur Boulevard NW  Washington DC 20016",
-      "auction_time": "11:00 AM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152270"
     },
     {
       "auction_date": "Auctions on April 28th",
