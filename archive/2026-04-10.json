@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-10",
-  "total_auctions": 96,
+  "total_auctions": 95,
   "auctions": [
     {
       "auction_date": "Auctions on April 10, 2026",
@@ -760,17 +760,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152359"
-    },
-    {
-      "auction_date": "Auctions on April 23rd",
-      "property_address": "6262 BASKET SWITCH RD  NEWARK MD 21841",
-      "auction_time": "3:15 PM",
-      "auction_location": "1 W. MARKET STREET, SNOW HILL, MARYLAND 21863",
-      "bid_deposit": "$5.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152383"
     },
     {
       "auction_date": "Auctions on April 27th",
