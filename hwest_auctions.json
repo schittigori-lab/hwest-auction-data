@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-10",
-  "total_auctions": 98,
+  "total_auctions": 96,
   "auctions": [
     {
       "auction_date": "Auctions on April 10, 2026",
@@ -631,17 +631,6 @@
     },
     {
       "auction_date": "Auctions on April 21st",
-      "property_address": "15756 EASTHAVEN COURT 605  BOWIE MD 20716",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$16.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(800) 280-2832",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152226"
-    },
-    {
-      "auction_date": "Auctions on April 21st",
       "property_address": "1520 Chester Town Cir  Annapolis MD 21409",
       "auction_time": "10:00 AM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -749,17 +738,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152300"
-    },
-    {
-      "auction_date": "Auctions on April 22nd",
-      "property_address": "2858 Chauncey Hill Dr #42  Manchester MD 21102",
-      "auction_time": "2:30 PM",
-      "auction_location": "200 WILLIS ST (HISTORIC COURTHOUSE) WESTMINSTER, MD 21157",
-      "bid_deposit": "$31.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(800) 280-2832",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152325"
     },
     {
       "auction_date": "Auctions on April 22nd",
