@@ -2,7 +2,7 @@ name: Harvey West Daily Scraper
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Daily at 8:00 AM Eastern (12:00 UTC)
+    - cron: '0 12-21 * * 1-5'  # Every hour Mon-Fri 8am-5pm Eastern (12:00-21:00 UTC, EDT)
   workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
 
 permissions:
