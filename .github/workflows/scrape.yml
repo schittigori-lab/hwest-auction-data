@@ -46,11 +46,14 @@ jobs:
             exit 1
           fi
 
-      - name: Commit and push output
+      - name: Archive and commit output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add hwest_auctions.json || true
+          mkdir -p archive
+          cp hwest_auctions.json archive/$(date +%Y-%m-%d).json
+          find archive -name "*.json" -mtime +30 -delete
+          git add hwest_auctions.json archive/
           git diff --cached --quiet || git commit -m "Auction update $(date +%Y-%m-%d)"
           git pull --rebase origin main
           git push
