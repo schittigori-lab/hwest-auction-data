@@ -1,0 +1,55 @@
+name: Harvey West Daily Scraper
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Daily at 8:00 AM Eastern (12:00 UTC)
+  workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 playwright pandas openpyxl python-dotenv
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Create .env file
+        run: |
+          echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> .env
+          echo "GITHUB_USERNAME=schittigori-lab" >> .env
+          echo "GITHUB_REPO=hwest-auction-data" >> .env
+
+      - name: Run scraper
+        run: python hwest_scraper.py
+
+      - name: Confirm JSON was created
+        run: |
+          if [ -f hwest_auctions.json ]; then
+            echo "JSON file created successfully"
+            cat hwest_auctions.json | python3 -c "import sys,json; d=json.load(sys.stdin); print(f'Total auctions: {d[\"total_auctions\"]} | Last updated: {d[\"last_updated\"]}')"
+          else
+            echo "ERROR: JSON file was not created"
+            exit 1
+          fi
+
+      - name: Commit and push output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add hwest_auctions.json || true
+          git diff --cached --quiet || git commit -m "Auction update $(date +%Y-%m-%d)"
+          git push
