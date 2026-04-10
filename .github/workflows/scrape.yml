@@ -53,7 +53,7 @@ jobs:
           mkdir -p archive
           cp hwest_auctions.json archive/$(date +%Y-%m-%d).json
           find archive -name "*.json" -mtime +30 -delete
-          git add hwest_auctions.json archive/
+          git add hwest_auctions.json archive/$(date +%Y-%m-%d).json
           git diff --cached --quiet || git commit -m "Auction update $(date +%Y-%m-%d)"
           git pull --rebase origin main
           git push
