@@ -16,7 +16,7 @@ import os
 import re
 import subprocess
 import sys
-from datetime import date
+from datetime import date, datetime
 
 def install(pkg):
     subprocess.check_call([sys.executable, "-m", "pip", "install", pkg, "-q"])
@@ -217,7 +217,7 @@ def save_results(auctions):
             "detail_url":         auction.get("detail_url", ""),
         })
     json_output = {
-        "last_updated": date.today().strftime("%Y-%m-%d"),
+        "last_updated": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "total_auctions": len(json_records),
         "auctions": json_records,
     }
