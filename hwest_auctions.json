@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-04-10",
-  "total_auctions": 95,
+  "last_updated": "2026-04-11T17:44:31Z",
+  "total_auctions": 107,
   "auctions": [
-    {
-      "auction_date": "Auctions on April 10, 2026",
-      "property_address": "11070 WORTON RD  WORTON MD 21678",
-      "auction_time": "11:45 AM",
-      "auction_location": "103 N. CROSS ST, CHESTERTOWN, MD 21620",
-      "bid_deposit": "$18.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152197"
-    },
     {
       "auction_date": "Auctions on April 13th",
       "property_address": "3304 SAINT MARYS VIEW RD  Accokeek MD 20607",
@@ -807,6 +796,17 @@
     },
     {
       "auction_date": "Auctions on April 27th",
+      "property_address": "3704 Hastings Ct  White Plains MD 20695",
+      "auction_time": "11:30 AM",
+      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
+      "bid_deposit": "$5.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152427"
+    },
+    {
+      "auction_date": "Auctions on April 27th",
       "property_address": "26922 Mcleyland Terrace  Salisbury MD 21801",
       "auction_time": "1:15 PM",
       "auction_location": "101 NORTH DIVISION STREET, SALISBURY, MARYLAND 21801",
@@ -815,6 +815,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152201"
+    },
+    {
+      "auction_date": "Auctions on April 28th",
+      "property_address": "3777 Bedford Dr  North Beach MD 20714",
+      "auction_time": "9:15 AM",
+      "auction_location": "175 MAIN ST, PRINCE FREDERICK, MD 20678",
+      "bid_deposit": "$34.8K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152436"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -895,6 +906,17 @@
     },
     {
       "auction_date": "Auctions on April 28th",
+      "property_address": "2833 WOODBROOK AVENUE  Baltimore MD 21217",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$18.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152327"
+    },
+    {
+      "auction_date": "Auctions on April 28th",
       "property_address": "5215 LINDEN HEIGHTS AVE  BALTIMORE MD 21215",
       "auction_time": "11:30 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -903,6 +925,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152394"
+    },
+    {
+      "auction_date": "Auctions on April 28th",
+      "property_address": "2667 FREDERICK AVENUE  BALTIMORE MD 21223",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$17.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152318"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -925,6 +958,17 @@
       "substitute_trustee": "",
       "trustee_phone": "",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152276"
+    },
+    {
+      "auction_date": "Auctions on April 28th",
+      "property_address": "1807 Emerson Ave  Salisbury MD 21801",
+      "auction_time": "12:30 PM",
+      "auction_location": "101 NORTH DIVISION STREET, SALISBURY, MARYLAND 21801",
+      "bid_deposit": "$13.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152277"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1013,6 +1057,94 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152287"
+    },
+    {
+      "auction_date": "Auctions on April 29th",
+      "property_address": "33 Elk Rd  Chesapeake City MD 21915",
+      "auction_time": "2:30 PM",
+      "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
+      "bid_deposit": "$17K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152425"
+    },
+    {
+      "auction_date": "Auctions on April 30th",
+      "property_address": "11517 GREEN STREET  FULTON MD 20759",
+      "auction_time": "10:00 AM",
+      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
+      "bid_deposit": "10%",
+      "principal_balance": "$380,750.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152579"
+    },
+    {
+      "auction_date": "Auctions on April 30th",
+      "property_address": "8454 PAMELA WAY UNIT 96  LAUREL MD 20723",
+      "auction_time": "10:00 AM",
+      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
+      "bid_deposit": "10%",
+      "principal_balance": "$450,000.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152369"
+    },
+    {
+      "auction_date": "Auctions on April 30th",
+      "property_address": "1366 PENTWOOD ROAD  BALTIMORE MD 21239",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "10%",
+      "principal_balance": "$136,800.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152390"
+    },
+    {
+      "auction_date": "Auctions on April 30th",
+      "property_address": "9944 PERINE LANE  BALTIMORE MD 21234",
+      "auction_time": "1:30 PM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "10%",
+      "principal_balance": "$124,300.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152440"
+    },
+    {
+      "auction_date": "Auctions on April 30th",
+      "property_address": "7025 TOBY DRIVE UNIT 7025  BALTIMORE MD 21209",
+      "auction_time": "1:30 PM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "10%",
+      "principal_balance": "$165,000.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152451"
+    },
+    {
+      "auction_date": "Auctions on April 30th",
+      "property_address": "539 WOODSIDE ROAD  PIKESVILLE MD 21208",
+      "auction_time": "1:30 PM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "10%",
+      "principal_balance": "$133,536.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152288"
+    },
+    {
+      "auction_date": "Auctions on April 30th",
+      "property_address": "324 OLD BAYVIEW ROAD  NORTH EAST MD 21901",
+      "auction_time": "4:45 PM",
+      "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
+      "bid_deposit": "$15K",
+      "principal_balance": "",
+      "substitute_trustee": "Erin M. August",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152497"
     },
     {
       "auction_date": "Auctions on May 13th",
