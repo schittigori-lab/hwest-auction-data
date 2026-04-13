@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T07:24:41Z",
-  "total_auctions": 107,
+  "last_updated": "2026-04-13T16:24:42Z",
+  "total_auctions": 104,
   "auctions": [
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -11,9 +11,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151656",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=151656"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -24,22 +22,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152057",
-      "county": "",
-      "full_cash_value": ""
-    },
-    {
-      "auction_date": "Auctions on April 13, 2026",
-      "property_address": "3304 SAINT MARYS VIEW RD  Accokeek MD 20607",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$29.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152099",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152057"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -50,22 +33,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152207",
-      "county": "",
-      "full_cash_value": ""
-    },
-    {
-      "auction_date": "Auctions on April 13, 2026",
-      "property_address": "5771 Mussetter Court  New Market MD 21774",
-      "auction_time": "10:00 AM",
-      "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
-      "bid_deposit": "$35K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152302",
-      "county": "Frederick",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152207"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -76,9 +44,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152105",
-      "county": "Frederick",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152105"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -89,9 +55,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152297",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152297"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -102,9 +66,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152179",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152179"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -115,9 +77,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152084",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152084"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -128,9 +88,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152354",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152354"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -141,9 +99,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152198",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152198"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -154,9 +110,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152228",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152228"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -167,9 +121,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152231",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152231"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -180,9 +132,7 @@
       "principal_balance": "$495,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152343",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152343"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -193,9 +143,7 @@
       "principal_balance": "$133,100.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152184",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152184"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -206,9 +154,7 @@
       "principal_balance": "$111,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152243",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152243"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -219,9 +165,7 @@
       "principal_balance": "$538,664.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152149",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152149"
     },
     {
       "auction_date": "Auctions on April 14th",
@@ -232,9 +176,7 @@
       "principal_balance": "$352,417.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152162",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152162"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -245,9 +187,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152307",
-      "county": "Frederick",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152307"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -258,9 +198,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152337",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152337"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -271,9 +209,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151917",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=151917"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -284,9 +220,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152188",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152188"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -297,9 +231,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152189",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152189"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -310,9 +242,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151965",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=151965"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -323,9 +253,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152200",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152200"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -336,9 +264,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152206",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152206"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -349,9 +275,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152317",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152317"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -362,9 +286,7 @@
       "principal_balance": "$203,400.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152348",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152348"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -375,9 +297,7 @@
       "principal_balance": "",
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152121",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152121"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -388,9 +308,7 @@
       "principal_balance": "",
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152159",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152159"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -401,9 +319,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152291",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152291"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -414,9 +330,7 @@
       "principal_balance": "$147,969.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152183",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152183"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -427,9 +341,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152065",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152065"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -440,9 +352,7 @@
       "principal_balance": "$109,330.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152185",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152185"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -453,9 +363,7 @@
       "principal_balance": "$423,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152186",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152186"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -466,9 +374,7 @@
       "principal_balance": "$142,500.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152187",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152187"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -479,9 +385,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152321",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152321"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -492,9 +396,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152341",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152341"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -505,9 +407,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152357",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152357"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -518,9 +418,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152285",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152285"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -531,9 +429,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152296",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152296"
     },
     {
       "auction_date": "Auctions on April 17th",
@@ -544,9 +440,7 @@
       "principal_balance": "",
       "substitute_trustee": "Van Galoubandi",
       "trustee_phone": "(410) 739-4562",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152292",
-      "county": "Charles",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152292"
     },
     {
       "auction_date": "Auctions on April 17th",
@@ -557,9 +451,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152295",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152295"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -570,9 +462,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152377",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152377"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -583,9 +473,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152054",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152054"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -596,9 +484,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152123",
-      "county": "Charles",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152123"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -609,9 +495,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152130",
-      "county": "Charles",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152130"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -622,9 +506,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151386",
-      "county": "Charles",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=151386"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -635,9 +517,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152064",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152064"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -648,9 +528,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152322",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152322"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -661,9 +539,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152328",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152328"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -674,9 +550,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152135",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152135"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -687,9 +561,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152178",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152178"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -700,9 +572,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152221",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152221"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -713,9 +583,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152289",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152289"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -726,9 +594,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152208",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152208"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -739,9 +605,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152037",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152037"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -752,9 +616,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152336",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152336"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -765,9 +627,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152395",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152395"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -778,9 +638,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152329",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152329"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -791,9 +649,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152434",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152434"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -804,9 +660,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152324",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152324"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -817,9 +671,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152424",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152424"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -830,9 +682,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152205",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152205"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -843,9 +693,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152306",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152306"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -856,9 +704,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152300",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152300"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -869,9 +715,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152470",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152470"
     },
     {
       "auction_date": "Auctions on April 23rd",
@@ -882,9 +726,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152359",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152359"
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -895,9 +737,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152392",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152392"
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -908,9 +748,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152204",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152204"
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -921,9 +759,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152323",
-      "county": "Charles",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152323"
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -934,9 +770,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152356",
-      "county": "Charles",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152356"
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -947,9 +781,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152427",
-      "county": "Charles",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152427"
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -960,9 +792,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152201",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152201"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -973,9 +803,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152436",
-      "county": "Frederick",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152436"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -986,9 +814,7 @@
       "principal_balance": "$429,940.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152283",
-      "county": "Frederick",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152283"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -999,9 +825,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152330",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152330"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1012,9 +836,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152334",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152334"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1025,9 +847,7 @@
       "principal_balance": "$147,800.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152439",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152439"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1038,9 +858,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152268",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152268"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1051,9 +869,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152269",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152269"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1064,9 +880,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152272",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152272"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1077,9 +891,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152327",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152327"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1090,9 +902,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152394",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152394"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1103,9 +913,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152318",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152318"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1116,9 +924,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-504-5608",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152435",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152435"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1129,9 +935,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152276",
-      "county": "Washington",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152276"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1142,9 +946,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152277",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152277"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1155,9 +957,7 @@
       "principal_balance": "$265,980.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152368",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152368"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1168,22 +968,7 @@
       "principal_balance": "$347,650.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152388",
-      "county": "",
-      "full_cash_value": ""
-    },
-    {
-      "auction_date": "Auctions on April 28th",
-      "property_address": "7825 MICHELE DRIVE  HYATTSVILLE MD 20785",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$228,600.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152437",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152388"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1194,9 +979,7 @@
       "principal_balance": "$122,100.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152438",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152438"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1207,9 +990,7 @@
       "principal_balance": "$268,800.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152462",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152462"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1220,9 +1001,7 @@
       "principal_balance": "$306,320.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152389",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152389"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1233,9 +1012,7 @@
       "principal_balance": "$404,537.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152418",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152418"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1246,9 +1023,7 @@
       "principal_balance": "$171,830.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152287",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152287"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1259,9 +1034,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152425",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152425"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1272,9 +1045,7 @@
       "principal_balance": "$380,750.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152579",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152579"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1285,9 +1056,7 @@
       "principal_balance": "$450,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152369",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152369"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1298,9 +1067,7 @@
       "principal_balance": "$136,800.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152390",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152390"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1311,9 +1078,7 @@
       "principal_balance": "$124,300.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152440",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152440"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1324,9 +1089,7 @@
       "principal_balance": "$165,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152451",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152451"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1337,9 +1100,7 @@
       "principal_balance": "$133,536.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152288",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152288"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1350,9 +1111,7 @@
       "principal_balance": "",
       "substitute_trustee": "Erin M. August",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152497",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152497"
     },
     {
       "auction_date": "Auctions on May 13th",
@@ -1363,9 +1122,7 @@
       "principal_balance": "",
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152406",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152406"
     },
     {
       "auction_date": "Auctions on May 26th",
@@ -1376,9 +1133,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152538",
-      "county": "Calvert",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152538"
     },
     {
       "auction_date": "Auctions on May 26th",
@@ -1389,9 +1144,7 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152476",
-      "county": "",
-      "full_cash_value": ""
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152476"
     }
   ]
 }
