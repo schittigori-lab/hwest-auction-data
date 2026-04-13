@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="HWest Auctions">
+<meta name="theme-color" content="#1a3a5c">
+<title>Harvey West Auctions</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f2f2f7; color: #1c1c1e; min-height: 100vh; }
+
+  .app-header {
+    background: #1a3a5c;
+    color: #fff;
+    padding: 52px 16px 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .app-header h1 { font-size: 20px; font-weight: 600; }
+  .app-header p { font-size: 12px; opacity: 0.7; margin-top: 2px; }
+  .refresh-btn {
+    background: rgba(255,255,255,0.15);
+    border: none;
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 14px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+
+  .tab-bar {
+    display: flex;
+    background: #1a3a5c;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  .tab {
+    flex: 1;
+    text-align: center;
+    padding: 10px 4px;
+    font-size: 12px;
+    color: rgba(255,255,255,0.55);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+  }
+  .tab.active { color: #fff; border-bottom: 2px solid #fff; }
+
+  .screen { display: none; padding-bottom: 80px; }
+  .screen.active { display: block; }
+
+  .section-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: #8e8e93;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 14px 16px 6px;
+  }
+
+  .auction-card {
+    margin: 0 12px 10px;
+    background: #fff;
+    border-radius: 12px;
+    padding: 13px 14px;
+    cursor: pointer;
+    border: 0.5px solid rgba(0,0,0,0.08);
+  }
+  .auction-card:active { background: #f2f2f7; }
+
+  .badge {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 3px 9px;
+    border-radius: 10px;
+    margin-bottom: 7px;
+  }
+  .badge-today { background: #fff3cd; color: #856404; }
+  .badge-upcoming { background: #d1ecf1; color: #0c5460; }
+  .badge-new { background: #d4edda; color: #155724; }
+
+  .card-address { font-size: 14px; font-weight: 600; color: #1c1c1e; margin-bottom: 2px; }
+  .card-sub { font-size: 12px; color: #8e8e93; margin-bottom: 8px; }
+  .card-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    color: #8e8e93;
+    border-top: 0.5px solid #f2f2f7;
+    padding-top: 8px;
+  }
+  .card-meta strong { color: #1c1c1e; font-weight: 600; }
+
+  .loading {
+    text-align: center;
+    padding: 40px 20px;
+    color: #8e8e93;
+    font-size: 14px;
+  }
+  .loading-spinner {
+    width: 28px;
+    height: 28px;
+    border: 3px solid #e5e5ea;
+    border-top: 3px solid #1a3a5c;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 12px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .error-box {
+    margin: 16px;
+    background: #fff3cd;
+    border-radius: 12px;
+    padding: 14px 16px;
+    font-size: 13px;
+    color: #856404;
+    border: 0.5px solid #ffc107;
+  }
+
+  .empty-box {
+    margin: 16px;
+    background: #fff;
+    border-radius: 12px;
+    padding: 30px 16px;
+    text-align: center;
+    font-size: 14px;
+    color: #8e8e93;
+  }
+
+  .detail-header {
+    background: #1a3a5c;
+    color: #fff;
+    padding: 52px 16px 16px;
+  }
+  .back-btn {
+    font-size: 13px;
+    color: rgba(255,255,255,0.8);
+    cursor: pointer;
+    margin-bottom: 10px;
+    display: inline-block;
+  }
+  .detail-title { font-size: 18px; font-weight: 600; margin-bottom: 4px; }
+  .detail-sub { font-size: 12px; opacity: 0.7; }
+
+  .detail-body { padding: 16px; }
+  .info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px; }
+  .info-cell {
+    background: #fff;
+    border-radius: 10px;
+    padding: 10px 12px;
+    border: 0.5px solid rgba(0,0,0,0.08);
+  }
+  .info-label { font-size: 10px; color: #8e8e93; font-weight: 600; text-transform: uppercase; letter-spacing: 0.3px; margin-bottom: 3px; }
+  .info-val { font-size: 14px; font-weight: 600; color: #1c1c1e; }
+
+  .action-btn {
+    width: 100%;
+    padding: 13px;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border: none;
+  }
+  .btn-primary { background: #1a3a5c; color: #fff; }
+  .btn-secondary { background: #fff; color: #1a3a5c; border: 1px solid #1a3a5c; }
+
+  .alert-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 13px 16px;
+    background: #fff;
+    margin: 0 12px 8px;
+    border-radius: 12px;
+    border: 0.5px solid rgba(0,0,0,0.08);
+  }
+  .alert-dot { width: 9px; height: 9px; border-radius: 50%; margin-top: 4px; flex-shrink: 0; }
+  .dot-blue { background: #378ADD; }
+  .dot-amber { background: #EF9F27; }
+  .dot-green { background: #639922; }
+  .dot-red { background: #E24B4A; }
+  .alert-title { font-size: 13px; font-weight: 600; color: #1c1c1e; margin-bottom: 2px; }
+  .alert-desc { font-size: 12px; color: #8e8e93; line-height: 1.4; }
+  .alert-time { font-size: 11px; color: #aeaeb2; margin-top: 3px; }
+
+  .toggle-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px 16px;
+    background: #fff;
+    margin: 0 12px 2px;
+    border-radius: 0;
+    border-bottom: 0.5px solid #f2f2f7;
+  }
+  .toggle-row:first-of-type { border-radius: 12px 12px 0 0; }
+  .toggle-row:last-of-type { border-radius: 0 0 12px 12px; border-bottom: none; margin-bottom: 10px; }
+  .toggle-group { background: #fff; margin: 0 12px 16px; border-radius: 12px; border: 0.5px solid rgba(0,0,0,0.08); }
+  .toggle-group .toggle-row { margin: 0; border-radius: 0; background: transparent; }
+  .toggle-group .toggle-row:first-child { border-radius: 12px 12px 0 0; }
+  .toggle-group .toggle-row:last-child { border-radius: 0 0 12px 12px; border-bottom: none; }
+
+  .toggle-label { font-size: 14px; color: #1c1c1e; }
+  .toggle-sub { font-size: 12px; color: #8e8e93; margin-top: 1px; }
+  .ios-toggle {
+    width: 51px; height: 31px; border-radius: 16px;
+    background: #1a3a5c; position: relative; cursor: pointer;
+    transition: background 0.2s; flex-shrink: 0;
+  }
+  .ios-toggle::after {
+    content: ''; position: absolute;
+    width: 27px; height: 27px; border-radius: 50%;
+    background: #fff; top: 2px; left: 2px;
+    transition: left 0.2s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+  .ios-toggle.off { background: #e5e5ea; }
+  .ios-toggle.off::after { left: 22px; }
+
+  .stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 0 12px 16px; }
+  .stat-card { background: #fff; border-radius: 12px; padding: 14px; border: 0.5px solid rgba(0,0,0,0.08); }
+  .stat-label { font-size: 11px; color: #8e8e93; margin-bottom: 4px; }
+  .stat-val { font-size: 24px; font-weight: 700; color: #1a3a5c; }
+
+  .last-updated {
+    text-align: center;
+    font-size: 11px;
+    color: #aeaeb2;
+    padding: 8px;
+  }
+
+  .bottom-nav {
+    position: fixed;
+    bottom: 0; left: 0; right: 0;
+    display: flex;
+    background: rgba(255,255,255,0.95);
+    border-top: 0.5px solid rgba(0,0,0,0.12);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+    backdrop-filter: blur(10px);
+  }
+  .nav-btn {
+    flex: 1; text-align: center;
+    padding: 8px 4px 6px;
+    font-size: 10px; color: #8e8e93;
+    cursor: pointer; display: flex;
+    flex-direction: column; align-items: center; gap: 3px;
+  }
+  .nav-btn.active { color: #1a3a5c; }
+  .nav-icon { font-size: 22px; line-height: 1; }
+</style>
+</head>
+<body>
+
+<div id="main-app">
+  <div class="app-header">
+    <div>
+      <h1>Harvey West Auctions</h1>
+      <p>Wicomico County Courthouse</p>
+    </div>
+    <button class="refresh-btn" onclick="loadAuctions()">Refresh</button>
+  </div>
+
+  <div class="tab-bar">
+    <div class="tab active" onclick="showTab('auctions')">Auctions</div>
+    <div class="tab" onclick="showTab('alerts')">Alerts</div>
+    <div class="tab" onclick="showTab('settings')">Settings</div>
+  </div>
+
+  <div id="auctions" class="screen active">
+    <div id="auctions-content">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        Loading auctions...
+      </div>
+    </div>
+  </div>
+
+  <div id="alerts" class="screen">
+    <div class="section-label">Recent activity</div>
+    <div id="alerts-list"></div>
+  </div>
+
+  <div id="settings" class="screen">
+    <div class="section-label">Alert preferences</div>
+    <div class="toggle-group">
+      <div class="toggle-row">
+        <div>
+          <div class="toggle-label">New listings</div>
+          <div class="toggle-sub">Notify when auctions are added</div>
+        </div>
+        <div class="ios-toggle" onclick="this.classList.toggle('off')"></div>
+      </div>
+      <div class="toggle-row">
+        <div>
+          <div class="toggle-label">24-hour reminder</div>
+          <div class="toggle-sub">Alert day before each auction</div>
+        </div>
+        <div class="ios-toggle" onclick="this.classList.toggle('off')"></div>
+      </div>
+      <div class="toggle-row">
+        <div>
+          <div class="toggle-label">Postponements</div>
+          <div class="toggle-sub">Know if a sale is postponed</div>
+        </div>
+        <div class="ios-toggle" onclick="this.classList.toggle('off')"></div>
+      </div>
+      <div class="toggle-row">
+        <div>
+          <div class="toggle-label">Sale ratification</div>
+          <div class="toggle-sub">Court ratification updates</div>
+        </div>
+        <div class="ios-toggle off" onclick="this.classList.toggle('off')"></div>
+      </div>
+    </div>
+
+    <div class="section-label">Filter by county</div>
+    <div class="toggle-group">
+      <div class="toggle-row">
+        <div class="toggle-label">Wicomico County</div>
+        <div class="ios-toggle" onclick="this.classList.toggle('off')"></div>
+      </div>
+      <div class="toggle-row">
+        <div class="toggle-label">Worcester County</div>
+        <div class="ios-toggle off" onclick="this.classList.toggle('off')"></div>
+      </div>
+      <div class="toggle-row">
+        <div class="toggle-label">Somerset County</div>
+        <div class="ios-toggle off" onclick="this.classList.toggle('off')"></div>
+      </div>
+    </div>
+
+    <div class="section-label">Data source</div>
+    <div class="toggle-group">
+      <div class="toggle-row" style="flex-direction: column; align-items: flex-start; gap: 4px;">
+        <div class="toggle-label">Live feed</div>
+        <div class="toggle-sub" id="data-source-url" style="word-break: break-all; font-size: 11px;">schittigori-lab.github.io/hwest-auction-data/hwest_auctions.json</div>
+      </div>
+    </div>
+    <div class="last-updated" id="last-updated-label">Last updated: checking...</div>
+  </div>
+
+  <div class="bottom-nav">
+    <div class="nav-btn active" id="nav-auctions" onclick="showTab('auctions')">
+      <div class="nav-icon">&#128205;</div>
+      <span>Auctions</span>
+    </div>
+    <div class="nav-btn" id="nav-alerts" onclick="showTab('alerts')">
+      <div class="nav-icon">&#128276;</div>
+      <span>Alerts</span>
+    </div>
+    <div class="nav-btn" id="nav-settings" onclick="showTab('settings')">
+      <div class="nav-icon">&#9881;</div>
+      <span>Settings</span>
+    </div>
+  </div>
+</div>
+
+<div id="detail-screen" style="display:none; padding-bottom: 80px;">
+</div>
+
+<script>
+const DATA_URL = 'https://schittigori-lab.github.io/hwest-auction-data/hwest_auctions.json';
+let allAuctions = [];
+let alertLog = JSON.parse(localStorage.getItem('hwest_alerts') || '[]');
+
+function showTab(tab) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(n => n.classList.remove('active'));
+  document.getElementById(tab).classList.add('active');
+  const tabs = ['auctions','alerts','settings'];
+  const idx = tabs.indexOf(tab);
+  if (idx >= 0) {
+    document.querySelectorAll('.tab')[idx].classList.add('active');
+    document.getElementById('nav-' + tab).classList.add('active');
+  }
+  if (tab === 'alerts') renderAlerts();
+}
+
+async function loadAuctions() {
+  document.getElementById('auctions-content').innerHTML = `
+    <div class="loading">
+      <div class="loading-spinner"></div>
+      Fetching latest auctions...
+    </div>`;
+
+  try {
+    const res = await fetch(DATA_URL + '?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    allAuctions = data.auctions || [];
+
+    const lastUpdated = data.last_updated || 'Unknown';
+    document.getElementById('last-updated-label').textContent = 'Last updated: ' + lastUpdated;
+
+    checkForNewAuctions(allAuctions);
+    renderAuctions(allAuctions);
+  } catch (e) {
+    document.getElementById('auctions-content').innerHTML = `
+      <div class="error-box">
+        Could not load auction data. Make sure your GitHub Pages URL is live and the scraper has run.<br><br>
+        <strong>URL:</strong> ${DATA_URL}<br><br>
+        <small>${e.message}</small>
+      </div>`;
+  }
+}
+
+function renderAuctions(auctions) {
+  if (!auctions.length) {
+    document.getElementById('auctions-content').innerHTML = `
+      <div class="empty-box">No upcoming auctions found.</div>`;
+    return;
+  }
+
+  const today = new Date();
+  // "April 13" — no year, no ordinal
+  const todayNorm = today.toLocaleDateString('en-US', {month:'long', day:'numeric'});
+  const todayAuctions = auctions.filter(a => {
+    try {
+      const raw = a.auction_date.replace('Auctions on ', '').trim();
+      // Strip ordinal suffix: "13th" → "13", normalize number
+      const normalized = raw.replace(/(\d+)(st|nd|rd|th)\b/i, '$1').replace(/(\d+)/, n => parseInt(n).toString());
+      return normalized === todayNorm;
+    } catch(e) { return false; }
+  });
+  const upcoming = auctions.filter(a => !todayAuctions.includes(a));
+
+  let html = '';
+
+  html += `<div class="stats-grid">
+    <div class="stat-card">
+      <div class="stat-label">Total auctions</div>
+      <div class="stat-val">${auctions.length}</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Today</div>
+      <div class="stat-val">${todayAuctions.length}</div>
+    </div>
+  </div>`;
+
+  if (todayAuctions.length) {
+    html += `<div class="section-label">Today</div>`;
+    todayAuctions.forEach((a) => {
+      html += auctionCard(a, 'today', allAuctions.indexOf(a));
+    });
+  }
+
+  if (upcoming.length) {
+    html += `<div class="section-label">Upcoming</div>`;
+    upcoming.forEach((a) => {
+      html += auctionCard(a, 'upcoming', allAuctions.indexOf(a));
+    });
+  }
+
+  document.getElementById('auctions-content').innerHTML = html;
+}
+
+function auctionCard(a, type, idx) {
+  const badge = type === 'today'
+    ? `<span class="badge badge-today">Today · ${a.auction_time || ''}</span>`
+    : `<span class="badge badge-upcoming">${cleanDate(a.auction_date)} · ${a.auction_time || ''}</span>`;
+  const deposit = a.bid_deposit ? `<strong>${a.bid_deposit}</strong>` : '<strong>—</strong>';
+  const loc = a.auction_location ? a.auction_location.substring(0, 30) + (a.auction_location.length > 30 ? '...' : '') : '101 N Division St';
+  return `
+    <div class="auction-card" onclick="showDetail(${idx})">
+      ${badge}
+      <div class="card-address">${a.property_address}</div>
+      <div class="card-sub">${loc}</div>
+      <div class="card-meta">
+        <span>${cleanDate(a.auction_date)}</span>
+        <span>Deposit: ${deposit}</span>
+      </div>
+    </div>`;
+}
+
+function cleanDate(raw) {
+  if (!raw) return '';
+  return raw.replace('Auctions on ', '').trim();
+}
+
+function showDetail(idx) {
+  const a = allAuctions[idx];
+  if (!a) return;
+
+  document.getElementById('main-app').style.display = 'none';
+  const det = document.getElementById('detail-screen');
+  det.style.display = 'block';
+  det.innerHTML = `
+    <div class="detail-header">
+      <div class="back-btn" onclick="closeDetail()">&#8592; Auctions</div>
+      <div class="detail-title">${a.property_address}</div>
+      <div class="detail-sub">${a.auction_location || 'Wicomico County Circuit Court'}</div>
+    </div>
+    <div class="detail-body">
+      <span class="badge badge-upcoming" style="margin-bottom:12px;display:inline-block;">${cleanDate(a.auction_date)} · ${a.auction_time || ''}</span>
+      <div class="info-grid">
+        <div class="info-cell">
+          <div class="info-label">Auction date</div>
+          <div class="info-val">${cleanDate(a.auction_date)}</div>
+        </div>
+        <div class="info-cell">
+          <div class="info-label">Time</div>
+          <div class="info-val">${a.auction_time || '—'}</div>
+        </div>
+        <div class="info-cell">
+          <div class="info-label">Bid deposit</div>
+          <div class="info-val">${a.bid_deposit || '—'}</div>
+        </div>
+        <div class="info-cell">
+          <div class="info-label">Principal balance</div>
+          <div class="info-val">${a.principal_balance || '—'}</div>
+        </div>
+        <div class="info-cell" style="grid-column: span 2;">
+          <div class="info-label">Substitute trustee</div>
+          <div class="info-val">${a.substitute_trustee || '—'}</div>
+        </div>
+        <div class="info-cell" style="grid-column: span 2;">
+          <div class="info-label">Trustee phone</div>
+          <div class="info-val">${a.trustee_phone || '—'}</div>
+        </div>
+      </div>
+      ${a.detail_url ? `<button class="action-btn btn-primary" onclick="openLink('${a.detail_url}')">View full details on Harvey West site</button>` : ''}
+      <button class="action-btn btn-secondary" onclick="setReminder('${a.property_address}', '${cleanDate(a.auction_date)}', '${a.auction_time}')">Set reminder</button>
+      <button class="action-btn btn-secondary" onclick="shareAuction('${a.property_address}', '${cleanDate(a.auction_date)}')">Share listing</button>
+    </div>
+    <div style="height: 80px;"></div>
+    <div class="bottom-nav">
+      <div class="nav-btn" onclick="closeDetail()">
+        <div class="nav-icon">&#8592;</div>
+        <span>Back</span>
+      </div>
+    </div>`;
+}
+
+function closeDetail() {
+  document.getElementById('detail-screen').style.display = 'none';
+  document.getElementById('main-app').style.display = 'block';
+}
+
+function openLink(url) {
+  if (url) window.open(url, '_blank');
+}
+
+function setReminder(address, date, time) {
+  const msg = `Reminder set for ${address} on ${date} at ${time}`;
+  addAlert('Reminder set', msg, 'green');
+  alert(msg);
+}
+
+function shareAuction(address, date) {
+  const text = `Harvey West Auction: ${address} on ${date} at Wicomico County Courthouse`;
+  if (navigator.share) {
+    navigator.share({ title: 'Harvey West Auction', text });
+  } else {
+    navigator.clipboard.writeText(text).then(() => alert('Copied to clipboard!'));
+  }
+}
+
+function addAlert(title, desc, color) {
+  const now = new Date().toLocaleString();
+  alertLog.unshift({ title, desc, color: color || 'blue', time: now });
+  if (alertLog.length > 50) alertLog = alertLog.slice(0, 50);
+  localStorage.setItem('hwest_alerts', JSON.stringify(alertLog));
+}
+
+function checkForNewAuctions(auctions) {
+  const stored = JSON.parse(localStorage.getItem('hwest_known') || '[]');
+  const current = auctions.map(a => a.property_address);
+  const newOnes = current.filter(addr => !stored.includes(addr));
+  if (newOnes.length && stored.length > 0) {
+    newOnes.forEach(addr => {
+      addAlert('New listing', addr + ' added to upcoming auctions', 'blue');
+    });
+  }
+  localStorage.setItem('hwest_known', JSON.stringify(current));
+}
+
+function renderAlerts() {
+  const list = document.getElementById('alerts-list');
+  if (!alertLog.length) {
+    list.innerHTML = '<div class="empty-box">No alerts yet. Alerts appear here when new auctions are added or you set reminders.</div>';
+    return;
+  }
+  list.innerHTML = alertLog.map(a => `
+    <div class="alert-row">
+      <div class="alert-dot dot-${a.color || 'blue'}"></div>
+      <div>
+        <div class="alert-title">${a.title}</div>
+        <div class="alert-desc">${a.desc}</div>
+        <div class="alert-time">${a.time}</div>
+      </div>
+    </div>`).join('');
+}
+
+loadAuctions();
+</script>
+</body>
+</html>
