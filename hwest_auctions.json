@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T20:42:21Z",
+  "last_updated": "2026-04-13T21:59:08Z",
   "total_auctions": 115,
   "auctions": [
     {
@@ -12,8 +12,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152297",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Howard",
+      "full_cash_value": "$751,800"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -77,8 +77,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152228",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Somerset",
+      "full_cash_value": "$71,100"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -90,8 +90,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152231",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Baltimore",
+      "full_cash_value": "$179,300"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -103,8 +103,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152184",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$260,300"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -116,8 +116,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152243",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$783,400"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -129,8 +129,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152343",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$411,500"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -142,8 +142,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152149",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Anne Arundel",
+      "full_cash_value": "$568,400"
     },
     {
       "auction_date": "Auctions on April 13, 2026",
@@ -155,8 +155,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152162",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Anne Arundel",
+      "full_cash_value": "$403,200"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -168,7 +168,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152307",
-      "county": "",
+      "county": "Frederick",
       "full_cash_value": ""
     },
     {
@@ -246,8 +246,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152200",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Baltimore",
+      "full_cash_value": "$154,700"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -259,8 +259,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152206",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Baltimore",
+      "full_cash_value": "$294,700"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -272,8 +272,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152317",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Baltimore",
+      "full_cash_value": "$103,700"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -285,8 +285,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152348",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Montgomery",
+      "full_cash_value": "$421,400"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -298,8 +298,8 @@
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152121",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Montgomery",
+      "full_cash_value": "$794,300"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -311,7 +311,7 @@
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152159",
-      "county": "",
+      "county": "Montgomery",
       "full_cash_value": ""
     },
     {
@@ -324,8 +324,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152291",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Harford",
+      "full_cash_value": "$188,200"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -337,7 +337,7 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152183",
-      "county": "",
+      "county": "Washington",
       "full_cash_value": ""
     },
     {
@@ -350,8 +350,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152065",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Allegany",
+      "full_cash_value": "$94,000"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -467,7 +467,7 @@
       "substitute_trustee": "Van Galoubandi",
       "trustee_phone": "(410) 739-4562",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152292",
-      "county": "",
+      "county": "Charles",
       "full_cash_value": ""
     },
     {
@@ -480,8 +480,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152295",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Dorchester",
+      "full_cash_value": "$85,100"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -493,7 +493,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152377",
-      "county": "",
+      "county": "Washington",
       "full_cash_value": ""
     },
     {
@@ -506,7 +506,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152054",
-      "county": "",
+      "county": "Washington",
       "full_cash_value": ""
     },
     {
@@ -519,7 +519,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152123",
-      "county": "",
+      "county": "Charles",
       "full_cash_value": ""
     },
     {
@@ -532,7 +532,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152130",
-      "county": "",
+      "county": "Charles",
       "full_cash_value": ""
     },
     {
@@ -545,7 +545,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=151386",
-      "county": "",
+      "county": "Charles",
       "full_cash_value": ""
     },
     {
@@ -558,8 +558,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152064",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Wicomico",
+      "full_cash_value": "$53,500"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -571,8 +571,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152322",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$259,600"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -584,8 +584,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152328",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$294,400"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -597,8 +597,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152135",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$724,700"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -610,8 +610,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152178",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$670,100"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -623,8 +623,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152221",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$372,400"
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -636,8 +636,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152289",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$540,900"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -649,8 +649,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152208",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Anne Arundel",
+      "full_cash_value": "$392,300"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -662,8 +662,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152037",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Anne Arundel",
+      "full_cash_value": "$347,800"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -675,8 +675,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152336",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Kent",
+      "full_cash_value": "$154,600"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -688,8 +688,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152395",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Caroline",
+      "full_cash_value": "$116,000"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -701,8 +701,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152329",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$421,500"
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -714,8 +714,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152434",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$514,800"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -727,8 +727,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152324",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Montgomery",
+      "full_cash_value": "$140,000"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -740,7 +740,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152424",
-      "county": "",
+      "county": "Montgomery",
       "full_cash_value": ""
     },
     {
@@ -753,8 +753,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152205",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Montgomery",
+      "full_cash_value": "$292,500"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -766,8 +766,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152306",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Montgomery",
+      "full_cash_value": "$125,000"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -792,8 +792,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152470",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Carroll",
+      "full_cash_value": "$167,200"
     },
     {
       "auction_date": "Auctions on April 23rd",
@@ -818,8 +818,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152392",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$112,000"
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -831,8 +831,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152204",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$560,100"
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -844,7 +844,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152323",
-      "county": "",
+      "county": "Charles",
       "full_cash_value": ""
     },
     {
@@ -857,7 +857,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152356",
-      "county": "",
+      "county": "Charles",
       "full_cash_value": ""
     },
     {
@@ -870,7 +870,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152427",
-      "county": "",
+      "county": "Charles",
       "full_cash_value": ""
     },
     {
@@ -883,8 +883,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152201",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Wicomico",
+      "full_cash_value": "$266,200"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -896,8 +896,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152436",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Calvert",
+      "full_cash_value": "$383,800"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -909,8 +909,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152283",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Calvert",
+      "full_cash_value": "$306,300"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -948,8 +948,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152439",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Carroll",
+      "full_cash_value": "$487,900"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1117,8 +1117,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152277",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Wicomico",
+      "full_cash_value": "$204,700"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1130,8 +1130,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152368",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$342,000"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1143,8 +1143,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152388",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$452,400"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1156,8 +1156,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152438",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$263,800"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -1169,8 +1169,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152462",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Prince George's",
+      "full_cash_value": "$303,400"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1182,8 +1182,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152247",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Charles",
+      "full_cash_value": "$436,900"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1208,7 +1208,7 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152422",
-      "county": "",
+      "county": "Baltimore",
       "full_cash_value": ""
     },
     {
@@ -1221,8 +1221,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152209",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Baltimore",
+      "full_cash_value": "$244,700"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1234,7 +1234,7 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152389",
-      "county": "",
+      "county": "Baltimore",
       "full_cash_value": ""
     },
     {
@@ -1247,8 +1247,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152418",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Montgomery",
+      "full_cash_value": "$407,500"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1260,8 +1260,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152287",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Montgomery",
+      "full_cash_value": "$185,000"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1273,8 +1273,8 @@
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152433",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Montgomery",
+      "full_cash_value": "$419,700"
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1286,8 +1286,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152425",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Cecil",
+      "full_cash_value": "$209,800"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1299,8 +1299,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152579",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Howard",
+      "full_cash_value": "$1,179,000"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1312,8 +1312,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152369",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Howard",
+      "full_cash_value": "$499,500"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1338,8 +1338,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152440",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Baltimore",
+      "full_cash_value": "$244,400"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1351,8 +1351,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152451",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Baltimore",
+      "full_cash_value": "$195,000"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1364,8 +1364,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152288",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Baltimore",
+      "full_cash_value": "$220,900"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1377,8 +1377,8 @@
       "substitute_trustee": "Erin M. August",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152497",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Cecil",
+      "full_cash_value": "$360,700"
     },
     {
       "auction_date": "Auctions on May 1st",
@@ -1390,8 +1390,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152580",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Wicomico",
+      "full_cash_value": "$192,200"
     },
     {
       "auction_date": "Auctions on May 1st",
@@ -1403,8 +1403,8 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152441",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Worcester",
+      "full_cash_value": "$110,100"
     },
     {
       "auction_date": "Auctions on May 12th",
@@ -1468,8 +1468,8 @@
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152406",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Montgomery",
+      "full_cash_value": "$246,000"
     },
     {
       "auction_date": "Auctions on May 26th",
@@ -1494,8 +1494,8 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152476",
-      "county": "",
-      "full_cash_value": ""
+      "county": "Cecil",
+      "full_cash_value": "$218,000"
     }
   ]
 }
