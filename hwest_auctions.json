@@ -1,53 +1,9 @@
 {
-  "last_updated": "2026-04-13T23:32:04Z",
-  "total_auctions": 104,
+  "last_updated": "2026-04-13T20:42:21Z",
+  "total_auctions": 115,
   "auctions": [
     {
       "auction_date": "Auctions on April 13, 2026",
-      "property_address": "903 Lauren Way  Baltimore MD 21226",
-      "auction_time": "10:00 AM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151656"
-    },
-    {
-      "auction_date": "Auctions on April 13, 2026",
-      "property_address": "5206 W Maple Shade Lane  Upper Marlboro MD 20772",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$39.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152057"
-    },
-    {
-      "auction_date": "Auctions on April 13, 2026",
-      "property_address": "304 Tamerack Ct  Upper Marlboro MD 20774",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$52.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152207"
-    },
-    {
-      "auction_date": "Auctions on April 13, 2026",
-      "property_address": "344 Majestic Ln  Prince Frederick MD 20678",
-      "auction_time": "2:15 PM",
-      "auction_location": "175 MAIN ST, PRINCE FREDERICK, MD 20678",
-      "bid_deposit": "$32.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152105"
-    },
-    {
-      "auction_date": "Auctions on April 14th",
       "property_address": "6412 MISTY TOP PASS  COLUMBIA MD 21044",
       "auction_time": "10:00 AM",
       "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
@@ -55,10 +11,12 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152297"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152297",
+      "county": "",
+      "full_cash_value": ""
     },
     {
-      "auction_date": "Auctions on April 14th",
+      "auction_date": "Auctions on April 13, 2026",
       "property_address": "5107 North Capitol Street NE  Washington DC 20011",
       "auction_time": "11:00 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -66,10 +24,12 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152179"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152179",
+      "county": "",
+      "full_cash_value": ""
     },
     {
-      "auction_date": "Auctions on April 14th",
+      "auction_date": "Auctions on April 13, 2026",
       "property_address": "725 NORTH BELNORD AVE  BALTIMORE MD 21205",
       "auction_time": "11:30 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -77,21 +37,12 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152084"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152084",
+      "county": "Baltimore City",
+      "full_cash_value": "$32,000"
     },
     {
-      "auction_date": "Auctions on April 14th",
-      "property_address": "212 S MONASTERY AVE  Baltimore MD 21229",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$15.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152354"
-    },
-    {
-      "auction_date": "Auctions on April 14th",
+      "auction_date": "Auctions on April 13, 2026",
       "property_address": "1637 SPENCE STREET  Baltimore MD 21230",
       "auction_time": "11:30 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -99,10 +50,25 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152198"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152198",
+      "county": "Baltimore City",
+      "full_cash_value": "$55,200"
     },
     {
-      "auction_date": "Auctions on April 14th",
+      "auction_date": "Auctions on April 13, 2026",
+      "property_address": "212 S MONASTERY AVE  Baltimore MD 21229",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$15.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152354",
+      "county": "Baltimore City",
+      "full_cash_value": "$71,800"
+    },
+    {
+      "auction_date": "Auctions on April 13, 2026",
       "property_address": "12112 College Pl  Princess Anne MD 21853",
       "auction_time": "01:30 PM",
       "auction_location": "30512 PRINCE WILLIAM ST, PRINCESS ANNE, MD 21853",
@@ -110,10 +76,12 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152228"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152228",
+      "county": "",
+      "full_cash_value": ""
     },
     {
-      "auction_date": "Auctions on April 14th",
+      "auction_date": "Auctions on April 13, 2026",
       "property_address": "7212 N ALTER ST  GWYNN OAK MD 21207",
       "auction_time": "1:30 PM",
       "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
@@ -121,21 +89,12 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152231"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152231",
+      "county": "",
+      "full_cash_value": ""
     },
     {
-      "auction_date": "Auctions on April 14th",
-      "property_address": "6813 ASHLEYS CROSSING COURT  TEMPLE HILLS MD 20748",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$495,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152343"
-    },
-    {
-      "auction_date": "Auctions on April 14th",
+      "auction_date": "Auctions on April 13, 2026",
       "property_address": "6019 CEDAR POST DRIVE  DISTRICT HEIGHTS MD 20747",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -143,10 +102,12 @@
       "principal_balance": "$133,100.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152184"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152184",
+      "county": "",
+      "full_cash_value": ""
     },
     {
-      "auction_date": "Auctions on April 14th",
+      "auction_date": "Auctions on April 13, 2026",
       "property_address": "729 GLENEAGLES DRIVE  FORT WASHINGTON MD 20744",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -154,10 +115,25 @@
       "principal_balance": "$111,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152243"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152243",
+      "county": "",
+      "full_cash_value": ""
     },
     {
-      "auction_date": "Auctions on April 14th",
+      "auction_date": "Auctions on April 13, 2026",
+      "property_address": "6813 ASHLEYS CROSSING COURT  TEMPLE HILLS MD 20748",
+      "auction_time": "2:00 PM",
+      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
+      "bid_deposit": "10%",
+      "principal_balance": "$495,000.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152343",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on April 13, 2026",
       "property_address": "2528 BUCKTHORN DRIVE  GAMBRILLS MD 21054",
       "auction_time": "4:00 PM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -165,10 +141,12 @@
       "principal_balance": "$538,664.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152149"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152149",
+      "county": "",
+      "full_cash_value": ""
     },
     {
-      "auction_date": "Auctions on April 14th",
+      "auction_date": "Auctions on April 13, 2026",
       "property_address": "2659 SHADE BRANCH ROAD  HANOVER MD 21076",
       "auction_time": "4:00 PM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -176,7 +154,9 @@
       "principal_balance": "$352,417.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152162"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152162",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -187,7 +167,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152307"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152307",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -198,7 +180,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152337"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152337",
+      "county": "Baltimore City",
+      "full_cash_value": "$130,600"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -209,7 +193,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151917"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=151917",
+      "county": "Baltimore City",
+      "full_cash_value": "$102,200"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -220,7 +206,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152188"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152188",
+      "county": "Baltimore City",
+      "full_cash_value": "$21,000"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -231,7 +219,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152189"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152189",
+      "county": "Baltimore City",
+      "full_cash_value": "$349,300"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -242,7 +232,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151965"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=151965",
+      "county": "Baltimore City",
+      "full_cash_value": "$155,400"
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -253,7 +245,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152200"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152200",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -264,7 +258,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152206"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152206",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -275,7 +271,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152317"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152317",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -286,7 +284,9 @@
       "principal_balance": "$203,400.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152348"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152348",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -297,7 +297,9 @@
       "principal_balance": "",
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152121"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152121",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -308,7 +310,9 @@
       "principal_balance": "",
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152159"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152159",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -319,7 +323,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152291"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152291",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -330,7 +336,9 @@
       "principal_balance": "$147,969.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152183"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152183",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 15th",
@@ -341,7 +349,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152065"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152065",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -352,7 +362,9 @@
       "principal_balance": "$109,330.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152185"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152185",
+      "county": "Baltimore City",
+      "full_cash_value": "$112,800"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -363,7 +375,9 @@
       "principal_balance": "$423,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152186"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152186",
+      "county": "Baltimore City",
+      "full_cash_value": "$224,600"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -374,7 +388,9 @@
       "principal_balance": "$142,500.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152187"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152187",
+      "county": "Baltimore City",
+      "full_cash_value": "$77,300"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -385,7 +401,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152321"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152321",
+      "county": "Baltimore City",
+      "full_cash_value": "$272,200"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -396,7 +414,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152341"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152341",
+      "county": "Baltimore City",
+      "full_cash_value": "$154,700"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -407,7 +427,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152357"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152357",
+      "county": "Baltimore City",
+      "full_cash_value": "$151,900"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -418,7 +440,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152285"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152285",
+      "county": "Baltimore City",
+      "full_cash_value": "$65,100"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -429,7 +453,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152296"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152296",
+      "county": "Baltimore City",
+      "full_cash_value": "$65,100"
     },
     {
       "auction_date": "Auctions on April 17th",
@@ -440,7 +466,9 @@
       "principal_balance": "",
       "substitute_trustee": "Van Galoubandi",
       "trustee_phone": "(410) 739-4562",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152292"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152292",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 17th",
@@ -451,7 +479,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152295"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152295",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -462,7 +492,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152377"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152377",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -473,7 +505,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152054"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152054",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -484,7 +518,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152123"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152123",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -495,7 +531,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152130"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152130",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -506,7 +544,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=151386"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=151386",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -517,7 +557,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152064"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152064",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -528,7 +570,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152322"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152322",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -539,7 +583,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152328"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152328",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -550,7 +596,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152135"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152135",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -561,7 +609,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152178"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152178",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -572,7 +622,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152221"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152221",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 20th",
@@ -583,7 +635,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152289"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152289",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -594,7 +648,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152208"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152208",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -605,7 +661,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152037"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152037",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -616,7 +674,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152336"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152336",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -627,7 +687,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152395"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152395",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -638,7 +700,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152329"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152329",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 21st",
@@ -649,7 +713,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152434"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152434",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -660,7 +726,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152324"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152324",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -671,7 +739,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152424"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152424",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -682,7 +752,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152205"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152205",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -693,7 +765,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152306"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152306",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -704,7 +778,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152300"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152300",
+      "county": "Baltimore City",
+      "full_cash_value": "$17,000"
     },
     {
       "auction_date": "Auctions on April 22nd",
@@ -715,7 +791,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152470"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152470",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 23rd",
@@ -726,7 +804,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152359"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152359",
+      "county": "Baltimore City",
+      "full_cash_value": "$17,000"
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -737,7 +817,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152392"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152392",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -748,7 +830,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152204"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152204",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -759,7 +843,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152323"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152323",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -770,7 +856,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152356"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152356",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -781,7 +869,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152427"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152427",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 27th",
@@ -792,7 +882,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152201"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152201",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -803,7 +895,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152436"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152436",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -814,7 +908,9 @@
       "principal_balance": "$429,940.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152283"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152283",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -825,7 +921,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152330"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152330",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -836,7 +934,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152334"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152334",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -847,7 +947,9 @@
       "principal_balance": "$147,800.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152439"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152439",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -858,7 +960,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152268"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152268",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -869,7 +973,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152269"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152269",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -880,7 +986,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152272"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152272",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -891,7 +999,22 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152327"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152327",
+      "county": "Baltimore City",
+      "full_cash_value": "$164,500"
+    },
+    {
+      "auction_date": "Auctions on April 28th",
+      "property_address": "2625 MOORE AVENUE  BALTIMORE MD 21234",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$12.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152360",
+      "county": "Baltimore City",
+      "full_cash_value": "$153,400"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -902,7 +1025,48 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152394"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152394",
+      "county": "Baltimore City",
+      "full_cash_value": "$165,000"
+    },
+    {
+      "auction_date": "Auctions on April 28th",
+      "property_address": "3826 MARY AVE.  BALTIMORE MD 21206",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$11.50K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152409",
+      "county": "Baltimore City",
+      "full_cash_value": "$128,000"
+    },
+    {
+      "auction_date": "Auctions on April 28th",
+      "property_address": "1705 NORTHBOURNE ROAD  BALTIMORE MD 21239",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$11.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152232",
+      "county": "Baltimore City",
+      "full_cash_value": "$140,200"
+    },
+    {
+      "auction_date": "Auctions on April 28th",
+      "property_address": "2403 OSWEGO AVE  BALTIMORE MD 21215",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$26.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152290",
+      "county": "Baltimore City",
+      "full_cash_value": "$34,000"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -913,7 +1077,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152318"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152318",
+      "county": "Baltimore City",
+      "full_cash_value": "$46,000"
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -924,7 +1090,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-504-5608",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152435"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152435",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -935,7 +1103,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152276"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152276",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -946,7 +1116,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152277"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152277",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -957,7 +1129,9 @@
       "principal_balance": "$265,980.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152368"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152368",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -968,7 +1142,9 @@
       "principal_balance": "$347,650.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152388"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152388",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -979,7 +1155,9 @@
       "principal_balance": "$122,100.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152438"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152438",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 28th",
@@ -990,7 +1168,61 @@
       "principal_balance": "$268,800.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152462"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152462",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on April 29th",
+      "property_address": "12246 GOLDSTONE COURT  WALDORF MD 20601",
+      "auction_time": "11:00 AM",
+      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
+      "bid_deposit": "$30K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152247",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on April 29th",
+      "property_address": "3603 Alameda Cir  Baltimore MD 21218",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$13K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152372",
+      "county": "Baltimore City",
+      "full_cash_value": "$173,300"
+    },
+    {
+      "auction_date": "Auctions on April 29th",
+      "property_address": "12 E Seminary Avenue  Lutherville Timonium MD 21093",
+      "auction_time": "11:45 AM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "$31.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152422",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on April 29th",
+      "property_address": "3711 Elkanah Place  Randallstown MD 21133",
+      "auction_time": "11:45 AM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "$14.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152209",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1001,7 +1233,9 @@
       "principal_balance": "$306,320.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152389"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152389",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1012,7 +1246,9 @@
       "principal_balance": "$404,537.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152418"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152418",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1023,7 +1259,22 @@
       "principal_balance": "$171,830.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152287"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152287",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on April 29th",
+      "property_address": "18908 WILLOW GROVE RD  OLNEY MD 20832",
+      "auction_time": "1:15 PM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "$58.5K",
+      "principal_balance": "",
+      "substitute_trustee": "David Williamson",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152433",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 29th",
@@ -1034,7 +1285,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152425"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152425",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1045,7 +1298,9 @@
       "principal_balance": "$380,750.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152579"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152579",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1056,7 +1311,9 @@
       "principal_balance": "$450,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152369"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152369",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1067,7 +1324,9 @@
       "principal_balance": "$136,800.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152390"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152390",
+      "county": "Baltimore City",
+      "full_cash_value": "$144,600"
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1078,7 +1337,9 @@
       "principal_balance": "$124,300.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152440"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152440",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1089,7 +1350,9 @@
       "principal_balance": "$165,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152451"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152451",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1100,7 +1363,9 @@
       "principal_balance": "$133,536.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152288"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152288",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on April 30th",
@@ -1111,7 +1376,87 @@
       "principal_balance": "",
       "substitute_trustee": "Erin M. August",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152497"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152497",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on May 1st",
+      "property_address": "11573 NORRIS TWILLEY ROAD  MARDELA SPRINGS MD 21837",
+      "auction_time": "2:30 PM",
+      "auction_location": "101 NORTH DIVISION STREET, SALISBURY, MARYLAND 21801",
+      "bid_deposit": "10%",
+      "principal_balance": "$145,500.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152580",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on May 1st",
+      "property_address": "10356 GEORGETOWN ROAD  BERLIN MD 21811",
+      "auction_time": "4:00 PM",
+      "auction_location": "1 W. MARKET STREET, SNOW HILL, MARYLAND 21863",
+      "bid_deposit": "10%",
+      "principal_balance": "$93,623.33",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152441",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on May 12th",
+      "property_address": "71 Forrester Street, SW  Washington DC 20032",
+      "auction_time": "11:00 AM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$25K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "202-463-4567",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152493",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on May 12th",
+      "property_address": "4324 Gorman Terrace SE  Washington DC 20019",
+      "auction_time": "11:00 AM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$20K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "(703) 777-7101",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152494",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on May 12th",
+      "property_address": "1626 15th St Nw Apt 301  Washington DC 20009",
+      "auction_time": "11:00 AM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$10K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "(703) 777-7101",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152495",
+      "county": "",
+      "full_cash_value": ""
+    },
+    {
+      "auction_date": "Auctions on May 12th",
+      "property_address": "4002 E. St SE Unit 205  Washington DC 20019",
+      "auction_time": "11:00 AM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$15K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "(703) 777-7101",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152496",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on May 13th",
@@ -1122,7 +1467,9 @@
       "principal_balance": "",
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152406"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152406",
+      "county": "",
+      "full_cash_value": ""
     },
     {
       "auction_date": "Auctions on May 26th",
@@ -1133,7 +1480,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152538"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152538",
+      "county": "Baltimore City",
+      "full_cash_value": "$258,400"
     },
     {
       "auction_date": "Auctions on May 26th",
@@ -1144,7 +1493,9 @@
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152476"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152476",
+      "county": "",
+      "full_cash_value": ""
     }
   ]
 }
