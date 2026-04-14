@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T15:59:57Z",
-  "total_auctions": 115,
+  "last_updated": "2026-04-14T20:05:38Z",
+  "total_auctions": 111,
   "auctions": [
     {
       "auction_date": "Auctions on April 14, 2026",
@@ -100,17 +100,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152243"
-    },
-    {
-      "auction_date": "Auctions on April 14, 2026",
-      "property_address": "6813 ASHLEYS CROSSING COURT  TEMPLE HILLS MD 20748",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$495,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152343"
     },
     {
       "auction_date": "Auctions on April 14, 2026",
@@ -298,17 +287,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152065"
-    },
-    {
-      "auction_date": "Auctions on April 16th",
-      "property_address": "5518 PIONEER DRIVE  BALTIMORE MD 21214",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "10%",
-      "principal_balance": "$109,330.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152185"
     },
     {
       "auction_date": "Auctions on April 16th",
@@ -961,17 +939,6 @@
     },
     {
       "auction_date": "Auctions on April 28th",
-      "property_address": "12415 KEYNOTE LANE  BOWIE MD 20715",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$347,650.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152388"
-    },
-    {
-      "auction_date": "Auctions on April 28th",
       "property_address": "2118 CATSKILL STREET  TEMPLE HILLS MD 20748",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -1090,17 +1057,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152425"
-    },
-    {
-      "auction_date": "Auctions on April 30th",
-      "property_address": "11517 GREEN STREET  FULTON MD 20759",
-      "auction_time": "10:00 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "10%",
-      "principal_balance": "$380,750.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152579"
     },
     {
       "auction_date": "Auctions on April 30th",
