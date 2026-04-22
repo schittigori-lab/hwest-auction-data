@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T16:01:06Z",
-  "total_auctions": 123,
+  "last_updated": "2026-04-22T19:59:38Z",
+  "total_auctions": 121,
   "auctions": [
     {
       "auction_date": "Auctions on April 22, 2026",
@@ -69,17 +69,6 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152470"
     },
     {
-      "auction_date": "Auctions on April 23rd",
-      "property_address": "4256 Pimlico Rd  BALTIMORE MD 21215",
-      "auction_time": "11:45 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$15.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152359"
-    },
-    {
       "auction_date": "Auctions on April 27th",
       "property_address": "3811 SWANN RD, UNIT 103  Suitland MD 20746",
       "auction_time": "10:00 AM",
@@ -122,17 +111,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152356"
-    },
-    {
-      "auction_date": "Auctions on April 27th",
-      "property_address": "3704 Hastings Ct  White Plains MD 20695",
-      "auction_time": "11:30 AM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "$5.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152427"
     },
     {
       "auction_date": "Auctions on April 27th",
