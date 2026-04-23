@@ -1,73 +1,7 @@
 {
-  "last_updated": "2026-04-22T22:36:54Z",
-  "total_auctions": 121,
+  "last_updated": "2026-04-23T17:06:38Z",
+  "total_auctions": 118,
   "auctions": [
-    {
-      "auction_date": "Auctions on April 22, 2026",
-      "property_address": "3027 Medway Street  Silver Spring MD 20902",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$17.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152205"
-    },
-    {
-      "auction_date": "Auctions on April 22, 2026",
-      "property_address": "144 Pasture Side Way Unit P  Rockville MD 20850",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$4K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152306"
-    },
-    {
-      "auction_date": "Auctions on April 22, 2026",
-      "property_address": "3005 S Leisure World Blvd, Unit 502  Silver Spring MD 20906",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$25.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152324"
-    },
-    {
-      "auction_date": "Auctions on April 22, 2026",
-      "property_address": "5 Quince Mill Ct  Gaithersburg MD 20878",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$37.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152424"
-    },
-    {
-      "auction_date": "Auctions on April 22, 2026",
-      "property_address": "2540 Oswego Avenue  Baltimore MD 21215",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152300"
-    },
-    {
-      "auction_date": "Auctions on April 22, 2026",
-      "property_address": "5820 KEYSVILLE RD  Keymar MD 21757",
-      "auction_time": "2:30 PM",
-      "auction_location": "200 WILLIS ST (HISTORIC COURTHOUSE) WESTMINSTER, MD 21157",
-      "bid_deposit": "$7.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152470"
-    },
     {
       "auction_date": "Auctions on April 27th",
       "property_address": "3811 SWANN RD, UNIT 103  Suitland MD 20746",
@@ -972,17 +906,6 @@
     },
     {
       "auction_date": "Auctions on May 6th",
-      "property_address": "10802 Lake Arbor Way  Bowie MD 20721",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$25K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152303"
-    },
-    {
-      "auction_date": "Auctions on May 6th",
       "property_address": "71 Dora McMillan Ln  North East MD 21901",
       "auction_time": "02:30 PM",
       "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
@@ -1257,6 +1180,50 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152310"
     },
     {
+      "auction_date": "Auctions on May 7th",
+      "property_address": "405 Salvia Ct  Bel Air MD 21015",
+      "auction_time": "2:30 PM",
+      "auction_location": "20 W COURTLAND ST, BEL AIR, MD 21014",
+      "bid_deposit": "$35K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152257"
+    },
+    {
+      "auction_date": "Auctions on May 7th",
+      "property_address": "3617 Conowingo Road  Street MD 21154",
+      "auction_time": "2:30pm",
+      "auction_location": "20 W COURTLAND ST, BEL AIR, MD 21014",
+      "bid_deposit": "$20K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152273"
+    },
+    {
+      "auction_date": "Auctions on May 7th",
+      "property_address": "4671 Harrier Way  Belcamp MD 21017",
+      "auction_time": "3:45 PM",
+      "auction_location": "20 W COURTLAND ST, BEL AIR, MD 21014",
+      "bid_deposit": "$23.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152548"
+    },
+    {
+      "auction_date": "Auctions on May 8th",
+      "property_address": "25966 FOXGRAPE RD  GREENSBORO MD 21639",
+      "auction_time": "10:30 AM",
+      "auction_location": "109 MARKET ST, DENTON, MD 21629",
+      "bid_deposit": "$18.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152399"
+    },
+    {
       "auction_date": "Auctions on May 12th",
       "property_address": "71 Forrester Street, SW  Washington DC 20032",
       "auction_time": "11:00 AM",
@@ -1301,6 +1268,17 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152496"
     },
     {
+      "auction_date": "Auctions on May 12th",
+      "property_address": "630 BINSTED ROAD  GLEN BURNIE MD 21060",
+      "auction_time": "4:00 PM",
+      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
+      "bid_deposit": "10%",
+      "principal_balance": "$125,200.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152536"
+    },
+    {
       "auction_date": "Auctions on May 13th",
       "property_address": "19421 TRANSHIRE RD  GAITHERSBURG MD 20886",
       "auction_time": "1:15 PM",
@@ -1321,17 +1299,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152538"
-    },
-    {
-      "auction_date": "Auctions on May 26th",
-      "property_address": "387 ROCK SPRINGS RD.  CONOWINGO MD 21918",
-      "auction_time": "4:30 PM",
-      "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
-      "bid_deposit": "$17.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152476"
     }
   ]
 }
