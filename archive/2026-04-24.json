@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T18:07:54Z",
-  "total_auctions": 126,
+  "last_updated": "2026-04-24T21:37:55Z",
+  "total_auctions": 125,
   "auctions": [
     {
       "auction_date": "Auctions on April 27th",
@@ -661,17 +661,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152380"
-    },
-    {
-      "auction_date": "Auctions on May 4th",
-      "property_address": "6805 CALVERTON DR  HYATTSVILLE MD 20782",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$14.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152397"
     },
     {
       "auction_date": "Auctions on May 4th",
