@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T17:14:17Z",
-  "total_auctions": 130,
+  "last_updated": "2026-04-27T21:39:23Z",
+  "total_auctions": 129,
   "auctions": [
     {
       "auction_date": "Auctions on April 27, 2026",
@@ -166,17 +166,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152290"
-    },
-    {
-      "auction_date": "Auctions on April 28th",
-      "property_address": "2667 FREDERICK AVENUE  BALTIMORE MD 21223",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$17.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152318"
     },
     {
       "auction_date": "Auctions on April 28th",
