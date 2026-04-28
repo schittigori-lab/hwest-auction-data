@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T18:01:39Z",
-  "total_auctions": 138,
+  "last_updated": "2026-04-28T21:44:04Z",
+  "total_auctions": 134,
   "auctions": [
     {
       "auction_date": "Auctions on April 28, 2026",
@@ -290,17 +290,6 @@
     },
     {
       "auction_date": "Auctions on April 30th",
-      "property_address": "1366 PENTWOOD ROAD  BALTIMORE MD 21239",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "10%",
-      "principal_balance": "$136,800.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152390"
-    },
-    {
-      "auction_date": "Auctions on April 30th",
       "property_address": "342 E University Pkwy  Baltimore MD 21218",
       "auction_time": "11:45 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -532,17 +521,6 @@
     },
     {
       "auction_date": "Auctions on May 5th",
-      "property_address": "7916 Chatuga Way  Glen Burnie MD 21060",
-      "auction_time": "10:00 AM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$44.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152419"
-    },
-    {
-      "auction_date": "Auctions on May 5th",
       "property_address": "206 Trading Lane  Pasadena MD 21122",
       "auction_time": "10:00 AM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -584,17 +562,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152546"
-    },
-    {
-      "auction_date": "Auctions on May 5th",
-      "property_address": "13348 Moonlight Trail Drive  Silver Spring MD 20906",
-      "auction_time": "1:30 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152421"
     },
     {
       "auction_date": "Auctions on May 5th",
@@ -771,17 +738,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152311"
-    },
-    {
-      "auction_date": "Auctions on May 7th",
-      "property_address": "7346 Park Heights Avenue  Baltimore MD 21208",
-      "auction_time": "10:15 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$15K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152400"
     },
     {
       "auction_date": "Auctions on May 7th",
