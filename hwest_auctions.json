@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T15:37:36Z",
-  "total_auctions": 106,
+  "last_updated": "2026-05-01T19:57:59Z",
+  "total_auctions": 105,
   "auctions": [
     {
       "auction_date": "Auctions on May 01, 2026",
@@ -738,17 +738,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152396"
-    },
-    {
-      "auction_date": "Auctions on May 12th",
-      "property_address": "105 BRINSMAID COURT  BALTIMORE MD 21237",
-      "auction_time": "1:30 PM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$35.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152407"
     },
     {
       "auction_date": "Auctions on May 12th",
