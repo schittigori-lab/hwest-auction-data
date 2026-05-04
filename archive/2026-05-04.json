@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T17:19:31Z",
-  "total_auctions": 104,
+  "last_updated": "2026-05-04T21:47:16Z",
+  "total_auctions": 101,
   "auctions": [
     {
       "auction_date": "Auctions on May 04, 2026",
@@ -12,17 +12,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152431"
-    },
-    {
-      "auction_date": "Auctions on May 04, 2026",
-      "property_address": "7426 MORRISON DRIVE  GREENBELT MD 20770",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$12.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152347"
     },
     {
       "auction_date": "Auctions on May 04, 2026",
@@ -331,17 +320,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152358"
-    },
-    {
-      "auction_date": "Auctions on May 7th",
-      "property_address": "2801 12th Street  Baltimore MD 21219",
-      "auction_time": "11:45 AM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$40K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152375"
     },
     {
       "auction_date": "Auctions on May 7th",
@@ -991,17 +969,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152398"
-    },
-    {
-      "auction_date": "Auctions on May 18th",
-      "property_address": "6704 HASTINGS DRIVE  CAPITOL HEIGHTS MD 20743",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$20.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152402"
     },
     {
       "auction_date": "Auctions on May 18th",
