@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T19:12:54Z",
-  "total_auctions": 91,
+  "last_updated": "2026-05-08T20:55:26Z",
+  "total_auctions": 90,
   "auctions": [
     {
       "auction_date": "Auctions on May 11th",
@@ -166,17 +166,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152403"
-    },
-    {
-      "auction_date": "Auctions on May 12th",
-      "property_address": "1536 SHEFFIELD RD  Baltimore MD 21218",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$18.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152432"
     },
     {
       "auction_date": "Auctions on May 12th",
