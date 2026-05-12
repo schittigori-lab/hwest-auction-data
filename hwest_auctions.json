@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12T19:44:16Z",
-  "total_auctions": 97,
+  "last_updated": "2026-05-12T21:15:57Z",
+  "total_auctions": 96,
   "auctions": [
     {
       "auction_date": "Auctions on May 12, 2026",
@@ -199,17 +199,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152619"
-    },
-    {
-      "auction_date": "Auctions on May 13th",
-      "property_address": "18920 GROTTO LN  GERMANTOWN MD 20874",
-      "auction_time": "1:15 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$28.5K",
-      "principal_balance": "",
-      "substitute_trustee": "David Williamson",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152483"
     },
     {
       "auction_date": "Auctions on May 13th",
