@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T13:57:32Z",
-  "total_auctions": 90,
+  "last_updated": "2026-05-14T16:10:48Z",
+  "total_auctions": 97,
   "auctions": [
     {
       "auction_date": "Auctions on May 14, 2026",
@@ -23,6 +23,83 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152600"
+    },
+    {
+      "auction_date": "Auctions on May 14, 2026",
+      "property_address": "1613 E 29TH STREET  BALTIMORE MD 21218",
+      "auction_time": "11:45 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152937"
+    },
+    {
+      "auction_date": "Auctions on May 14, 2026",
+      "property_address": "626 E 35TH STREET  BALTIMORE MD 21218",
+      "auction_time": "11:45 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152938"
+    },
+    {
+      "auction_date": "Auctions on May 14, 2026",
+      "property_address": "820 CATOR AVENUE  BALTIMORE MD 21218",
+      "auction_time": "11:45 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152939"
+    },
+    {
+      "auction_date": "Auctions on May 14, 2026",
+      "property_address": "3000 CHESTERFIELD AVENUE  BALTIMORE MD 21213",
+      "auction_time": "11:45 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152940"
+    },
+    {
+      "auction_date": "Auctions on May 14, 2026",
+      "property_address": "3003 PULASKI HWY  BALTIMORE MD 21224",
+      "auction_time": "11:45 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152941"
+    },
+    {
+      "auction_date": "Auctions on May 14, 2026",
+      "property_address": "810 N CURLEY STREET  BALTIMORE MD 21205",
+      "auction_time": "11:45 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152942"
+    },
+    {
+      "auction_date": "Auctions on May 14, 2026",
+      "property_address": "507 NORTH LINWOOD AVENUE  BALTIMORE MD 21205",
+      "auction_time": "11:45 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152943"
     },
     {
       "auction_date": "Auctions on May 14, 2026",
