@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T17:51:22Z",
-  "total_auctions": 99,
+  "last_updated": "2026-05-15T19:25:38Z",
+  "total_auctions": 98,
   "auctions": [
     {
       "auction_date": "Auctions on May 18th",
@@ -628,17 +628,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152704"
-    },
-    {
-      "auction_date": "Auctions on May 27th",
-      "property_address": "552 CROSSBRIDGE DRIVE  WESTMINSTER MD 21158",
-      "auction_time": "11:15 AM",
-      "auction_location": "200 WILLIS ST (HISTORIC COURTHOUSE) WESTMINSTER, MD 21157",
-      "bid_deposit": "$29.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152714"
     },
     {
       "auction_date": "Auctions on May 27th",
