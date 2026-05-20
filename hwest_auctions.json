@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T14:55:20Z",
-  "total_auctions": 118,
+  "last_updated": "2026-05-20T17:53:44Z",
+  "total_auctions": 117,
   "auctions": [
     {
       "auction_date": "Auctions on May 20, 2026",
@@ -100,17 +100,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152248"
-    },
-    {
-      "auction_date": "Auctions on May 21st",
-      "property_address": "3025 HUDSON STREET  BALTIMORE MD 21224",
-      "auction_time": "9:45 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-828-4567",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152815"
     },
     {
       "auction_date": "Auctions on May 21st",
