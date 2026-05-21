@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T14:54:03Z",
-  "total_auctions": 110,
+  "last_updated": "2026-05-21T17:30:39Z",
+  "total_auctions": 108,
   "auctions": [
     {
       "auction_date": "Auctions on May 21, 2026",
@@ -23,17 +23,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152647"
-    },
-    {
-      "auction_date": "Auctions on May 21, 2026",
-      "property_address": "10262 GRAPEVINE RD  MARDELA SPRINGS MD 21837",
-      "auction_time": "1:15 PM",
-      "auction_location": "101 NORTH DIVISION STREET, SALISBURY, MARYLAND 21801",
-      "bid_deposit": "$14.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152458"
     },
     {
       "auction_date": "Auctions on May 21, 2026",
@@ -221,17 +210,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152669"
-    },
-    {
-      "auction_date": "Auctions on May 26th",
-      "property_address": "6509 PARKWAY COURT  HYATTSVILLE MD 20782",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$287,342.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152464"
     },
     {
       "auction_date": "Auctions on May 26th",
