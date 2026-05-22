@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T14:28:50Z",
-  "total_auctions": 119,
+  "last_updated": "2026-05-22T17:06:34Z",
+  "total_auctions": 117,
   "auctions": [
     {
       "auction_date": "Auctions on May 22, 2026",
@@ -221,28 +221,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152544"
-    },
-    {
-      "auction_date": "Auctions on May 27th",
-      "property_address": "3002 POINT OF ROCKS ROAD  JEFFERSON MD 21755",
-      "auction_time": "9:45 AM",
-      "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
-      "bid_deposit": "$19.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152674"
-    },
-    {
-      "auction_date": "Auctions on May 27th",
-      "property_address": "10632 OLD BARN RD  New Market MD 21774",
-      "auction_time": "9:45 AM",
-      "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
-      "bid_deposit": "$40.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152525"
     },
     {
       "auction_date": "Auctions on May 27th",
