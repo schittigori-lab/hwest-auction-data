@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-05-27T15:25:55Z",
-  "total_auctions": 134,
+  "last_updated": "2026-05-27T18:24:35Z",
+  "total_auctions": 132,
   "auctions": [
-    {
-      "auction_date": "Auctions on May 27, 2026",
-      "property_address": "1201 BISHOP COURT  FREDERICK MD 21702",
-      "auction_time": "9:30 AM",
-      "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
-      "bid_deposit": "10%",
-      "principal_balance": "$185,183.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152467"
-    },
     {
       "auction_date": "Auctions on May 27, 2026",
       "property_address": "1731 NORTHRIDGE LANE  FREDERICK MD 21702",
@@ -67,17 +56,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152687"
-    },
-    {
-      "auction_date": "Auctions on May 27, 2026",
-      "property_address": "881 Amherst Lane  Westminster MD 21158",
-      "auction_time": "2:30 PM",
-      "auction_location": "200 WILLIS ST (HISTORIC COURTHOUSE) WESTMINSTER, MD 21157",
-      "bid_deposit": "$10.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152640"
     },
     {
       "auction_date": "Auctions on May 28th",
