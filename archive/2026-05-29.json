@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T14:52:30Z",
-  "total_auctions": 132,
+  "last_updated": "2026-05-29T18:11:40Z",
+  "total_auctions": 129,
   "auctions": [
     {
       "auction_date": "Auctions on June 1st",
@@ -34,17 +34,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152459"
-    },
-    {
-      "auction_date": "Auctions on June 1st",
-      "property_address": "2009 ST GEORGES WAY  BOWIE MD 20721",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$40.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152762"
     },
     {
       "auction_date": "Auctions on June 1st",
@@ -210,17 +199,6 @@
       "substitute_trustee": "Jason A. Pardo",
       "trustee_phone": "202-223-7900",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152859"
-    },
-    {
-      "auction_date": "Auctions on June 3rd",
-      "property_address": "45696 Edge Mill Court  Great Mills MD 20634",
-      "auction_time": "11:30 AM",
-      "auction_location": "41605 COURTHOUSE DRIVE, LEONARDTOWN, MD 20650",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152842"
     },
     {
       "auction_date": "Auctions on June 3rd",
@@ -650,17 +628,6 @@
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152794"
-    },
-    {
-      "auction_date": "Auctions on June 9th",
-      "property_address": "2515 I St NW  Washington DC 20037",
-      "auction_time": "11:00 AM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152796"
     },
     {
       "auction_date": "Auctions on June 9th",
