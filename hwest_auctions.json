@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T20:00:06Z",
-  "total_auctions": 122,
+  "last_updated": "2026-06-04T21:43:37Z",
+  "total_auctions": 121,
   "auctions": [
     {
       "auction_date": "Auctions on June 04, 2026",
@@ -221,17 +221,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152558"
-    },
-    {
-      "auction_date": "Auctions on June 8th",
-      "property_address": "5008 Paducah Road  College Park MD 20740",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$19.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152816"
     },
     {
       "auction_date": "Auctions on June 8th",
