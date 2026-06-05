@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-05T17:13:02Z",
-  "total_auctions": 120,
+  "last_updated": "2026-06-05T19:48:48Z",
+  "total_auctions": 117,
   "auctions": [
     {
       "auction_date": "Auctions on June 05, 2026",
@@ -301,17 +301,6 @@
     },
     {
       "auction_date": "Auctions on June 9th",
-      "property_address": "452 PINE AVE  Cumberland MD 21502",
-      "auction_time": "3:30 PM",
-      "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
-      "bid_deposit": "$7K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152785"
-    },
-    {
-      "auction_date": "Auctions on June 9th",
       "property_address": "15411 Iron Rail St NW  Mount Savage MD 21545",
       "auction_time": "4:30 PM",
       "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
@@ -485,17 +474,6 @@
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152678"
-    },
-    {
-      "auction_date": "Auctions on June 10th",
-      "property_address": "500 LONGWOOD DR  ROCKVILLE MD 20850",
-      "auction_time": "1:15 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$30.0K",
-      "principal_balance": "",
-      "substitute_trustee": "David Williamson",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152812"
     },
     {
       "auction_date": "Auctions on June 10th",
@@ -727,17 +705,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152853"
-    },
-    {
-      "auction_date": "Auctions on June 15th",
-      "property_address": "11697 MUIRFIELD CT  Waldorf MD 20602",
-      "auction_time": "12:00 PM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "$46.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152865"
     },
     {
       "auction_date": "Auctions on June 15th",
