@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T15:40:02Z",
-  "total_auctions": 121,
+  "last_updated": "2026-06-08T18:24:27Z",
+  "total_auctions": 119,
   "auctions": [
     {
       "auction_date": "Auctions on June 08, 2026",
@@ -199,17 +199,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152635"
-    },
-    {
-      "auction_date": "Auctions on June 9th",
-      "property_address": "9611 ANTLER CIRCLE  RANDALLSTOWN MD 21133",
-      "auction_time": "1:30 PM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$27.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152763"
     },
     {
       "auction_date": "Auctions on June 9th",
@@ -532,17 +521,6 @@
     },
     {
       "auction_date": "Auctions on June 11th",
-      "property_address": "4791 BYRON ROAD  PIKESVILLE MD 21208",
-      "auction_time": "1:30 PM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "10%",
-      "principal_balance": "$122,300.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152827"
-    },
-    {
-      "auction_date": "Auctions on June 11th",
       "property_address": "450 Bigley Ave  Baltimore MD 21227",
       "auction_time": "1:45 PM",
       "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
@@ -840,6 +818,17 @@
     },
     {
       "auction_date": "Auctions on June 17th",
+      "property_address": "7411 POPLAR AVENUE  Baltimore MD 21224",
+      "auction_time": "11:45 AM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "$26.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152878"
+    },
+    {
+      "auction_date": "Auctions on June 17th",
       "property_address": "42 DOGWOOD DRIVE  Baltimore MD 21220",
       "auction_time": "11:45 AM",
       "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
@@ -881,17 +870,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152795"
-    },
-    {
-      "auction_date": "Auctions on June 17th",
-      "property_address": "7411 POPLAR AVENUE  Baltimore MD 21224",
-      "auction_time": "",
-      "auction_location": "",
-      "bid_deposit": "$26.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152878"
     },
     {
       "auction_date": "Auctions on June 18th",
