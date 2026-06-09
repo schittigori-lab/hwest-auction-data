@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T17:24:31Z",
-  "total_auctions": 125,
+  "last_updated": "2026-06-09T20:03:32Z",
+  "total_auctions": 123,
   "auctions": [
     {
       "auction_date": "Auctions on June 09, 2026",
@@ -133,28 +133,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152635"
-    },
-    {
-      "auction_date": "Auctions on June 09, 2026",
-      "property_address": "4472 COLE FARM ROAD  BALTIMORE MD 21236",
-      "auction_time": "1:30 PM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$23.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152819"
-    },
-    {
-      "auction_date": "Auctions on June 09, 2026",
-      "property_address": "4804 FOREST PINES DRIVE  UPPER MARLBORO MD 20772",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$383,939.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152643"
     },
     {
       "auction_date": "Auctions on June 09, 2026",
