@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T18:29:19Z",
-  "total_auctions": 102,
+  "last_updated": "2026-06-10T21:26:22Z",
+  "total_auctions": 101,
   "auctions": [
     {
       "auction_date": "Auctions on June 10, 2026",
@@ -100,17 +100,6 @@
       "substitute_trustee": "Erin M. August",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152930"
-    },
-    {
-      "auction_date": "Auctions on June 11th",
-      "property_address": "3210 CARLISLE AVENUE  BALTIMORE MD 21216",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "10%",
-      "principal_balance": "$225,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152885"
     },
     {
       "auction_date": "Auctions on June 11th",
