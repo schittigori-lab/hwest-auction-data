@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T17:08:23Z",
-  "total_auctions": 92,
+  "last_updated": "2026-06-15T20:54:25Z",
+  "total_auctions": 90,
   "auctions": [
     {
       "auction_date": "Auctions on June 15, 2026",
@@ -45,17 +45,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152649"
-    },
-    {
-      "auction_date": "Auctions on June 15, 2026",
-      "property_address": "4223 VINE STREET  CAPITOL HEIGHTS MD 20743",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$30.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152767"
     },
     {
       "auction_date": "Auctions on June 15, 2026",
@@ -587,17 +576,6 @@
     },
     {
       "auction_date": "Auctions on June 23rd",
-      "property_address": "2501 ROY TER  FALLSTON MD 21047",
-      "auction_time": "3:00 PM",
-      "auction_location": "20 W COURTLAND ST, BEL AIR, MD 21014",
-      "bid_deposit": "$42.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152752"
-    },
-    {
-      "auction_date": "Auctions on June 23rd",
       "property_address": "2524 PINEY PASS WAY  ODENTON MD 21113",
       "auction_time": "4:00 PM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -771,17 +749,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153002"
-    },
-    {
-      "auction_date": "Auctions on June 25th",
-      "property_address": "3003 Pulaski Hwy  Baltimore MD 21224",
-      "auction_time": "11:45 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$10K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152863"
     },
     {
       "auction_date": "Auctions on June 25th",
@@ -1013,6 +980,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153051"
+    },
+    {
+      "auction_date": "Auctions on July 21st",
+      "property_address": "7329 Old Calvary Rd  Hanover MD 21076",
+      "auction_time": "4:15 PM",
+      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
+      "bid_deposit": "$34.7K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153234"
     }
   ]
 }
