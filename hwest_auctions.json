@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T18:13:24Z",
-  "total_auctions": 115,
+  "last_updated": "2026-06-17T21:30:38Z",
+  "total_auctions": 114,
   "auctions": [
     {
       "auction_date": "Auctions on June 17, 2026",
@@ -914,17 +914,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152986"
-    },
-    {
-      "auction_date": "Auctions on July 1st",
-      "property_address": "2716 Pinewood Drive  Waldorf MD 20601",
-      "auction_time": "12:30 PM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "$40K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153087"
     },
     {
       "auction_date": "Auctions on July 1st",
