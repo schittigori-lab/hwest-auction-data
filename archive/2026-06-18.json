@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T17:59:18Z",
-  "total_auctions": 111,
+  "last_updated": "2026-06-18T20:27:46Z",
+  "total_auctions": 110,
   "auctions": [
     {
       "auction_date": "Auctions on June 18, 2026",
@@ -540,17 +540,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152965"
-    },
-    {
-      "auction_date": "Auctions on June 25th",
-      "property_address": "2 YORKTOWN COURT  NORTH EAST MD 21901",
-      "auction_time": "5:00 PM",
-      "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
-      "bid_deposit": "10%",
-      "principal_balance": "$104,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153003"
     },
     {
       "auction_date": "Auctions on June 26th",
