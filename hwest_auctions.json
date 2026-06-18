@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T14:57:15Z",
-  "total_auctions": 116,
+  "last_updated": "2026-06-18T17:59:18Z",
+  "total_auctions": 111,
   "auctions": [
     {
       "auction_date": "Auctions on June 18, 2026",
@@ -34,17 +34,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152844"
-    },
-    {
-      "auction_date": "Auctions on June 18, 2026",
-      "property_address": "743 RAVENWOOD DRIVE  Glen Burnie MD 21060",
-      "auction_time": "4:00 PM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$44K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152902"
     },
     {
       "auction_date": "Auctions on June 18, 2026",
@@ -224,7 +213,7 @@
     },
     {
       "auction_date": "Auctions on June 23rd",
-      "property_address": "429 60th Street NE Unit 4  Washington MD 20019",
+      "property_address": "429 60th Street NE Unit 4  Washington DC 20019",
       "auction_time": "12:00 PM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
       "bid_deposit": "$20K",
@@ -232,17 +221,6 @@
       "substitute_trustee": "",
       "trustee_phone": "",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152858"
-    },
-    {
-      "auction_date": "Auctions on June 23rd",
-      "property_address": "219 CHARLESTON COURT  LA PLATA MD 20646",
-      "auction_time": "12:00 PM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "10%",
-      "principal_balance": "$286,711.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152750"
     },
     {
       "auction_date": "Auctions on June 23rd",
@@ -342,17 +320,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152848"
-    },
-    {
-      "auction_date": "Auctions on June 23rd",
-      "property_address": "2524 PINEY PASS WAY  ODENTON MD 21113",
-      "auction_time": "4:00 PM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "10%",
-      "principal_balance": "$250,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152934"
     },
     {
       "auction_date": "Auctions on June 24th",
@@ -895,17 +862,6 @@
     },
     {
       "auction_date": "Auctions on July 1st",
-      "property_address": "1917 Callaway Street  Temple Hills MD 20748",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$35K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152990"
-    },
-    {
-      "auction_date": "Auctions on July 1st",
       "property_address": "4003 WOODROW LANE  BOWIE MD 20715",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -1112,17 +1068,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153065"
-    },
-    {
-      "auction_date": "Auctions on July 7th",
-      "property_address": "7529 COURTNEY PLACE  LANDOVER MD 20785",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$110,738.78",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153146"
     },
     {
       "auction_date": "Auctions on July 7th",
