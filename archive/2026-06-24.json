@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T14:18:22Z",
-  "total_auctions": 119,
+  "last_updated": "2026-06-24T17:03:52Z",
+  "total_auctions": 117,
   "auctions": [
     {
       "auction_date": "Auctions on June 24, 2026",
@@ -45,28 +45,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152772"
-    },
-    {
-      "auction_date": "Auctions on June 24, 2026",
-      "property_address": "505 SILVER SPRING AVENUE  SILVER SPRING MD 20910",
-      "auction_time": "1:00 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "10%",
-      "principal_balance": "$122,500.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152904"
-    },
-    {
-      "auction_date": "Auctions on June 24, 2026",
-      "property_address": "2285 DUNSTER LANE  POTOMAC MD 20854",
-      "auction_time": "1:00 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "10%",
-      "principal_balance": "$217,717.34",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152948"
     },
     {
       "auction_date": "Auctions on June 24, 2026",
