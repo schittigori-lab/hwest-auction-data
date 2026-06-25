@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T17:09:29Z",
-  "total_auctions": 107,
+  "last_updated": "2026-06-25T19:52:10Z",
+  "total_auctions": 106,
   "auctions": [
     {
       "auction_date": "Auctions on June 25, 2026",
@@ -463,17 +463,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153024"
-    },
-    {
-      "auction_date": "Auctions on July 2nd",
-      "property_address": "3508 Hickory Avenue  Baltimore MD 21211",
-      "auction_time": "11:45AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$14.6K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153047"
     },
     {
       "auction_date": "Auctions on July 2nd",
