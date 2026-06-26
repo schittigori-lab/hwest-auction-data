@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T16:59:34Z",
-  "total_auctions": 114,
+  "last_updated": "2026-06-26T18:52:43Z",
+  "total_auctions": 113,
   "auctions": [
     {
       "auction_date": "Auctions on June 26, 2026",
@@ -595,17 +595,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152867"
-    },
-    {
-      "auction_date": "Auctions on July 7th",
-      "property_address": "4710 Olden Rd  Rockville MD 20852",
-      "auction_time": "1:30 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$45K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152614"
     },
     {
       "auction_date": "Auctions on July 7th",
