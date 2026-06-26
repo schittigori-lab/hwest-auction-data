@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T14:13:55Z",
-  "total_auctions": 116,
+  "last_updated": "2026-06-26T16:59:34Z",
+  "total_auctions": 114,
   "auctions": [
     {
       "auction_date": "Auctions on June 26, 2026",
@@ -12,17 +12,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153010"
-    },
-    {
-      "auction_date": "Auctions on June 29th",
-      "property_address": "460 TUBMAN DRIVE  PRINCE FREDERICK MD 20678",
-      "auction_time": "9:00 AM",
-      "auction_location": "175 MAIN ST, PRINCE FREDERICK, MD 20678",
-      "bid_deposit": "$17.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152753"
     },
     {
       "auction_date": "Auctions on June 29th",
@@ -859,17 +848,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153048"
-    },
-    {
-      "auction_date": "Auctions on July 8th",
-      "property_address": "318 MCDOWELL AVE  HAGERSTOWN MD 21740",
-      "auction_time": "2:45 PM",
-      "auction_location": "95 W. WASHINGTON STREET, HAGERSTOWN, MD 21740",
-      "bid_deposit": "$8.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153049"
     },
     {
       "auction_date": "Auctions on July 9th",
