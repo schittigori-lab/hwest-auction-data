@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T18:07:32Z",
+  "last_updated": "2026-06-29T20:53:15Z",
   "total_auctions": 115,
   "auctions": [
     {
@@ -686,17 +686,6 @@
     },
     {
       "auction_date": "Auctions on July 8th",
-      "property_address": "1549 FALLING BROOK COURT  ODENTON MD 21113",
-      "auction_time": "10:00 AM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$35K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152976"
-    },
-    {
-      "auction_date": "Auctions on July 8th",
       "property_address": "3204 Dillon Drive  Davidsonville MD 21035",
       "auction_time": "10:00 AM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -1266,6 +1255,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153264"
+    },
+    {
+      "auction_date": "Auctions on August 4th",
+      "property_address": "330 15TH ST SE & 827 RANDOLPH ST NW  WASHINGTON DC 20003",
+      "auction_time": "2:05 PM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$200K",
+      "principal_balance": "",
+      "substitute_trustee": "Hunter C. Piel",
+      "trustee_phone": "202-223-7900",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153401"
     }
   ]
 }
