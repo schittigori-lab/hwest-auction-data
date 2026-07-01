@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T14:24:01Z",
-  "total_auctions": 123,
+  "last_updated": "2026-07-01T17:11:50Z",
+  "total_auctions": 120,
   "auctions": [
     {
       "auction_date": "Auctions on July 01, 2026",
@@ -81,17 +81,6 @@
     },
     {
       "auction_date": "Auctions on July 01, 2026",
-      "property_address": "100 ST. IVES PLACE, UNIT 301  OXON HILL MD 20745",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152978"
-    },
-    {
-      "auction_date": "Auctions on July 01, 2026",
       "property_address": "5029 Emo Street  Capitol Heights MD 20743",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -144,17 +133,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152803"
-    },
-    {
-      "auction_date": "Auctions on July 2nd",
-      "property_address": "1305 N Linwood Ave  Baltimore MD 21213",
-      "auction_time": "10:15 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$15K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153062"
     },
     {
       "auction_date": "Auctions on July 2nd",
@@ -573,17 +551,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152999"
-    },
-    {
-      "auction_date": "Auctions on July 8th",
-      "property_address": "5912 Lone Oak Dr  Bethesda MD 20814",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$64.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153100"
     },
     {
       "auction_date": "Auctions on July 8th",
