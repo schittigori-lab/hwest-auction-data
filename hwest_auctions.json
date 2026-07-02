@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T13:47:40Z",
-  "total_auctions": 110,
+  "last_updated": "2026-07-02T16:03:56Z",
+  "total_auctions": 108,
   "auctions": [
     {
       "auction_date": "Auctions on July 02, 2026",
@@ -122,17 +122,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152897"
-    },
-    {
-      "auction_date": "Auctions on July 6th",
-      "property_address": "5708 Yellowrose Court  Columbia MD 21045",
-      "auction_time": "11:30 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152901"
     },
     {
       "auction_date": "Auctions on July 6th",
@@ -991,17 +980,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153226"
-    },
-    {
-      "auction_date": "Auctions on July 15th",
-      "property_address": "18 WOODEN COURT WAY  BALTIMORE MD 21208",
-      "auction_time": "11:45 AM",
-      "auction_location": "",
-      "bid_deposit": "$18.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153228"
     },
     {
       "auction_date": "Auctions on July 15th",
