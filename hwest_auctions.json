@@ -1,75 +1,9 @@
 {
-  "last_updated": "2026-07-06T22:11:57Z",
-  "total_auctions": 107,
+  "last_updated": "2026-07-07T14:17:49Z",
+  "total_auctions": 118,
   "auctions": [
     {
-      "auction_date": "Auctions on July 06, 2026",
-      "property_address": "12023 Heather Drive  Hagerstown MD 21740",
-      "auction_time": "10:00 AM",
-      "auction_location": "95 W. WASHINGTON STREET, HAGERSTOWN, MD 21740",
-      "bid_deposit": "$8K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153021"
-    },
-    {
-      "auction_date": "Auctions on July 06, 2026",
-      "property_address": "6368 Beechfield Avenue  Elkridge MD 21075",
-      "auction_time": "11:30 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152897"
-    },
-    {
-      "auction_date": "Auctions on July 06, 2026",
-      "property_address": "9302 Pirates Cove  Columbia MD 21046",
-      "auction_time": "11:30 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152971"
-    },
-    {
-      "auction_date": "Auctions on July 06, 2026",
-      "property_address": "2700 Willow Oak Drive #103  Cambridge MD 21613",
-      "auction_time": "11:30 AM",
-      "auction_location": "206 HIGH ST. CAMBRIDGE, MD 21613",
-      "bid_deposit": "$25K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153088"
-    },
-    {
-      "auction_date": "Auctions on July 06, 2026",
-      "property_address": "64 Jackson St  Lonaconing MD 21539",
-      "auction_time": "11:30 AM",
-      "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
-      "bid_deposit": "$3.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153130"
-    },
-    {
-      "auction_date": "Auctions on July 06, 2026",
-      "property_address": "33152 Shavox Rd  Parsonsburg MD 21849",
-      "auction_time": "1:15 PM",
-      "auction_location": "101 NORTH DIVISION STREET, SALISBURY, MARYLAND 21801",
-      "bid_deposit": "$5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153086"
-    },
-    {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "954 JOHNSWOODS ROAD  LUSBY MD 20657",
       "auction_time": "9:30 AM",
       "auction_location": "175 MAIN ST, PRINCE FREDERICK, MD 20678",
@@ -80,7 +14,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153011"
     },
     {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "5013 SCHAUB AVE  BALTIMORE MD 21206",
       "auction_time": "11:30 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -91,7 +25,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152910"
     },
     {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "8555 Murphy Road  Laurel MD 20723",
       "auction_time": "11:30 AM",
       "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
@@ -102,7 +36,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152998"
     },
     {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "412 S STRICKER ST  BALTIMORE MD 21223",
       "auction_time": "11:30 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -113,7 +47,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153043"
     },
     {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "15 DOGWOOD DR.  MIDDLE RIVER MD 21220",
       "auction_time": "1:30 PM",
       "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
@@ -124,7 +58,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152935"
     },
     {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "3000 Lindell Street  Silver Spring MD 20902",
       "auction_time": "1:30 PM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
@@ -135,7 +69,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152957"
     },
     {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "1959 HOLBORN RD  DUNDALK MD 21222",
       "auction_time": "1:30 PM",
       "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
@@ -146,7 +80,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153054"
     },
     {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "8830 Piney Branch Road, Unit#702, PS-A13  Silver Spring MD 20903",
       "auction_time": "1:30 PM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
@@ -157,18 +91,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153056"
     },
     {
-      "auction_date": "Auctions on July 7th",
-      "property_address": "6920 IRONBRIDGE LANE  LAUREL MD 20707",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$517,506.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153147"
-    },
-    {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "509 GARRETT A. MORGAN BOULEVARD  LANDOVER MD 20785",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -179,7 +102,18 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=152921"
     },
     {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
+      "property_address": "6920 IRONBRIDGE LANE  LAUREL MD 20707",
+      "auction_time": "2:00 PM",
+      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
+      "bid_deposit": "10%",
+      "principal_balance": "$517,506.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153147"
+    },
+    {
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "6813 ASHLEYS CROSSING COURT  TEMPLE HILLS MD 20748",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -190,7 +124,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153185"
     },
     {
-      "auction_date": "Auctions on July 7th",
+      "auction_date": "Auctions on July 07, 2026",
       "property_address": "2806 QUICKSILVER WAY  BEL AIR MD 21015",
       "auction_time": "3:00 PM",
       "auction_location": "20 W COURTLAND ST, BEL AIR, MD 21014",
@@ -829,6 +763,28 @@
     },
     {
       "auction_date": "Auctions on July 16th",
+      "property_address": "3628 GEORGIA AVENUE NW #C-1  WASHINGTON DC 20010",
+      "auction_time": "10:40 AM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$36K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "301.945.9271",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153236"
+    },
+    {
+      "auction_date": "Auctions on July 16th",
+      "property_address": "60 I STREET SW  WASHINGTON DC 20024",
+      "auction_time": "10:45 AM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$150K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "301.230.5241",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153254"
+    },
+    {
+      "auction_date": "Auctions on July 16th",
       "property_address": "4724 WILERN AVENUE  Baltimore MD 21215",
       "auction_time": "11:45 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -972,6 +928,17 @@
     },
     {
       "auction_date": "Auctions on July 21st",
+      "property_address": "5444 JONQUIL AVE  BALTIMORE MD 21215",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$26.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153124"
+    },
+    {
+      "auction_date": "Auctions on July 21st",
       "property_address": "4033 CEDARDALE ROAD  BALTIMORE MD 21215",
       "auction_time": "11:30 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -980,6 +947,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153137"
+    },
+    {
+      "auction_date": "Auctions on July 21st",
+      "property_address": "222 EDGEWOOD STREET  BALTIMORE MD 21229",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$10.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153141"
     },
     {
       "auction_date": "Auctions on July 21st",
@@ -1002,6 +980,28 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153034"
+    },
+    {
+      "auction_date": "Auctions on July 21st",
+      "property_address": "3314 KENYON AVE  BALTIMORE MD 21213",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$8.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153035"
+    },
+    {
+      "auction_date": "Auctions on July 21st",
+      "property_address": "3101 CHESTERFIELD AVE  BALTIMORE MD 21213",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$8.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153044"
     },
     {
       "auction_date": "Auctions on July 21st",
@@ -1035,6 +1035,39 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153140"
+    },
+    {
+      "auction_date": "Auctions on July 21st",
+      "property_address": "6808 WINDSOR MILL RD  BALTIMORE MD 21207",
+      "auction_time": "1:30 PM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "$32.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153033"
+    },
+    {
+      "auction_date": "Auctions on July 21st",
+      "property_address": "1538 WILLIAMS AVE  ESSEX MD 21221",
+      "auction_time": "1:30 PM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "$12.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153070"
+    },
+    {
+      "auction_date": "Auctions on July 21st",
+      "property_address": "8808 WINTERBROOK RD  RANDALLSTOWN MD 21133",
+      "auction_time": "1:30 PM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "$24.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153073"
     },
     {
       "auction_date": "Auctions on July 21st",
@@ -1082,6 +1115,17 @@
     },
     {
       "auction_date": "Auctions on July 21st",
+      "property_address": "7329 Old Calvary Rd  Hanover MD 21076",
+      "auction_time": "4:15 PM",
+      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
+      "bid_deposit": "$34.7K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153234"
+    },
+    {
+      "auction_date": "Auctions on July 21st",
       "property_address": "381 JOSEPH BIGGS MEMORIAL HIGHWAY  RISING SUN MD 21911",
       "auction_time": "4:30 PM",
       "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
@@ -1090,6 +1134,28 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153122"
+    },
+    {
+      "auction_date": "Auctions on July 22nd",
+      "property_address": "1574 Wilmer Park Ln  Frederick MD 21703",
+      "auction_time": "9:30 AM",
+      "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
+      "bid_deposit": "$41.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153163"
+    },
+    {
+      "auction_date": "Auctions on July 22nd",
+      "property_address": "1813 Free Terrace  Frederick MD 21702",
+      "auction_time": "9:30 AM",
+      "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
+      "bid_deposit": "$21K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153292"
     },
     {
       "auction_date": "Auctions on July 22nd",
@@ -1104,6 +1170,28 @@
     },
     {
       "auction_date": "Auctions on July 22nd",
+      "property_address": "10694 SALEM AVE  THURMONT MD 21788",
+      "auction_time": "9:45 AM",
+      "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
+      "bid_deposit": "$17.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153053"
+    },
+    {
+      "auction_date": "Auctions on July 22nd",
+      "property_address": "1806 Tufa Terrace  Silver Spring MD 20904",
+      "auction_time": "11:00 AM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "$22.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153291"
+    },
+    {
+      "auction_date": "Auctions on July 22nd",
       "property_address": "14403 NATIONAL PIKE  Clear Spring MD 21722",
       "auction_time": "2:45 PM",
       "auction_location": "95 W. WASHINGTON STREET, HAGERSTOWN, MD 21740",
@@ -1112,6 +1200,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153036"
+    },
+    {
+      "auction_date": "Auctions on July 22nd",
+      "property_address": "713 VIRGINIA AVENUE  CUMBERLAND MD 21502",
+      "auction_time": "4:30 PM",
+      "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
+      "bid_deposit": "$5.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=152913"
     },
     {
       "auction_date": "Auctions on July 22nd",
@@ -1134,6 +1233,17 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153105"
+    },
+    {
+      "auction_date": "Auctions on July 23rd",
+      "property_address": "5547 FORCE ROAD  BALTIMORE MD 21206",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "10%",
+      "principal_balance": "$87,750.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153306"
     },
     {
       "auction_date": "Auctions on July 23rd",
@@ -1178,6 +1288,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153264"
+    },
+    {
+      "auction_date": "Auctions on August 24th",
+      "property_address": "5684 VIRGINIA LN  OXON HILL MD 20745",
+      "auction_time": "2:00 PM",
+      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
+      "bid_deposit": "$17.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153374"
     }
   ]
 }
