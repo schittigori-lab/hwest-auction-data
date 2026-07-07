@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T14:17:49Z",
-  "total_auctions": 118,
+  "last_updated": "2026-07-07T17:10:50Z",
+  "total_auctions": 116,
   "auctions": [
     {
       "auction_date": "Auctions on July 07, 2026",
@@ -23,17 +23,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152910"
-    },
-    {
-      "auction_date": "Auctions on July 07, 2026",
-      "property_address": "8555 Murphy Road  Laurel MD 20723",
-      "auction_time": "11:30 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152998"
     },
     {
       "auction_date": "Auctions on July 07, 2026",
@@ -67,17 +56,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152957"
-    },
-    {
-      "auction_date": "Auctions on July 07, 2026",
-      "property_address": "1959 HOLBORN RD  DUNDALK MD 21222",
-      "auction_time": "1:30 PM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$5.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153054"
     },
     {
       "auction_date": "Auctions on July 07, 2026",
