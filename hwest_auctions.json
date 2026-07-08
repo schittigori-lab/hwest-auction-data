@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T17:43:10Z",
-  "total_auctions": 111,
+  "last_updated": "2026-07-08T19:17:11Z",
+  "total_auctions": 109,
   "auctions": [
     {
       "auction_date": "Auctions on July 08, 2026",
@@ -122,17 +122,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153004"
-    },
-    {
-      "auction_date": "Auctions on July 9th",
-      "property_address": "103 S JENNINGS RD  Severna Park MD 21146",
-      "auction_time": "4:00 PM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$11K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153095"
     },
     {
       "auction_date": "Auctions on July 10th",
@@ -408,17 +397,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153117"
-    },
-    {
-      "auction_date": "Auctions on July 14th",
-      "property_address": "56 Galveston Place Southwest  Washington DC 20032",
-      "auction_time": "12:00 PM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152919"
     },
     {
       "auction_date": "Auctions on July 14th",
