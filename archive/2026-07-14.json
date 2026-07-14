@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T15:22:12Z",
-  "total_auctions": 110,
+  "last_updated": "2026-07-14T17:09:51Z",
+  "total_auctions": 109,
   "auctions": [
     {
       "auction_date": "Auctions on July 14, 2026",
@@ -45,17 +45,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153117"
-    },
-    {
-      "auction_date": "Auctions on July 14, 2026",
-      "property_address": "301 Tyler St  Crisfield MD 21817",
-      "auction_time": "1:30 PM",
-      "auction_location": "30512 PRINCE WILLIAM ST, PRINCESS ANNE, MD 21853",
-      "bid_deposit": "$7.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153128"
     },
     {
       "auction_date": "Auctions on July 15th",
