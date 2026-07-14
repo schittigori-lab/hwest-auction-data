@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T19:11:38Z",
-  "total_auctions": 109,
+  "last_updated": "2026-07-14T20:56:14Z",
+  "total_auctions": 107,
   "auctions": [
     {
       "auction_date": "Auctions on July 14, 2026",
@@ -155,17 +155,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152648"
-    },
-    {
-      "auction_date": "Auctions on July 15th",
-      "property_address": "3129 Freeway  Halethorpe MD 21227",
-      "auction_time": "11:45 AM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$3K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153226"
     },
     {
       "auction_date": "Auctions on July 15th",
@@ -870,17 +859,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153050"
-    },
-    {
-      "auction_date": "Auctions on July 27th",
-      "property_address": "356 FOREST BEACH RD  ANNAPOLIS MD 21409",
-      "auction_time": "4:00 PM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$25.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153200"
     },
     {
       "auction_date": "Auctions on July 28th",
