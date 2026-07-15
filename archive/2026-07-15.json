@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T13:24:55Z",
-  "total_auctions": 107,
+  "last_updated": "2026-07-15T15:24:33Z",
+  "total_auctions": 102,
   "auctions": [
     {
       "auction_date": "Auctions on July 15, 2026",
@@ -23,28 +23,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153057"
-    },
-    {
-      "auction_date": "Auctions on July 15, 2026",
-      "property_address": "3013 Weaver Avenue  Baltimore MD 21214",
-      "auction_time": "10:15 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$15.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153150"
-    },
-    {
-      "auction_date": "Auctions on July 15, 2026",
-      "property_address": "122 N Glover St  Baltimore MD 21224",
-      "auction_time": "10:15 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153152"
     },
     {
       "auction_date": "Auctions on July 15, 2026",
@@ -122,17 +100,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153230"
-    },
-    {
-      "auction_date": "Auctions on July 15, 2026",
-      "property_address": "4003 ANDREW COURT  Abingdon MD 21009",
-      "auction_time": "3:00 PM",
-      "auction_location": "20 W COURTLAND ST, BEL AIR, MD 21014",
-      "bid_deposit": "$40K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153109"
     },
     {
       "auction_date": "Auctions on July 16th",
@@ -386,17 +353,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153140"
-    },
-    {
-      "auction_date": "Auctions on July 21st",
-      "property_address": "6808 WINDSOR MILL RD  BALTIMORE MD 21207",
-      "auction_time": "1:30 PM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$32.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153033"
     },
     {
       "auction_date": "Auctions on July 21st",
@@ -947,17 +903,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153328"
-    },
-    {
-      "auction_date": "Auctions on July 29th",
-      "property_address": "12871 FOLLY QUARTER RD  ELLICOTT CITY MD 21042",
-      "auction_time": "11:00 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "$10K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153399"
     },
     {
       "auction_date": "Auctions on July 29th",
