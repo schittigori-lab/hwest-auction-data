@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T13:30:49Z",
+  "last_updated": "2026-07-16T15:31:09Z",
   "total_auctions": 99,
   "auctions": [
     {
@@ -543,17 +543,6 @@
     },
     {
       "auction_date": "Auctions on July 27th",
-      "property_address": "7231 Wood Hollow Ter  Fort Washington MD 20744",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$15.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153208"
-    },
-    {
-      "auction_date": "Auctions on July 27th",
       "property_address": "548 Swift Heron Avenue  La Plata MD 20646",
       "auction_time": "11:30 AM",
       "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
@@ -1068,6 +1057,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153429"
+    },
+    {
+      "auction_date": "Auctions on August 20th",
+      "property_address": "1602 NORTH BROADWAY  BALTIMORE MD 21213",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "10%",
+      "principal_balance": "$176,250.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153531"
     },
     {
       "auction_date": "Auctions on August 24th",
