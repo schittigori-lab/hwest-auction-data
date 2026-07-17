@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T15:11:02Z",
-  "total_auctions": 104,
+  "last_updated": "2026-07-17T17:08:14Z",
+  "total_auctions": 102,
   "auctions": [
     {
       "auction_date": "Auctions on July 17, 2026",
@@ -224,17 +224,6 @@
     },
     {
       "auction_date": "Auctions on July 21st",
-      "property_address": "7329 Old Calvary Rd  Hanover MD 21076",
-      "auction_time": "4:15 PM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$34.7K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153234"
-    },
-    {
-      "auction_date": "Auctions on July 21st",
       "property_address": "381 JOSEPH BIGGS MEMORIAL HIGHWAY  RISING SUN MD 21911",
       "auction_time": "4:30 PM",
       "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
@@ -386,17 +375,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153105"
-    },
-    {
-      "auction_date": "Auctions on July 23rd",
-      "property_address": "5547 FORCE ROAD  BALTIMORE MD 21206",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "10%",
-      "principal_balance": "$87,750.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153306"
     },
     {
       "auction_date": "Auctions on July 23rd",
