@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T17:33:18Z",
-  "total_auctions": 115,
+  "last_updated": "2026-07-20T19:38:46Z",
+  "total_auctions": 112,
   "auctions": [
     {
       "auction_date": "Auctions on July 21st",
@@ -12,17 +12,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153063"
-    },
-    {
-      "auction_date": "Auctions on July 21st",
-      "property_address": "105 South Meadow Drive  Glen Burnie MD 21060",
-      "auction_time": "10:00 AM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$22.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153261"
     },
     {
       "auction_date": "Auctions on July 21st",
@@ -730,17 +719,6 @@
     },
     {
       "auction_date": "Auctions on July 30th",
-      "property_address": "701 HAMMOND STREET  SALISBURY MD 21804",
-      "auction_time": "1:15 PM",
-      "auction_location": "101 NORTH DIVISION STREET, SALISBURY, MARYLAND 21801",
-      "bid_deposit": "$7.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153215"
-    },
-    {
-      "auction_date": "Auctions on July 30th",
       "property_address": "32934 DIVISION STREET  PARSONSBURG MD 21849",
       "auction_time": "1:15 PM",
       "auction_location": "101 NORTH DIVISION STREET, SALISBURY, MARYLAND 21801",
@@ -859,17 +837,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153001"
-    },
-    {
-      "auction_date": "Auctions on August 4th",
-      "property_address": "6954 REISTERSTOWN RD  BALTIMORE MD 21215",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$8.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153267"
     },
     {
       "auction_date": "Auctions on August 4th",
