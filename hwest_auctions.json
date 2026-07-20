@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T15:49:14Z",
-  "total_auctions": 116,
+  "last_updated": "2026-07-20T17:33:18Z",
+  "total_auctions": 115,
   "auctions": [
     {
       "auction_date": "Auctions on July 21st",
@@ -111,17 +111,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153071"
-    },
-    {
-      "auction_date": "Auctions on July 21st",
-      "property_address": "4221 RIDGEWOOD AVE  BALTIMORE MD 21215",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$10.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153072"
     },
     {
       "auction_date": "Auctions on July 21st",
