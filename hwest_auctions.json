@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-07-22T13:31:29Z",
-  "total_auctions": 144,
+  "last_updated": "2026-07-22T15:30:06Z",
+  "total_auctions": 141,
   "auctions": [
-    {
-      "auction_date": "Auctions on July 22, 2026",
-      "property_address": "11000 HAZELNUT LANE  MONROVIA MD 21770",
-      "auction_time": "9:30 AM",
-      "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
-      "bid_deposit": "10%",
-      "principal_balance": "$718,984.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153066"
-    },
     {
       "auction_date": "Auctions on July 22, 2026",
       "property_address": "1574 Wilmer Park Ln  Frederick MD 21703",
@@ -100,17 +89,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153036"
-    },
-    {
-      "auction_date": "Auctions on July 22, 2026",
-      "property_address": "713 VIRGINIA AVENUE  CUMBERLAND MD 21502",
-      "auction_time": "4:30 PM",
-      "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
-      "bid_deposit": "$5.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=152913"
     },
     {
       "auction_date": "Auctions on July 22, 2026",
@@ -1442,17 +1420,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152994"
-    },
-    {
-      "auction_date": "Auctions on August 6th",
-      "property_address": "1037 Dorset Drive  Waldorf MD 20602",
-      "auction_time": "12:30 PM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153015"
     },
     {
       "auction_date": "Auctions on August 6th",
