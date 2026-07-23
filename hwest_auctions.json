@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T15:53:05Z",
-  "total_auctions": 131,
+  "last_updated": "2026-07-23T17:15:48Z",
+  "total_auctions": 130,
   "auctions": [
     {
       "auction_date": "Auctions on July 23, 2026",
@@ -122,17 +122,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153264"
-    },
-    {
-      "auction_date": "Auctions on July 27th",
-      "property_address": "1113 E PATUXENT DR  LA PLATA MD 20646",
-      "auction_time": "12:45 PM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "$26.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153303"
     },
     {
       "auction_date": "Auctions on July 27th",
