@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T13:27:16Z",
+  "last_updated": "2026-07-24T15:24:45Z",
   "total_auctions": 137,
   "auctions": [
     {
@@ -166,17 +166,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153276"
-    },
-    {
-      "auction_date": "Auctions on July 28th",
-      "property_address": "11833 Steam Mill Hill Road  Whaleyville MD 21872",
-      "auction_time": "2:45 PM",
-      "auction_location": "1 W. MARKET STREET, SNOW HILL, MARYLAND 21863",
-      "bid_deposit": "$18.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153325"
     },
     {
       "auction_date": "Auctions on July 29th",
@@ -1508,6 +1497,17 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153531"
+    },
+    {
+      "auction_date": "Auctions on August 27th",
+      "property_address": "5547 FORCE ROAD  BALTIMORE MD 21206",
+      "auction_time": "11:30 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "10%",
+      "principal_balance": "$87,750.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153599"
     }
   ]
 }
