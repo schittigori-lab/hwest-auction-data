@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T17:26:57Z",
-  "total_auctions": 137,
+  "last_updated": "2026-07-24T19:19:03Z",
+  "total_auctions": 136,
   "auctions": [
     {
       "auction_date": "Auctions on July 24, 2026",
@@ -34,17 +34,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153258"
-    },
-    {
-      "auction_date": "Auctions on July 27th",
-      "property_address": "11318 WILDMEADOWS STREET  WALDORF MD 20601",
-      "auction_time": "12:45 PM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "$32.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153224"
     },
     {
       "auction_date": "Auctions on July 27th",
