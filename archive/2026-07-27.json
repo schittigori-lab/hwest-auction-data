@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T16:56:54Z",
-  "total_auctions": 137,
+  "last_updated": "2026-07-27T18:23:02Z",
+  "total_auctions": 136,
   "auctions": [
     {
       "auction_date": "Auctions on July 27, 2026",
@@ -34,17 +34,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153050"
-    },
-    {
-      "auction_date": "Auctions on July 27, 2026",
-      "property_address": "4807 DAISEY CREEK TERRACE  BELTSVILLE MD 20705",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$38.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153216"
     },
     {
       "auction_date": "Auctions on July 28th",
