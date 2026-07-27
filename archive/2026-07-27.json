@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T14:20:24Z",
+  "last_updated": "2026-07-27T16:56:54Z",
   "total_auctions": 137,
   "auctions": [
     {
@@ -358,7 +358,7 @@
       "auction_date": "Auctions on August 4th",
       "property_address": "1514 Marlborough Court  Crofton MD 21114",
       "auction_time": "10:00 AM",
-      "auction_location": "",
+      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
       "bid_deposit": "$23.5K",
       "principal_balance": "",
       "substitute_trustee": "",
@@ -678,10 +678,10 @@
       "property_address": "10401/10405 OLD GEORGETOWN ROAD/OLD GEORGETOWN RD  BETHESDA MD 20814",
       "auction_time": "12:30 PM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$5,000K",
+      "bid_deposit": "$5K",
       "principal_balance": "",
-      "substitute_trustee": "Erin M. August",
-      "trustee_phone": "410-769-9797",
+      "substitute_trustee": "",
+      "trustee_phone": "",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153452"
     },
     {
@@ -733,7 +733,7 @@
       "property_address": "12400 WILLOW GREEN COURT  POTOMAC MD 20854",
       "auction_time": "1:00 PM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$K",
+      "bid_deposit": "10%",
       "principal_balance": "$387,000.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
