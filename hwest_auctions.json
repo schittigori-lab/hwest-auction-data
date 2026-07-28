@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T18:11:19Z",
-  "total_auctions": 147,
+  "last_updated": "2026-07-28T20:15:18Z",
+  "total_auctions": 146,
   "auctions": [
     {
       "auction_date": "Auctions on July 28, 2026",
@@ -727,17 +727,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152903"
-    },
-    {
-      "auction_date": "Auctions on August 5th",
-      "property_address": "6112 Gothic Lane  Bowie MD 20720",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$10K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153433"
     },
     {
       "auction_date": "Auctions on August 5th",
