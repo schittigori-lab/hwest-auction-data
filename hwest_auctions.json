@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T15:49:54Z",
-  "total_auctions": 144,
+  "last_updated": "2026-07-29T17:12:33Z",
+  "total_auctions": 143,
   "auctions": [
     {
       "auction_date": "Auctions on July 29, 2026",
@@ -529,17 +529,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153176"
-    },
-    {
-      "auction_date": "Auctions on August 5th",
-      "property_address": "12400 WILLOW GREEN COURT  POTOMAC MD 20854",
-      "auction_time": "1:00 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "10%",
-      "principal_balance": "$387,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153339"
     },
     {
       "auction_date": "Auctions on August 5th",
