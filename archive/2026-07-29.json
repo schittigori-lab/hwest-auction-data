@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T13:57:39Z",
-  "total_auctions": 145,
+  "last_updated": "2026-07-29T15:49:54Z",
+  "total_auctions": 144,
   "auctions": [
     {
       "auction_date": "Auctions on July 29, 2026",
@@ -133,17 +133,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153167"
-    },
-    {
-      "auction_date": "Auctions on July 31st",
-      "property_address": "4797 OLD TRAPPE ROAD  TRAPPE MD 21673",
-      "auction_time": "1:15 PM",
-      "auction_location": "11 NORTH WASHINGTON STREET, EASTON, MD  21601",
-      "bid_deposit": "$27.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153160"
     },
     {
       "auction_date": "Auctions on August 3rd",
