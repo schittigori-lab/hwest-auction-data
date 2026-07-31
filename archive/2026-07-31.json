@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T17:43:00Z",
-  "total_auctions": 140,
+  "last_updated": "2026-07-31T19:17:38Z",
+  "total_auctions": 139,
   "auctions": [
     {
       "auction_date": "Auctions on August 3rd",
@@ -397,17 +397,6 @@
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153221"
-    },
-    {
-      "auction_date": "Auctions on August 5th",
-      "property_address": "14174 ALDORA CIR  BURTONSVILLE MD 20866",
-      "auction_time": "1:15 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$30.0K",
-      "principal_balance": "",
-      "substitute_trustee": "David Williamson",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153266"
     },
     {
       "auction_date": "Auctions on August 5th",
