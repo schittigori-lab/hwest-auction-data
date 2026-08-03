@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T14:27:47Z",
-  "total_auctions": 151,
+  "last_updated": "2026-08-03T17:09:13Z",
+  "total_auctions": 147,
   "auctions": [
     {
       "auction_date": "Auctions on August 03, 2026",
@@ -12,28 +12,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153395"
-    },
-    {
-      "auction_date": "Auctions on August 03, 2026",
-      "property_address": "15214 Mount Savage Road N.W. and adjacent 20,470 SF Lot  Mount Savage MD 21545",
-      "auction_time": "11:30 AM",
-      "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
-      "bid_deposit": "$8.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153354"
-    },
-    {
-      "auction_date": "Auctions on August 03, 2026",
-      "property_address": "9214 Three Oaks Drive  Silver Spring MD 20901",
-      "auction_time": "1:30 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153205"
     },
     {
       "auction_date": "Auctions on August 4th",
@@ -719,17 +697,6 @@
     },
     {
       "auction_date": "Auctions on August 6th",
-      "property_address": "1914 Englewood Avenue  Gwynn Oak MD 21207",
-      "auction_time": "11:45 AM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$15K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153233"
-    },
-    {
-      "auction_date": "Auctions on August 6th",
       "property_address": "228 St Helena Avenue  Baltimore MD 21222",
       "auction_time": "11:45 AM",
       "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
@@ -760,17 +727,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153312"
-    },
-    {
-      "auction_date": "Auctions on August 6th",
-      "property_address": "7212 Castlemoor Road  Windsor Mill MD 21244",
-      "auction_time": "11:45 AM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153332"
     },
     {
       "auction_date": "Auctions on August 6th",
