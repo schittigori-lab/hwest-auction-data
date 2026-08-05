@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T19:23:13Z",
-  "total_auctions": 129,
+  "last_updated": "2026-08-05T21:03:15Z",
+  "total_auctions": 126,
   "auctions": [
     {
       "auction_date": "Auctions on August 05, 2026",
@@ -157,17 +157,6 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153296"
     },
     {
-      "auction_date": "Auctions on August 05, 2026",
-      "property_address": "15411 IRON RAIL ST. NW  Mount Savage MD 21545",
-      "auction_time": "4:00 PM",
-      "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
-      "bid_deposit": "$1.50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153443"
-    },
-    {
       "auction_date": "Auctions on August 6th",
       "property_address": "1052 Rimrock Road  Lusby MD 20657",
       "auction_time": "10:00 AM",
@@ -177,17 +166,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=152991"
-    },
-    {
-      "auction_date": "Auctions on August 6th",
-      "property_address": "11517 GREEN STREET  FULTON MD 20759",
-      "auction_time": "10:00 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "10%",
-      "principal_balance": "$380,750.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153322"
     },
     {
       "auction_date": "Auctions on August 6th",
@@ -232,17 +210,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153244"
-    },
-    {
-      "auction_date": "Auctions on August 6th",
-      "property_address": "3641 Glengyle Avenue, Unit 4C, a/k/a 3641 Glenglye Avenue, Unit 4C  Baltimore MD 21215",
-      "auction_time": "10:15 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$15K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153334"
     },
     {
       "auction_date": "Auctions on August 6th",
