@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-08-07T14:10:23Z",
-  "total_auctions": 95,
+  "last_updated": "2026-08-07T15:51:57Z",
+  "total_auctions": 94,
   "auctions": [
-    {
-      "auction_date": "Auctions on August 07, 2026",
-      "property_address": "30592 TWIN ROSE LANE  PRINCESS ANNE MD 21853",
-      "auction_time": "5:00 PM",
-      "auction_location": "30512 PRINCE WILLIAM ST, PRINCESS ANNE, MD 21853",
-      "bid_deposit": "10%",
-      "principal_balance": "$176,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153446"
-    },
     {
       "auction_date": "Auctions on August 10th",
       "property_address": "133 Eastern Avenue  Annapolis MD 21403",
