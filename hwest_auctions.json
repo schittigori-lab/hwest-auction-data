@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T16:49:14Z",
-  "total_auctions": 100,
+  "last_updated": "2026-08-10T17:48:09Z",
+  "total_auctions": 99,
   "auctions": [
     {
       "auction_date": "Auctions on August 10, 2026",
@@ -826,17 +826,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153279"
-    },
-    {
-      "auction_date": "Auctions on August 21st",
-      "property_address": "24768 PEALIQUOR ROAD  DENTON MD 21629",
-      "auction_time": "10:30 AM",
-      "auction_location": "109 MARKET ST, DENTON, MD 21629",
-      "bid_deposit": "10%",
-      "principal_balance": "$294,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153576"
     },
     {
       "auction_date": "Auctions on August 24th",
