@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T15:56:38Z",
-  "total_auctions": 97,
+  "last_updated": "2026-08-11T16:54:12Z",
+  "total_auctions": 96,
   "auctions": [
     {
       "auction_date": "Auctions on August 11, 2026",
@@ -639,17 +639,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153245"
-    },
-    {
-      "auction_date": "Auctions on August 20th",
-      "property_address": "5421 PEMBROKE AVENUE  BALTIMORE MD 21206",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "10%",
-      "principal_balance": "$180,500.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153263"
     },
     {
       "auction_date": "Auctions on August 20th",
