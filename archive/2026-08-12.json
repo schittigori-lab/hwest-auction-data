@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T15:55:32Z",
-  "total_auctions": 91,
+  "last_updated": "2026-08-12T16:53:51Z",
+  "total_auctions": 90,
   "auctions": [
     {
       "auction_date": "Auctions on August 12, 2026",
@@ -584,17 +584,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153307"
-    },
-    {
-      "auction_date": "Auctions on August 20th",
-      "property_address": "1652 LIVINGSTON DRIVE  BEL AIR MD 21015",
-      "auction_time": "3:30 PM",
-      "auction_location": "20 W COURTLAND ST, BEL AIR, MD 21014",
-      "bid_deposit": "10%",
-      "principal_balance": "$398,646.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153275"
     },
     {
       "auction_date": "Auctions on August 20th",
