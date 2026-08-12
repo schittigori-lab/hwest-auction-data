@@ -1,75 +1,9 @@
 {
-  "last_updated": "2026-08-11T21:41:21Z",
-  "total_auctions": 96,
+  "last_updated": "2026-08-12T12:56:18Z",
+  "total_auctions": 92,
   "auctions": [
     {
-      "auction_date": "Auctions on August 11, 2026",
-      "property_address": "1409 Staples Street Northeast  Washington DC 20002",
-      "auction_time": "11:00 AM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153331"
-    },
-    {
-      "auction_date": "Auctions on August 11, 2026",
-      "property_address": "4527 Alabama Ave SE  Washington DC 20019",
-      "auction_time": "11:00 AM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$40K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153400"
-    },
-    {
-      "auction_date": "Auctions on August 11, 2026",
-      "property_address": "120 46th Pl NE  Washington DC 20019",
-      "auction_time": "11:00 AM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153436"
-    },
-    {
-      "auction_date": "Auctions on August 11, 2026",
-      "property_address": "2400 41st St NW 311  Washington DC 20007",
-      "auction_time": "11:00 AM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$25K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153442"
-    },
-    {
-      "auction_date": "Auctions on August 11, 2026",
-      "property_address": "700 Justin Way  Silver Spring MD 20901",
-      "auction_time": "11:45 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$46K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153404"
-    },
-    {
-      "auction_date": "Auctions on August 11, 2026",
-      "property_address": "1202 JACKSON STREET NE UNIT 107  WASHINGTON DC 20017",
-      "auction_time": "2:00 PM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$20/60K",
-      "principal_balance": "",
-      "substitute_trustee": "Russell S. Drazin",
-      "trustee_phone": "202-223-7900",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153468"
-    },
-    {
-      "auction_date": "Auctions on August 12th",
+      "auction_date": "Auctions on August 12, 2026",
       "property_address": "14 N Maryland Ave  Brunswick MD 21716",
       "auction_time": "09:30 AM",
       "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
@@ -80,7 +14,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153387"
     },
     {
-      "auction_date": "Auctions on August 12th",
+      "auction_date": "Auctions on August 12, 2026",
       "property_address": "558 Cotswold Ct  Frederick MD 21703",
       "auction_time": "09:30 AM",
       "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
@@ -91,7 +25,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153393"
     },
     {
-      "auction_date": "Auctions on August 12th",
+      "auction_date": "Auctions on August 12, 2026",
       "property_address": "6731 MEADOWLAWN CIR  New Market MD 21774",
       "auction_time": "9:45 AM",
       "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
@@ -102,7 +36,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153513"
     },
     {
-      "auction_date": "Auctions on August 12th",
+      "auction_date": "Auctions on August 12, 2026",
       "property_address": "3021 Spice Bush  Laurel MD 20724",
       "auction_time": "10:00 AM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -113,18 +47,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153478"
     },
     {
-      "auction_date": "Auctions on August 12th",
-      "property_address": "3027 Medway Street  Silver Spring MD 20902",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$17.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153391"
-    },
-    {
-      "auction_date": "Auctions on August 12th",
+      "auction_date": "Auctions on August 12, 2026",
       "property_address": "11537 Summer Oak Dr  Germantown MD 20874",
       "auction_time": "11:00 AM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
@@ -135,7 +58,18 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153285"
     },
     {
-      "auction_date": "Auctions on August 12th",
+      "auction_date": "Auctions on August 12, 2026",
+      "property_address": "3027 Medway Street  Silver Spring MD 20902",
+      "auction_time": "11:00 AM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "$17.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153391"
+    },
+    {
+      "auction_date": "Auctions on August 12, 2026",
       "property_address": "6498 Cornwall Dr, Unit 7  Eldersburg MD 21784",
       "auction_time": "2:30 PM",
       "auction_location": "200 WILLIS ST (HISTORIC COURTHOUSE) WESTMINSTER, MD 21157",
@@ -146,7 +80,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153389"
     },
     {
-      "auction_date": "Auctions on August 12th",
+      "auction_date": "Auctions on August 12, 2026",
       "property_address": "13136 Warrior Dr  Cumberland MD 21502",
       "auction_time": "4:00 PM",
       "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
@@ -796,6 +730,17 @@
     },
     {
       "auction_date": "Auctions on August 25th",
+      "property_address": "2901 NELSON PLACE SE  WASHINGTON DC 20019",
+      "auction_time": "10:00 AM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$25K",
+      "principal_balance": "$982,500.00",
+      "substitute_trustee": "Russell S. Drazin",
+      "trustee_phone": "202-223-7900",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153524"
+    },
+    {
+      "auction_date": "Auctions on August 25th",
       "property_address": "5406 ILLINOIS AVE NW  WASHINGTON  DC 20011",
       "auction_time": "10:45 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -947,6 +892,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153535"
+    },
+    {
+      "auction_date": "Auctions on August 27th",
+      "property_address": "11224 Rawhide Road  Lusby MD 20657",
+      "auction_time": "9:30 AM",
+      "auction_location": "175 MAIN ST, PRINCE FREDERICK, MD 20678",
+      "bid_deposit": "$23K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153538"
     },
     {
       "auction_date": "Auctions on August 27th",
