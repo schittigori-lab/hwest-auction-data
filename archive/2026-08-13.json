@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T12:57:33Z",
+  "last_updated": "2026-08-13T14:21:26Z",
   "total_auctions": 90,
   "auctions": [
     {
@@ -982,15 +982,15 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153544"
     },
     {
-      "auction_date": "Auctions on September 14th",
-      "property_address": "1761 Wheyfield Drive  Frederick MD 21701",
-      "auction_time": "10:00 AM",
-      "auction_location": "100 W. PATRICK ST, FREDERICK, MD 21701",
-      "bid_deposit": "$50K",
+      "auction_date": "Auctions on October 21st",
+      "property_address": "700 N Grantley Street  Baltimore MD 21229",
+      "auction_time": "10:15 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$20K",
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153637"
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153758"
     }
   ]
 }
