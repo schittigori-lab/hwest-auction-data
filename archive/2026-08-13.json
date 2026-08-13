@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T18:56:25Z",
-  "total_auctions": 88,
+  "last_updated": "2026-08-13T19:55:05Z",
+  "total_auctions": 86,
   "auctions": [
     {
       "auction_date": "Auctions on August 13, 2026",
@@ -224,17 +224,6 @@
     },
     {
       "auction_date": "Auctions on August 19th",
-      "property_address": "2553 W Cold Spring Lane  Baltimore MD 21215",
-      "auction_time": "10:15 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153134"
-    },
-    {
-      "auction_date": "Auctions on August 19th",
       "property_address": "434 E Lanvale Street  Baltimore MD 21202",
       "auction_time": "10:15 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -364,17 +353,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153406"
-    },
-    {
-      "auction_date": "Auctions on August 19th",
-      "property_address": "6 Painters Place Court, Unit 6  Owings Mills MD 21117",
-      "auction_time": "11:45 AM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153414"
     },
     {
       "auction_date": "Auctions on August 19th",
