@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T15:21:30Z",
-  "total_auctions": 106,
+  "last_updated": "2026-08-17T16:21:57Z",
+  "total_auctions": 105,
   "auctions": [
     {
       "auction_date": "Auctions on August 18th",
@@ -67,17 +67,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153371"
-    },
-    {
-      "auction_date": "Auctions on August 18th",
-      "property_address": "342 DAMERON SOUTH  LAUREL MD 20724",
-      "auction_time": "4:00 PM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "10%",
-      "principal_balance": "$268,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153551"
     },
     {
       "auction_date": "Auctions on August 18th",
