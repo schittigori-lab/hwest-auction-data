@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T17:24:55Z",
-  "total_auctions": 120,
+  "last_updated": "2026-08-18T19:25:04Z",
+  "total_auctions": 119,
   "auctions": [
     {
       "auction_date": "Auctions on August 18, 2026",
@@ -232,17 +232,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153206"
-    },
-    {
-      "auction_date": "Auctions on August 19th",
-      "property_address": "2619 Molton Way  Windsor Mill MD 21244",
-      "auction_time": "11:45 AM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$7.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153466"
     },
     {
       "auction_date": "Auctions on August 19th",
