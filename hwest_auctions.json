@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T14:28:26Z",
-  "total_auctions": 126,
+  "last_updated": "2026-08-19T16:28:29Z",
+  "total_auctions": 124,
   "auctions": [
     {
       "auction_date": "Auctions on August 19, 2026",
@@ -103,17 +103,6 @@
     },
     {
       "auction_date": "Auctions on August 19, 2026",
-      "property_address": "11729 LITTLE SENECA PKWY  CLARKSBURG MD 20871",
-      "auction_time": "11:30 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$11.5K",
-      "principal_balance": "",
-      "substitute_trustee": "David Williamson",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153368"
-    },
-    {
-      "auction_date": "Auctions on August 19, 2026",
       "property_address": "3609 Alameda Cir  Baltimore MD 21218",
       "auction_time": "11:30 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -122,17 +111,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153469"
-    },
-    {
-      "auction_date": "Auctions on August 19, 2026",
-      "property_address": "3244 TAPESTRY CIRC  BURTONSVILLE MD 20866",
-      "auction_time": "11:30 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$18.5K",
-      "principal_balance": "",
-      "substitute_trustee": "David Williamson",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153502"
     },
     {
       "auction_date": "Auctions on August 19, 2026",
