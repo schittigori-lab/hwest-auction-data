@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T20:21:47Z",
-  "total_auctions": 123,
+  "last_updated": "2026-08-19T21:23:16Z",
+  "total_auctions": 121,
   "auctions": [
     {
       "auction_date": "Auctions on August 19, 2026",
@@ -147,17 +147,6 @@
     },
     {
       "auction_date": "Auctions on August 20th",
-      "property_address": "5509 BARRINGTON COURT  COLUMBIA MD 21045",
-      "auction_time": "10:00 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "10%",
-      "principal_balance": "$472,000.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153470"
-    },
-    {
-      "auction_date": "Auctions on August 20th",
       "property_address": "3620 MACTAVISH AVENUE  BALTIMORE MD 21229",
       "auction_time": "11:30 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -166,17 +155,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153245"
-    },
-    {
-      "auction_date": "Auctions on August 20th",
-      "property_address": "1512 EAST BIDDLE STREET  BALTIMORE MD 21213",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "10%",
-      "principal_balance": "$237,250.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153532"
     },
     {
       "auction_date": "Auctions on August 20th",
