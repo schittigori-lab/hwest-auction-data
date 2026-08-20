@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T16:29:03Z",
-  "total_auctions": 112,
+  "last_updated": "2026-08-20T17:24:58Z",
+  "total_auctions": 111,
   "auctions": [
     {
       "auction_date": "Auctions on August 20, 2026",
@@ -1222,17 +1222,6 @@
       "substitute_trustee": "",
       "trustee_phone": "",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153544"
-    },
-    {
-      "auction_date": "Auctions on September 28th",
-      "property_address": "2140 Clearview Dr  Owings MD 20736",
-      "auction_time": "2:15 PM",
-      "auction_location": "175 MAIN ST, PRINCE FREDERICK, MD 20678",
-      "bid_deposit": "$36.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153833"
     }
   ]
 }
