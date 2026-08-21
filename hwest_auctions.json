@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-08-20T21:23:27Z",
-  "total_auctions": 109,
+  "last_updated": "2026-08-21T12:35:42Z",
+  "total_auctions": 110,
   "auctions": [
-    {
-      "auction_date": "Auctions on August 20, 2026",
-      "property_address": "3620 MACTAVISH AVENUE  BALTIMORE MD 21229",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "10%",
-      "principal_balance": "$265,980.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153245"
-    },
-    {
-      "auction_date": "Auctions on August 20, 2026",
-      "property_address": "49 ELIZABETH STREET  ELKTON MD 21921",
-      "auction_time": "5:00 PM",
-      "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
-      "bid_deposit": "10%",
-      "principal_balance": "$187,540.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153279"
-    },
     {
       "auction_date": "Auctions on August 24th",
       "property_address": "7145 Marbury Ct  District Heights MD 20747",
@@ -1200,6 +1178,39 @@
       "substitute_trustee": "",
       "trustee_phone": "",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153544"
+    },
+    {
+      "auction_date": "Auctions on September 8th",
+      "property_address": "121 Johnson Drive  Salisbury MD 21804",
+      "auction_time": "12:30 PM",
+      "auction_location": "101 NORTH DIVISION STREET, SALISBURY, MARYLAND 21801",
+      "bid_deposit": "$18.0K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153731"
+    },
+    {
+      "auction_date": "Auctions on September 8th",
+      "property_address": "105 BRINSMAID COURT  BALTIMORE MD 21237",
+      "auction_time": "1:30 PM",
+      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
+      "bid_deposit": "$35.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153621"
+    },
+    {
+      "auction_date": "Auctions on September 8th",
+      "property_address": "26300 Stouty Sterling Rd  Crisfield MD 21817",
+      "auction_time": "1:30 PM",
+      "auction_location": "30512 PRINCE WILLIAM ST, PRINCESS ANNE, MD 21853",
+      "bid_deposit": "$23K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153738"
     }
   ]
 }
