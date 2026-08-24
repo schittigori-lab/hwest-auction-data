@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T16:30:19Z",
-  "total_auctions": 115,
+  "last_updated": "2026-08-24T17:27:11Z",
+  "total_auctions": 113,
   "auctions": [
     {
       "auction_date": "Auctions on August 24, 2026",
@@ -411,17 +411,6 @@
     },
     {
       "auction_date": "Auctions on September 1st",
-      "property_address": "6126 DEERBROOK RD  CATONSVILLE MD 21228",
-      "auction_time": "1:30 PM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$31.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153460"
-    },
-    {
-      "auction_date": "Auctions on September 1st",
       "property_address": "4001 MCDONOGH ROAD  RANDALLSTOWN MD 21133",
       "auction_time": "1:30 PM",
       "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
@@ -496,17 +485,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153676"
-    },
-    {
-      "auction_date": "Auctions on September 1st",
-      "property_address": "1200 HILL ROAD  LANDOVER MD 20785",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$131,800.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153541"
     },
     {
       "auction_date": "Auctions on September 1st",
