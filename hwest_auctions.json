@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-21T21:19:54Z",
-  "total_auctions": 110,
+  "last_updated": "2026-08-24T12:38:02Z",
+  "total_auctions": 116,
   "auctions": [
     {
-      "auction_date": "Auctions on August 24th",
+      "auction_date": "Auctions on August 24, 2026",
       "property_address": "7145 Marbury Ct  District Heights MD 20747",
       "auction_time": "10:00 AM",
       "auction_location": "200 N. COMMERCE STREET, CENTREVILLE, MD 21617",
@@ -14,7 +14,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153575"
     },
     {
-      "auction_date": "Auctions on August 24th",
+      "auction_date": "Auctions on August 24, 2026",
       "property_address": "135 South Street  Secretary MD 21664",
       "auction_time": "11:30 AM",
       "auction_location": "206 HIGH ST. CAMBRIDGE, MD 21613",
@@ -25,7 +25,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153463"
     },
     {
-      "auction_date": "Auctions on August 24th",
+      "auction_date": "Auctions on August 24, 2026",
       "property_address": "10518 TELLURIDE PLACE  WHITE PLAINS MD 20695",
       "auction_time": "12:45 PM",
       "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
@@ -36,7 +36,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153556"
     },
     {
-      "auction_date": "Auctions on August 24th",
+      "auction_date": "Auctions on August 24, 2026",
       "property_address": "5684 VIRGINIA LN  OXON HILL MD 20745",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -47,7 +47,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153374"
     },
     {
-      "auction_date": "Auctions on August 24th",
+      "auction_date": "Auctions on August 24, 2026",
       "property_address": "4152 CRAB APPLE CT #2  SUITLAND MD 20746",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -58,7 +58,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153380"
     },
     {
-      "auction_date": "Auctions on August 24th",
+      "auction_date": "Auctions on August 24, 2026",
       "property_address": "106 CREE DR  OXON HILL MD 20745",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -69,7 +69,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153383"
     },
     {
-      "auction_date": "Auctions on August 24th",
+      "auction_date": "Auctions on August 24, 2026",
       "property_address": "8810 FRANCISCO CT  Upper Marlboro MD 20774",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -1211,6 +1211,72 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153738"
+    },
+    {
+      "auction_date": "Auctions on September 8th",
+      "property_address": "2201 228TH STREET  PASADENA MD 21122",
+      "auction_time": "4:15 PM",
+      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
+      "bid_deposit": "$25K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153693"
+    },
+    {
+      "auction_date": "Auctions on September 8th",
+      "property_address": "387 ROCK SPRINGS RD.  CONOWINGO MD 21918",
+      "auction_time": "4:30 PM",
+      "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
+      "bid_deposit": "$17.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153633"
+    },
+    {
+      "auction_date": "Auctions on September 9th",
+      "property_address": "11204 MIDVALE ROAD  KENSINGTON MD 20895",
+      "auction_time": "11:30AM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "$17.5K",
+      "principal_balance": "",
+      "substitute_trustee": "David Williamson",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153709"
+    },
+    {
+      "auction_date": "Auctions on September 9th",
+      "property_address": "31 F Queen Anne Way  Chester MD 21619",
+      "auction_time": "12:00 PM",
+      "auction_location": "200 N. COMMERCE STREET, CENTREVILLE, MD 21617",
+      "bid_deposit": "$30K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153592"
+    },
+    {
+      "auction_date": "Auctions on September 9th",
+      "property_address": "25855 Hunters Point Lane  Denton MD 21629",
+      "auction_time": "2:30 PM",
+      "auction_location": "109 MARKET ST, DENTON, MD 21629",
+      "bid_deposit": "$25K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153707"
+    },
+    {
+      "auction_date": "Auctions on September 9th",
+      "property_address": "213 Liberty Road  Federalsburg MD 21632",
+      "auction_time": "2:30 PM",
+      "auction_location": "109 MARKET ST, DENTON, MD 21629",
+      "bid_deposit": "$5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153759"
     }
   ]
 }
