@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T17:27:11Z",
-  "total_auctions": 113,
+  "last_updated": "2026-08-24T18:32:29Z",
+  "total_auctions": 111,
   "auctions": [
     {
       "auction_date": "Auctions on August 24, 2026",
@@ -243,17 +243,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153538"
-    },
-    {
-      "auction_date": "Auctions on August 27th",
-      "property_address": "5344 BUCKTOWN ROAD  CAMBRIDGE MD 21613",
-      "auction_time": "11:30 AM",
-      "auction_location": "206 HIGH ST. CAMBRIDGE, MD 21613",
-      "bid_deposit": "$18.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153375"
     },
     {
       "auction_date": "Auctions on August 27th",
@@ -826,17 +815,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153453"
-    },
-    {
-      "auction_date": "Auctions on September 2nd",
-      "property_address": "318 MCDOWELL AVE  HAGERSTOWN MD 21740",
-      "auction_time": "2:15 PM",
-      "auction_location": "95 W. WASHINGTON STREET, HAGERSTOWN, MD 21740",
-      "bid_deposit": "$8.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153552"
     },
     {
       "auction_date": "Auctions on September 2nd",
