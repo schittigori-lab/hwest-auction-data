@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T19:25:46Z",
-  "total_auctions": 111,
+  "last_updated": "2026-08-24T20:24:20Z",
+  "total_auctions": 110,
   "auctions": [
     {
       "auction_date": "Auctions on August 24, 2026",
@@ -815,17 +815,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153453"
-    },
-    {
-      "auction_date": "Auctions on September 2nd",
-      "property_address": "6 Ashmed Ct  Elkton MD 21921",
-      "auction_time": "2:30 PM",
-      "auction_location": "129 E. MAIN ST, ELKTON, MD 21921",
-      "bid_deposit": "$18.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153608"
     },
     {
       "auction_date": "Auctions on September 2nd",
