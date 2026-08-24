@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T14:37:42Z",
-  "total_auctions": 116,
+  "last_updated": "2026-08-24T15:35:19Z",
+  "total_auctions": 115,
   "auctions": [
     {
       "auction_date": "Auctions on August 24, 2026",
@@ -1266,17 +1266,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153759"
-    },
-    {
-      "auction_date": "Auctions on October 19th",
-      "property_address": "725 BEDFORD STREET  CUMBERLAND MD 21502",
-      "auction_time": "2:00 PM",
-      "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
-      "bid_deposit": "$5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153855"
     }
   ]
 }
