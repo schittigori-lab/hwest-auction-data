@@ -1,86 +1,9 @@
 {
-  "last_updated": "2026-08-24T21:25:24Z",
-  "total_auctions": 110,
+  "last_updated": "2026-08-25T12:37:51Z",
+  "total_auctions": 107,
   "auctions": [
     {
-      "auction_date": "Auctions on August 24, 2026",
-      "property_address": "7145 Marbury Ct  District Heights MD 20747",
-      "auction_time": "10:00 AM",
-      "auction_location": "200 N. COMMERCE STREET, CENTREVILLE, MD 21617",
-      "bid_deposit": "$16.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153575"
-    },
-    {
-      "auction_date": "Auctions on August 24, 2026",
-      "property_address": "135 South Street  Secretary MD 21664",
-      "auction_time": "11:30 AM",
-      "auction_location": "206 HIGH ST. CAMBRIDGE, MD 21613",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153463"
-    },
-    {
-      "auction_date": "Auctions on August 24, 2026",
-      "property_address": "10518 TELLURIDE PLACE  WHITE PLAINS MD 20695",
-      "auction_time": "12:45 PM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "$5.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153556"
-    },
-    {
-      "auction_date": "Auctions on August 24, 2026",
-      "property_address": "5684 VIRGINIA LN  OXON HILL MD 20745",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$17.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153374"
-    },
-    {
-      "auction_date": "Auctions on August 24, 2026",
-      "property_address": "106 CREE DR  OXON HILL MD 20745",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$11.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153383"
-    },
-    {
-      "auction_date": "Auctions on August 24, 2026",
-      "property_address": "8810 FRANCISCO CT  Upper Marlboro MD 20774",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$31.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153474"
-    },
-    {
-      "auction_date": "Auctions on August 25th",
-      "property_address": "10133 PRINCE PLACE #404-12C  UPPER MARLBORO MD 20774",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$25K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153698"
-    },
-    {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "2901 NELSON PLACE SE  WASHINGTON DC 20019",
       "auction_time": "10:00 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -91,7 +14,18 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153524"
     },
     {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
+      "property_address": "10133 PRINCE PLACE #404-12C  UPPER MARLBORO MD 20774",
+      "auction_time": "10:00 AM",
+      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
+      "bid_deposit": "$25K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153698"
+    },
+    {
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "5406 ILLINOIS AVE NW  WASHINGTON  DC 20011",
       "auction_time": "10:45 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -102,7 +36,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153477"
     },
     {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "3022 23rd St SE  Washington DC 20020",
       "auction_time": "11:00 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -113,7 +47,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153520"
     },
     {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "4532 Eads Place NE  Washington DC 20019",
       "auction_time": "11:00 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -124,7 +58,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153522"
     },
     {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "5117 New Hampshire Avenue North West  Washington DC 20011",
       "auction_time": "11:00 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -135,7 +69,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153523"
     },
     {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "5039 - 5043 A St SE,  Washington DC 20019",
       "auction_time": "11:00 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -146,7 +80,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153533"
     },
     {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "1711 Kalmia Road NW  Washington DC 20012",
       "auction_time": "11:00 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -157,7 +91,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153534"
     },
     {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "3832 Halley Terrace SE  Washington DC 20032",
       "auction_time": "12:00 PM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -168,7 +102,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153479"
     },
     {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "56 Galveston Place Southwest  Washington DC 20032",
       "auction_time": "12:00 PM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -179,7 +113,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153484"
     },
     {
-      "auction_date": "Auctions on August 25th",
+      "auction_date": "Auctions on August 25, 2026",
       "property_address": "11955 Jeffrey Ln  Princess Anne MD 21853",
       "auction_time": "01:30 PM",
       "auction_location": "30512 PRINCE WILLIAM ST, PRINCESS ANNE, MD 21853",
@@ -210,17 +144,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153561"
-    },
-    {
-      "auction_date": "Auctions on August 26th",
-      "property_address": "7521 Tarpley Dr  Rockville MD 20855",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$33.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153595"
     },
     {
       "auction_date": "Auctions on August 26th",
@@ -1170,6 +1093,28 @@
     },
     {
       "auction_date": "Auctions on September 9th",
+      "property_address": "7917 Coriander Dr, Unit 103  Gaithersburg MD 20879",
+      "auction_time": "11:00 AM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "$15K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153604"
+    },
+    {
+      "auction_date": "Auctions on September 9th",
+      "property_address": "14910 Bradwill Court  Rockville MD 20850",
+      "auction_time": "11:00 AM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "$46.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153440"
+    },
+    {
+      "auction_date": "Auctions on September 9th",
       "property_address": "11204 MIDVALE ROAD  KENSINGTON MD 20895",
       "auction_time": "11:30AM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
@@ -1211,6 +1156,28 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153759"
+    },
+    {
+      "auction_date": "Auctions on September 22nd",
+      "property_address": "123 Peabody Street, NW  Washington DC 20011",
+      "auction_time": "11:30 AM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$0.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153781"
+    },
+    {
+      "auction_date": "Auctions on September 22nd",
+      "property_address": "2215 Hunter Place SE, #303  Washington DC 20020",
+      "auction_time": "11:30 AM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "$19K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153782"
     }
   ]
 }
