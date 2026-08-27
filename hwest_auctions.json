@@ -1,20 +1,9 @@
 {
-  "last_updated": "2026-08-26T21:35:56Z",
-  "total_auctions": 101,
+  "last_updated": "2026-08-27T21:37:38Z",
+  "total_auctions": 104,
   "auctions": [
     {
-      "auction_date": "Auctions on August 26, 2026",
-      "property_address": "1100 Agnew Dr  Rockville MD 20851",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$41.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153561"
-    },
-    {
-      "auction_date": "Auctions on August 27th",
+      "auction_date": "Auctions on August 27, 2026",
       "property_address": "11224 Rawhide Road  Lusby MD 20657",
       "auction_time": "9:30 AM",
       "auction_location": "175 MAIN ST, PRINCE FREDERICK, MD 20678",
@@ -25,7 +14,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153538"
     },
     {
-      "auction_date": "Auctions on August 27th",
+      "auction_date": "Auctions on August 27, 2026",
       "property_address": "5547 FORCE ROAD  BALTIMORE MD 21206",
       "auction_time": "11:30 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -36,7 +25,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=153599"
     },
     {
-      "auction_date": "Auctions on August 27th",
+      "auction_date": "Auctions on August 27, 2026",
       "property_address": "1831 CLEARWOOD ROAD  PARKVILLE MD 21234",
       "auction_time": "1:30 PM",
       "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
@@ -48,17 +37,6 @@
     },
     {
       "auction_date": "Auctions on August 28th",
-      "property_address": "205 & 206 ALLENSWAY DR  EDGEWATER MD 21037",
-      "auction_time": "10:00 AM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$40K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "703-352-1300",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153692"
-    },
-    {
-      "auction_date": "Auctions on August 28th",
       "property_address": "8062 NORTH FORK BOULEVARD  EASTON MD 21601",
       "auction_time": "10:30 AM",
       "auction_location": "11 NORTH WASHINGTON STREET, EASTON, MD  21601",
@@ -67,17 +45,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153716"
-    },
-    {
-      "auction_date": "Auctions on August 28th",
-      "property_address": "512 MAIN STREET  CHURCH HILL MD 21623",
-      "auction_time": "12:00 PM",
-      "auction_location": "200 N. COMMERCE STREET, CENTREVILLE, MD 21617",
-      "bid_deposit": "$10K",
-      "principal_balance": "",
-      "substitute_trustee": "Van Galoubandi",
-      "trustee_phone": "(410) 739-4562",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153467"
     },
     {
       "auction_date": "Auctions on September 1st",
@@ -529,17 +496,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153492"
-    },
-    {
-      "auction_date": "Auctions on September 2nd",
-      "property_address": "13713 GULLIVERS TRAIL  BOWIE MD 20720",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153511"
     },
     {
       "auction_date": "Auctions on September 2nd",
@@ -1060,6 +1016,17 @@
     },
     {
       "auction_date": "Auctions on September 10th",
+      "property_address": "3432 WILKENS AVENUE  BALTIMORE MD 21229",
+      "auction_time": "11:45 AM",
+      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
+      "bid_deposit": "$10K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153715"
+    },
+    {
+      "auction_date": "Auctions on September 10th",
       "property_address": "14038 GALLOP TERRACE  GERMANTOWN MD 20874",
       "auction_time": "1:00 PM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
@@ -1079,6 +1046,61 @@
       "substitute_trustee": "",
       "trustee_phone": "",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153852"
+    },
+    {
+      "auction_date": "Auctions on September 15th",
+      "property_address": "3362 LOX STREET  INDIAN HEAD MD 20640",
+      "auction_time": "12:00 PM",
+      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
+      "bid_deposit": "10%",
+      "principal_balance": "$263,761.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153801"
+    },
+    {
+      "auction_date": "Auctions on September 15th",
+      "property_address": "4804 FOREST PINES DRIVE  UPPER MARLBORO MD 20772",
+      "auction_time": "2:00 PM",
+      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
+      "bid_deposit": "10%",
+      "principal_balance": "$383,939.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153609"
+    },
+    {
+      "auction_date": "Auctions on September 15th",
+      "property_address": "7805 PINEWOOD DRIVE  CLINTON MD 20735",
+      "auction_time": "2:00 PM",
+      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
+      "bid_deposit": "10%",
+      "principal_balance": "$348,570.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153732"
+    },
+    {
+      "auction_date": "Auctions on September 15th",
+      "property_address": "7529 COURTNEY PLACE   LANDOVER MD 20785",
+      "auction_time": "2:00 PM",
+      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
+      "bid_deposit": "10%",
+      "principal_balance": "$110,738.78",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153321"
+    },
+    {
+      "auction_date": "Auctions on September 15th",
+      "property_address": "1545 HODGES AVENUE  GLEN BURNIE MD 21060",
+      "auction_time": "4:00 PM",
+      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
+      "bid_deposit": "10%",
+      "principal_balance": "$304,385.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153577"
     },
     {
       "auction_date": "Auctions on September 22nd",
@@ -1101,6 +1123,17 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153782"
+    },
+    {
+      "auction_date": "Auctions on September 22nd",
+      "property_address": "836 5TH STREET NE  WASHINGTON DC 20002",
+      "auction_time": "12:30 PM",
+      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
+      "bid_deposit": "10%",
+      "principal_balance": "$850,000.00",
+      "substitute_trustee": "Gregory N. Britto, et al.",
+      "trustee_phone": "(703) 449-5800",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=153719"
     },
     {
       "auction_date": "Auctions on October 5th",
