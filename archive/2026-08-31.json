@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T18:38:45Z",
-  "total_auctions": 134,
+  "last_updated": "2026-08-31T23:08:09Z",
+  "total_auctions": 133,
   "auctions": [
     {
       "auction_date": "Auctions on September 1st",
@@ -45,17 +45,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153457"
-    },
-    {
-      "auction_date": "Auctions on September 1st",
-      "property_address": "3002 TIOGA PKWY  Baltimore MD 21215",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$16.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153498"
     },
     {
       "auction_date": "Auctions on September 1st",
