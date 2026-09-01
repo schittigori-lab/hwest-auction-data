@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-01T15:58:08Z",
-  "total_auctions": 132,
+  "last_updated": "2026-09-01T19:10:39Z",
+  "total_auctions": 129,
   "auctions": [
     {
       "auction_date": "Auctions on September 01, 2026",
@@ -106,7 +106,7 @@
       "property_address": "10907 MARLBORO CROSSING COURT  CHELTENHAM MD 20623",
       "auction_time": "2:00 PM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$K",
+      "bid_deposit": "10%",
       "principal_balance": "$525,230.00",
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
@@ -290,17 +290,6 @@
     },
     {
       "auction_date": "Auctions on September 2nd",
-      "property_address": "2716 Pinewood Drive  Waldorf MD 20601",
-      "auction_time": "12:30 PM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "$40K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153581"
-    },
-    {
-      "auction_date": "Auctions on September 2nd",
       "property_address": "2113 QUEENSGUARD ROAD  SILVER SPRING MD 20906",
       "auction_time": "1:00 PM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
@@ -430,17 +419,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153415"
-    },
-    {
-      "auction_date": "Auctions on September 3rd",
-      "property_address": "811 BEETZ ROAD  MOUNT AIRY  MD 21771",
-      "auction_time": "10:00 AM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "10%",
-      "principal_balance": "$340,415.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153336"
     },
     {
       "auction_date": "Auctions on September 3rd",
@@ -832,7 +810,7 @@
       "property_address": "2701 & 2707 CHESAPEAKE ST NW  WASHINGTON DC 20008",
       "auction_time": "11:00 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "250 OR 10%",
+      "bid_deposit": "$250K",
       "principal_balance": "",
       "substitute_trustee": "",
       "trustee_phone": "(301) 230-5241",
@@ -1365,17 +1343,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153613"
-    },
-    {
-      "auction_date": "Auctions on September 17th",
-      "property_address": "1604 FOREST VALLEY COURT  FOREST HILL MD 21050",
-      "auction_time": "3:30 PM",
-      "auction_location": "20 W COURTLAND ST, BEL AIR, MD 21014",
-      "bid_deposit": "10%",
-      "principal_balance": "$269,942.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153591"
     },
     {
       "auction_date": "Auctions on September 18th",
