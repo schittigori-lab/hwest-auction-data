@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T15:50:54Z",
-  "total_auctions": 99,
+  "last_updated": "2026-09-08T19:13:33Z",
+  "total_auctions": 97,
   "auctions": [
     {
       "auction_date": "Auctions on September 08, 2026",
@@ -221,17 +221,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153715"
-    },
-    {
-      "auction_date": "Auctions on September 10th",
-      "property_address": "14038 GALLOP TERRACE  GERMANTOWN MD 20874",
-      "auction_time": "1:00 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$35K",
-      "principal_balance": "",
-      "substitute_trustee": "Erin M. August",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153726"
     },
     {
       "auction_date": "Auctions on September 10th",
@@ -870,17 +859,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153634"
-    },
-    {
-      "auction_date": "Auctions on September 21st",
-      "property_address": "5801 ELLERBIE STREET  LANHAM MD 20706",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$23.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153455"
     },
     {
       "auction_date": "Auctions on September 21st",
