@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T15:46:38Z",
-  "total_auctions": 91,
+  "last_updated": "2026-09-09T19:01:42Z",
+  "total_auctions": 90,
   "auctions": [
     {
       "auction_date": "Auctions on September 09, 2026",
@@ -15,7 +15,7 @@
     },
     {
       "auction_date": "Auctions on September 09, 2026",
-      "property_address": "14910 Bradwill Court  Rockville MD 20850",
+      "property_address": "14910 BRADWILL COURT  Rockville MD 20850",
       "auction_time": "11:00 AM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
       "bid_deposit": "$46.5K",
@@ -496,17 +496,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153764"
-    },
-    {
-      "auction_date": "Auctions on September 16th",
-      "property_address": "22 DAVIDSON STREET  FROSTBURG MD 21532",
-      "auction_time": "4:00 PM",
-      "auction_location": "30 WASHINGTON ST, CUMBERLAND, MD 21502",
-      "bid_deposit": "10%",
-      "principal_balance": "$80,808.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153847"
     },
     {
       "auction_date": "Auctions on September 16th",
