@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T17:27:05Z",
-  "total_auctions": 109,
+  "last_updated": "2026-09-14T21:19:41Z",
+  "total_auctions": 106,
   "auctions": [
     {
       "auction_date": "Auctions on September 14, 2026",
@@ -81,17 +81,6 @@
     },
     {
       "auction_date": "Auctions on September 14, 2026",
-      "property_address": "5806 HUNTLAND ROAD  TEMPLE HILLS MD 20748",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$22.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153654"
-    },
-    {
-      "auction_date": "Auctions on September 14, 2026",
       "property_address": "7616 QUARTZITE LANE  GLEN BURNIE MD 21060",
       "auction_time": "4:00 PM",
       "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
@@ -100,28 +89,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153501"
-    },
-    {
-      "auction_date": "Auctions on September 14, 2026",
-      "property_address": "1204 FARMVIEW ROAD  PASADENA MD 21122",
-      "auction_time": "4:00 PM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$15.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153618"
-    },
-    {
-      "auction_date": "Auctions on September 14, 2026",
-      "property_address": "1150 CRANSTON CT  CROFTON MD 21114",
-      "auction_time": "4:00 PM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$28.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153670"
     },
     {
       "auction_date": "Auctions on September 15th",
