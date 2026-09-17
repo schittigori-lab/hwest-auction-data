@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T16:03:38Z",
-  "total_auctions": 107,
+  "last_updated": "2026-09-17T20:00:38Z",
+  "total_auctions": 106,
   "auctions": [
     {
       "auction_date": "Auctions on September 17, 2026",
@@ -221,17 +221,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153781"
-    },
-    {
-      "auction_date": "Auctions on September 22nd",
-      "property_address": "2215 Hunter Place SE, #303  Washington DC 20020",
-      "auction_time": "11:30 AM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$19K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153782"
     },
     {
       "auction_date": "Auctions on September 22nd",
