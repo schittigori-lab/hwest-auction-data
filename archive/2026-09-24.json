@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T20:16:05Z",
-  "total_auctions": 103,
+  "last_updated": "2026-09-24T23:45:06Z",
+  "total_auctions": 102,
   "auctions": [
     {
       "auction_date": "Auctions on September 24, 2026",
@@ -1123,17 +1123,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153951"
-    },
-    {
-      "auction_date": "Auctions on November 9th",
-      "property_address": "7313 SCHOOL AVE  DUNDALK MD 21222",
-      "auction_time": "1:00 PM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$23K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154115"
     }
   ]
 }
