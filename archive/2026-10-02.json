@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T17:16:09Z",
-  "total_auctions": 69,
+  "last_updated": "2026-10-02T21:43:22Z",
+  "total_auctions": 68,
   "auctions": [
     {
       "auction_date": "Auctions on October 02, 2026",
@@ -67,17 +67,6 @@
       "substitute_trustee": "Casey J. College",
       "trustee_phone": "202-463-4567",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154054"
-    },
-    {
-      "auction_date": "Auctions on October 6th",
-      "property_address": "6090 Tolchester Rd  Rock Hall MD 21661",
-      "auction_time": "12:30 PM",
-      "auction_location": "103 N. CROSS ST, CHESTERTOWN, MD 21620",
-      "bid_deposit": "$15.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153894"
     },
     {
       "auction_date": "Auctions on October 6th",
