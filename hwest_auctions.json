@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-06T01:39:34Z",
-  "total_auctions": 82,
+  "last_updated": "2026-10-06T17:46:35Z",
+  "total_auctions": 81,
   "auctions": [
-    {
-      "auction_date": "Auctions on October 06, 2026",
-      "property_address": "6027 Fairfield Lane  Sykesville MD 21784",
-      "auction_time": "10:00 AM",
-      "auction_location": "200 WILLIS ST (HISTORIC COURTHOUSE) WESTMINSTER, MD 21157",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153825"
-    },
     {
       "auction_date": "Auctions on October 06, 2026",
       "property_address": "3287 SUTTON PLACE NW #A  WASHINGTON DC 20016",
@@ -752,7 +741,7 @@
     },
     {
       "auction_date": "Auctions on October 20th",
-      "property_address": "2406 Love Point Rd  Stevensville MD 21666",
+      "property_address": "2406 LOVE POINT RD  Stevensville MD 21666",
       "auction_time": "11:30 AM",
       "auction_location": "200 N. COMMERCE STREET, CENTREVILLE, MD 21617",
       "bid_deposit": "$28K",
