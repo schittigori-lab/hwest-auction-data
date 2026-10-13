@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T02:23:35Z",
-  "total_auctions": 125,
+  "last_updated": "2026-10-13T18:47:23Z",
+  "total_auctions": 118,
   "auctions": [
     {
       "auction_date": "Auctions on October 13, 2026",
@@ -15,17 +15,6 @@
     },
     {
       "auction_date": "Auctions on October 13, 2026",
-      "property_address": "5039 - 5043 A St SE  Washington DC 20019",
-      "auction_time": "11:00 AM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153866"
-    },
-    {
-      "auction_date": "Auctions on October 13, 2026",
       "property_address": "4616 Hayes Street North East  Washington DC 20019",
       "auction_time": "11:00 AM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -34,17 +23,6 @@
       "substitute_trustee": "",
       "trustee_phone": "(703) 777-7101",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153871"
-    },
-    {
-      "auction_date": "Auctions on October 13, 2026",
-      "property_address": "48241 PICKETTS HARBOR COURT  LEXINGTON PARK MD 20653",
-      "auction_time": "11:00 AM",
-      "auction_location": "41605 COURTHOUSE DRIVE, LEONARDTOWN, MD 20650",
-      "bid_deposit": "10%",
-      "principal_balance": "$244,800.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153903"
     },
     {
       "auction_date": "Auctions on October 13, 2026",
@@ -103,17 +81,6 @@
     },
     {
       "auction_date": "Auctions on October 13, 2026",
-      "property_address": "4921 TURTLE CREEK COURT  WALDORF MD 20601",
-      "auction_time": "12:00 PM",
-      "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
-      "bid_deposit": "10%",
-      "principal_balance": "$613,005.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153886"
-    },
-    {
-      "auction_date": "Auctions on October 13, 2026",
       "property_address": "1366 H Street NE  Washington DC 20002",
       "auction_time": "12:00 PM",
       "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
@@ -122,17 +89,6 @@
       "substitute_trustee": "",
       "trustee_phone": "",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153939"
-    },
-    {
-      "auction_date": "Auctions on October 13, 2026",
-      "property_address": "9644 EAVES DRIVE  OWINGS MILLS MD 21117",
-      "auction_time": "1:30 PM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$33.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153961"
     },
     {
       "auction_date": "Auctions on October 13, 2026",
@@ -246,17 +202,6 @@
     },
     {
       "auction_date": "Auctions on October 14th",
-      "property_address": "2150 OLD FRIDINGER MILL ROAD  WESTMINSTER MD 21157",
-      "auction_time": "11:00 AM",
-      "auction_location": "200 WILLIS ST (HISTORIC COURTHOUSE) WESTMINSTER, MD 21157",
-      "bid_deposit": "10%",
-      "principal_balance": "$613,679.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153819"
-    },
-    {
-      "auction_date": "Auctions on October 14th",
       "property_address": "7505 DEMOCRACY BLVD #A-417  BETHESDA MD 20817",
       "auction_time": "11:30 AM",
       "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
@@ -287,17 +232,6 @@
       "substitute_trustee": "David Williamson",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153789"
-    },
-    {
-      "auction_date": "Auctions on October 14th",
-      "property_address": "7501 Cove Point Way  Elkridge MD 21075",
-      "auction_time": "12:30 PM",
-      "auction_location": "9250 JUDICIAL WAY, ELLICOTT CITY, MD  21043",
-      "bid_deposit": "$26.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153841"
     },
     {
       "auction_date": "Auctions on October 14th",
@@ -804,17 +738,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153834"
-    },
-    {
-      "auction_date": "Auctions on October 21st",
-      "property_address": "4714 Truffle Ln  Owings Mills MD 21117",
-      "auction_time": "11:45 AM",
-      "auction_location": "401 BOSLEY AVE (MAIN ENTRANCE FACING PATRIOT PLAZA), TOWSON, MD 21204",
-      "bid_deposit": "$29K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153850"
     },
     {
       "auction_date": "Auctions on October 21st",
