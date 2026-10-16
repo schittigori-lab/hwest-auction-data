@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T19:13:51Z",
-  "total_auctions": 99,
+  "last_updated": "2026-10-16T22:25:49Z",
+  "total_auctions": 97,
   "auctions": [
     {
       "auction_date": "Auctions on October 16, 2026",
@@ -246,17 +246,6 @@
     },
     {
       "auction_date": "Auctions on October 21st",
-      "property_address": "2553 W Cold Spring Lane  Baltimore MD 21215",
-      "auction_time": "10:15 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153794"
-    },
-    {
-      "auction_date": "Auctions on October 21st",
       "property_address": "6015 Old Harford Rd  Baltimore MD 21214",
       "auction_time": "10:15 AM",
       "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
@@ -485,17 +474,6 @@
       "substitute_trustee": "Van Galoubandi",
       "trustee_phone": "(410) 739-4562",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154201"
-    },
-    {
-      "auction_date": "Auctions on October 26th",
-      "property_address": "2005 Oliver St  Hyattsville MD 20782",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$8.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153872"
     },
     {
       "auction_date": "Auctions on October 26th",
