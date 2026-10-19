@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T18:10:41Z",
-  "total_auctions": 94,
+  "last_updated": "2026-10-19T22:46:29Z",
+  "total_auctions": 92,
   "auctions": [
     {
       "auction_date": "Auctions on October 19, 2026",
@@ -133,17 +133,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153780"
-    },
-    {
-      "auction_date": "Auctions on October 20th",
-      "property_address": "214 CHELSEA RD  Pasadena MD 21122",
-      "auction_time": "4:15 PM",
-      "auction_location": "8 CHURCH CIR, ANNAPOLIS, MD 21401",
-      "bid_deposit": "$27K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154036"
     },
     {
       "auction_date": "Auctions on October 20th",
@@ -386,17 +375,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153996"
-    },
-    {
-      "auction_date": "Auctions on October 23rd",
-      "property_address": "400 PARK AVENUE & 214 WEST MULBERRY STREET  BALTIMORE MD 21201",
-      "auction_time": "10:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$75K",
-      "principal_balance": "",
-      "substitute_trustee": "Erin M. August",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154177"
     },
     {
       "auction_date": "Auctions on October 23rd",
