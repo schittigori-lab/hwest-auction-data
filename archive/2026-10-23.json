@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T16:17:57Z",
-  "total_auctions": 118,
+  "last_updated": "2026-10-23T20:12:44Z",
+  "total_auctions": 114,
   "auctions": [
     {
       "auction_date": "Auctions on October 23, 2026",
@@ -59,17 +59,6 @@
     },
     {
       "auction_date": "Auctions on October 26th",
-      "property_address": "6416 Joe Klutsch Dr  Fort Washington MD 20744",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$20.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154091"
-    },
-    {
-      "auction_date": "Auctions on October 26th",
       "property_address": "7603 Gambier Drive  Upper Marlboro MD 20772",
       "auction_time": "10:00 AM",
       "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
@@ -114,17 +103,6 @@
     },
     {
       "auction_date": "Auctions on October 26th",
-      "property_address": "48403 Surfside Dr  Lexington Park MD 20653",
-      "auction_time": "1:00 PM",
-      "auction_location": "41605 COURTHOUSE DRIVE, LEONARDTOWN, MD 20650",
-      "bid_deposit": "$3.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153914"
-    },
-    {
-      "auction_date": "Auctions on October 26th",
       "property_address": "9709 Ridge View Drive  Owings MD 20736",
       "auction_time": "2:15 PM",
       "auction_location": "175 MAIN ST, PRINCE FREDERICK, MD 20678",
@@ -133,17 +111,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154015"
-    },
-    {
-      "auction_date": "Auctions on October 26th",
-      "property_address": "11900 LUSBYS LANE  BRANDYWINE MD 20613",
-      "auction_time": "3:30 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$30K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "703-352-1300",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154141"
     },
     {
       "auction_date": "Auctions on October 27th",
@@ -430,17 +397,6 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154058"
-    },
-    {
-      "auction_date": "Auctions on October 29th",
-      "property_address": "2400 EUTAW PLACE  BALTIMORE MD 21217",
-      "auction_time": "11:45 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$55K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153988"
     },
     {
       "auction_date": "Auctions on October 29th",
