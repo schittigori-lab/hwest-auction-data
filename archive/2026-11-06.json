@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T18:47:29Z",
-  "total_auctions": 91,
+  "last_updated": "2026-11-06T23:38:01Z",
+  "total_auctions": 88,
   "auctions": [
     {
       "auction_date": "Auctions on November 9th",
@@ -70,17 +70,6 @@
     },
     {
       "auction_date": "Auctions on November 9th",
-      "property_address": "6308 Stonefence Ct  Clinton MD 20735",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$25.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154298"
-    },
-    {
-      "auction_date": "Auctions on November 9th",
       "property_address": "11318 WILDMEADOWS STREET  WALDORF MD 20601",
       "auction_time": "12:45 PM",
       "auction_location": "200 CHARLES STREET ( IN THE BREEZEWAY BETWEEN CIRCUIT AND DISTRICT COURTS ), LA PLATA, MD 20646",
@@ -100,17 +89,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=153792"
-    },
-    {
-      "auction_date": "Auctions on November 9th",
-      "property_address": "47955 Mary Lynn Dr  Lexington Park MD 20653",
-      "auction_time": "1:00 PM",
-      "auction_location": "41605 COURTHOUSE DRIVE, LEONARDTOWN, MD 20650",
-      "bid_deposit": "$39.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154126"
     },
     {
       "auction_date": "Auctions on November 9th",
@@ -144,17 +122,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154077"
-    },
-    {
-      "auction_date": "Auctions on November 9th",
-      "property_address": "13504 MARY BOWIE PKWY  UPPER MARLBORO MD 20774",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$48.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154085"
     },
     {
       "auction_date": "Auctions on November 9th",
