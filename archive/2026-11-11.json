@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T00:23:56Z",
-  "total_auctions": 70,
+  "last_updated": "2026-11-11T19:08:47Z",
+  "total_auctions": 67,
   "auctions": [
     {
       "auction_date": "Auctions on November 12th",
@@ -34,17 +34,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154135"
-    },
-    {
-      "auction_date": "Auctions on November 12th",
-      "property_address": "1320 Fenwick Ln Unit 402  Silver Spring MD 20910",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$40K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154171"
     },
     {
       "auction_date": "Auctions on November 12th",
@@ -254,17 +243,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154242"
-    },
-    {
-      "auction_date": "Auctions on November 17th",
-      "property_address": "9201 Three Oaks Drive  Silver Spring MD 20901",
-      "auction_time": "1:30 PM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$50K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=153991"
     },
     {
       "auction_date": "Auctions on November 17th",
@@ -628,17 +606,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154163"
-    },
-    {
-      "auction_date": "Auctions on November 23rd",
-      "property_address": "204 JOHNSBERG LN  BOWIE MD 20721",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$41.0K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154253"
     },
     {
       "auction_date": "Auctions on November 23rd",
