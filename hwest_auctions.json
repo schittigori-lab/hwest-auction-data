@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-11-10T19:12:03Z",
-  "total_auctions": 72,
+  "last_updated": "2026-11-11T00:23:56Z",
+  "total_auctions": 70,
   "auctions": [
-    {
-      "auction_date": "Auctions on November 10, 2026",
-      "property_address": "9333 BAY AVE  NORTH BEACH MD 20714",
-      "auction_time": "9:15 AM",
-      "auction_location": "175 MAIN ST, PRINCE FREDERICK, MD 20678",
-      "bid_deposit": "$41K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154224"
-    },
-    {
-      "auction_date": "Auctions on November 10, 2026",
-      "property_address": "1301 Longfellow Street NW. #310  Washington DC 20011",
-      "auction_time": "11:00 AM",
-      "auction_location": "5335 WISCONSIN AVENUE-NW, STE 440, WASHINGTON, DC 20015",
-      "bid_deposit": "$20K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "(703) 777-7101",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154187"
-    },
-    {
-      "auction_date": "Auctions on November 10, 2026",
-      "property_address": "908 SERO ESTATES DRIVE  FORT WASHINGTON MD 20744",
-      "auction_time": "2:00 PM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "10%",
-      "principal_balance": "$647,200.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154237"
-    },
     {
       "auction_date": "Auctions on November 12th",
       "property_address": "1208 ACCOKEEK LANDING DRIVE  ACCOKEEK MD 20607",
@@ -760,6 +727,17 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154274"
+    },
+    {
+      "auction_date": "Auctions on November 25th",
+      "property_address": "2942 CRAIGLAWN ROAD  SILVER SPRING MD 20904",
+      "auction_time": "1:00 PM",
+      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
+      "bid_deposit": "10%",
+      "principal_balance": "$594,000.00",
+      "substitute_trustee": "William M. Savage, et al.",
+      "trustee_phone": "(410) 769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=154288"
     },
     {
       "auction_date": "Auctions on November 25th",
