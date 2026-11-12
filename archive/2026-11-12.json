@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T01:47:09Z",
-  "total_auctions": 67,
+  "last_updated": "2026-11-12T19:26:24Z",
+  "total_auctions": 65,
   "auctions": [
     {
       "auction_date": "Auctions on November 12, 2026",
@@ -12,17 +12,6 @@
       "substitute_trustee": "Jason A. Pardo",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154309"
-    },
-    {
-      "auction_date": "Auctions on November 12, 2026",
-      "property_address": "812 HYDE COURT  SILVER SPRING MD 20902",
-      "auction_time": "10:30 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$7K",
-      "principal_balance": "",
-      "substitute_trustee": "Seth W. Diamond",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154241"
     },
     {
       "auction_date": "Auctions on November 12, 2026",
@@ -67,17 +56,6 @@
       "substitute_trustee": "",
       "trustee_phone": "410-769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154005"
-    },
-    {
-      "auction_date": "Auctions on November 12, 2026",
-      "property_address": "176 Blarney Ct  Taneytown MD 21787",
-      "auction_time": "2:30 PM",
-      "auction_location": "200 WILLIS ST (HISTORIC COURTHOUSE) WESTMINSTER, MD 21157",
-      "bid_deposit": "$33.5K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154193"
     },
     {
       "auction_date": "Auctions on November 12, 2026",
