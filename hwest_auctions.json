@@ -1,75 +1,9 @@
 {
-  "last_updated": "2026-11-12T19:26:24Z",
-  "total_auctions": 65,
+  "last_updated": "2026-11-13T00:51:22Z",
+  "total_auctions": 60,
   "auctions": [
     {
-      "auction_date": "Auctions on November 12, 2026",
-      "property_address": "1208 ACCOKEEK LANDING DRIVE  ACCOKEEK MD 20607",
-      "auction_time": "10:00 AM",
-      "auction_location": "FRONT OF THE DUVAL WING OF THE COURTHOUSE COMPLEX 14735 MAIN ST, UPPER MARLBORO, MD 20772",
-      "bid_deposit": "$25K",
-      "principal_balance": "",
-      "substitute_trustee": "Jason A. Pardo",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154309"
-    },
-    {
-      "auction_date": "Auctions on November 12, 2026",
-      "property_address": "12912 Boggy Trail Way  Germantown MD 20876",
-      "auction_time": "11:00 AM",
-      "auction_location": "50 MARYLAND AVENUE, ROCKVILLE, MD 20850",
-      "bid_deposit": "$35K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154135"
-    },
-    {
-      "auction_date": "Auctions on November 12, 2026",
-      "property_address": "4003 GRANTLEY ROAD  BALTIMORE MD 21215",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "10%",
-      "principal_balance": "$131,442.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154040"
-    },
-    {
-      "auction_date": "Auctions on November 12, 2026",
-      "property_address": "5502 SINCLAIR GREENS DRIVE  BALTIMORE MD 21206",
-      "auction_time": "11:30 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "10%",
-      "principal_balance": "$297,547.00",
-      "substitute_trustee": "William M. Savage, et al.",
-      "trustee_phone": "(410) 769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154041"
-    },
-    {
-      "auction_date": "Auctions on November 12, 2026",
-      "property_address": "3432 WILKENS AVENUE  BALTIMORE MD 21229",
-      "auction_time": "11:45 AM",
-      "auction_location": "100 N CALVERT ST, (COURTHOUSE WEST), BALTIMORE, MD 21202",
-      "bid_deposit": "$10K",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "410-769-9797",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154005"
-    },
-    {
-      "auction_date": "Auctions on November 12, 2026",
-      "property_address": "3422 WINTER MOSS COURT  ABINGDON MD 21009",
-      "auction_time": "3:30 PM",
-      "auction_location": "20 W COURTLAND ST, BEL AIR, MD 21014",
-      "bid_deposit": "10%",
-      "principal_balance": "",
-      "substitute_trustee": "",
-      "trustee_phone": "",
-      "detail_url": "https://app.hwestauctions.com/details.php?id=154042"
-    },
-    {
-      "auction_date": "Auctions on November 13th",
+      "auction_date": "Auctions on November 13, 2026",
       "property_address": "202 Bowline Dr  Cambridge MD 21613",
       "auction_time": "12:30 PM",
       "auction_location": "206 HIGH ST. CAMBRIDGE, MD 21613",
@@ -80,7 +14,7 @@
       "detail_url": "https://app.hwestauctions.com/details.php?id=154223"
     },
     {
-      "auction_date": "Auctions on November 13th",
+      "auction_date": "Auctions on November 13, 2026",
       "property_address": "3405 CHURCH HILL ROAD  CHURCH HILL MD 21623",
       "auction_time": "2:30 PM",
       "auction_location": "200 N. COMMERCE STREET, CENTREVILLE, MD 21617",
@@ -694,6 +628,17 @@
       "substitute_trustee": "William M. Savage, et al.",
       "trustee_phone": "(410) 769-9797",
       "detail_url": "https://app.hwestauctions.com/details.php?id=154348"
+    },
+    {
+      "auction_date": "Auctions on December 1st",
+      "property_address": "8326 Broad Neck Rd  Chestertown MD 21620",
+      "auction_time": "12:30 PM",
+      "auction_location": "103 N. CROSS ST, CHESTERTOWN, MD 21620",
+      "bid_deposit": "$20.5K",
+      "principal_balance": "",
+      "substitute_trustee": "",
+      "trustee_phone": "410-769-9797",
+      "detail_url": "https://app.hwestauctions.com/details.php?id=154140"
     },
     {
       "auction_date": "Auctions on December 2nd",
